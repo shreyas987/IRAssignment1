@@ -1,0 +1,61 @@
+<doc url="https://www.dpi.nsw.gov.au/animals-and-livestock/horses/health-and-disease/influenza/summary-of-the-200708-ei-outbreak" parent_folder="web3" id="file17334858" filename="summary-of-the-200708-ei-outbreak">
+<p> Summary of the 2007/08 Equine Influenza Outbreak </p>
+<p> Introduction </p>
+<p> On 24 August 2007, a veterinarian reported to NSW Department of Primary Industries (NSW DPI) that he had observed sick horses at Centennial Park in Sydney. The report followed an outbreak of equine influenza (EI) in Japan, the import of breeding stallions from Japan into quarantine and reports that some of these stallions at the Eastern Creek Quarantine Station were showing signs of EI. </p>
+<p> NSW DPI and Rural Lands Protection Board (RLPB) veterinary staff began an immediate investigation and later the same day, laboratory testing at the NSW DPI veterinary laboratory confirmed that the horses at Centennial Park were infected with EI. </p>
+<p> The outbreak that eventuated was the most serious emergency animal disease Australia has experienced in recent history. At its peak, 47,000 horses were infected in NSW on 5943 properties, and horse owners and industry workers were facing dark times with major impacts on their livelihood and lifestyle. </p>
+<p> The campaign led by NSW DPI to eradicate the disease was the largest of its type ever undertaken in Australia, using the latest laboratory, vaccine, surveillance, mapping and communication technologies. </p>
+<p> The disease was eradicated within six months well ahead of predictions and by July 2008 horse industry operations had returned to normal. </p>
+<p> About equine influenza </p>
+<p> Equine influenza (EI) is an acute, highly contagious, viral disease which can cause rapidly spreading outbreaks of respiratory disease in horses and other equine species. EI is exotic to Australia and would have a major impact on the Australian horse industry if it were to become established here. </p>
+<p> The main clinical signs are usually a sudden increase in temperature (38.5°C or higher); a deep, dry, hacking cough; and a watery nasal discharge, which may later become mucopurulent. Other signs can include depression, loss of appetite, laboured breathing, and muscle pain and stiffness. </p>
+<p> Humans do not get infected with equine influenza. However, humans can physically carry the virus on their skin, hair, clothing and shoes, and can therefore transfer the virus to other horses. </p>
+<p> Course of the outbreak </p>
+<p> Immediately on suspicion of EI infection at Centennial Park, a well planned operation was commenced with the objective of eradicating the disease. A well-trained and prepared first response team was called up and quickly operational, working from the pre-existing Australian Veterinary Emergency Plan (AUSVETPLAN). </p>
+<p> The NSW Chief Veterinary Officer imposed an immediate state-wide horse movement lockdown on all horse movements and set up a State Disease Control Headquarters at Orange and a Local Disease Control Centre at Menangle. The standstill on horse movements was simultaneously extended across the whole country. </p>
+<p> Veterinary investigators launched a major exercise to trace the spread of the disease. Over the next few days the number of properties with infected horses rapidly increased as DPI veterinary investigations revealed new cases throughout the Sydney basin, central coast, northern slopes and north west NSW. </p>
+<p> These infections were mainly due to contact with other infected horses before the virus was detected, on 24 August. People unwittingly carrying the virus and airborne spread over short distances also allowed the virus to spread. </p>
+<p> Movement and quarantine restrictions initially kept most new infections close to already infected properties, although a few infections caused by prior horse movements soon appeared much further away in new areas such as Parkes, Moonbi, Dubbo and Mudgee. </p>
+<p> By the end of August, infection had spread to many parts of Sydney, the NSW Central Coast, and isolated areas in the Hunter Valley. Infection was spreading rapidly in some areas, and there were 18 Restricted Areas, and 488 infected horses on 41 known properties across NSW. </p>
+<p> Concentration of horses and adherence to good biosecurity practice were important factors in the rate of spread in particular areas. Infection quickly spread though the Dubbo district for example, where large numbers of horses were in close proximity. However at Mudgee, the horse population was less dense and there was much better adherence to quarantine standards. The spread at Mudgee cleared much more quickly. </p>
+<p> Infection continued to spread during the first two weeks of September, but it was increasingly clear that the infection was largely confined to a belt from Sydney, through the Hunter region and into North Western NSW. </p>
+<p> From 21 September affected areas were zoned according to the risk of infection: </p>
+<p> 'purple' and 'red' zones were infected areas </p>
+<p> 'amber' zones were buffer areas around infected areas </p>
+<p> 'green' zones were areas that were not infected </p>
+<p> As the outbreak progressed, horse movements were carefully managed and only permitted where the risk of transferring disease to another area was very low. </p>
+<p> The rate of new infections peaked on 24 September and in late September, vaccination was added to the control strategy to bolster the effectiveness of buffer zones that formed containment lines around the majority of infected areas. </p>
+<p> The number of new infected premises recorded each week of the outbreak to the end of December 2007. A 3-week rolling average number of new cases is also shown (red line). The rate of new infections peaked on 24 September, week 5 of this graph. </p>
+<p> In early October new infections were confirmed at Barmedman and at Wellington. The distance from other infected properties indicates the virus was transferred on people or equipment to these locations. Strict adherence to mandatory biosecurity precautions would have prevented these new pockets from developing. </p>
+<p> The battle waged in the balance in October, but by the end of the month a declining rate of new infections indicated that the NSW DPI control strategy was containing this highly infectious virus. By early November, it was possible to shrink the red zone by 40%. </p>
+<p> Progress continued through December, with the last property infected identified on 9 December. On 1 February, interstate movements were freed up, and large parts of NSW were changed to a ‘white zone’ indicating their effective freedom from EI infection. </p>
+<p> NSW was finally declared free of EI on 28 February, although horse owners were required to notify all horse movements until the end of June. </p>
+<p> It is expected that international requirements for proof-of-freedom will be met by the end of December 2008. Until then all reports of horses with signs consistent with EI are being fully investigated. To date 44 properties have been checked and all have returned negative results. </p>
+<p> Poster </p>
+<p> This poster, 'Equine influenza - the story of a disease response', shows the time frame of the equine influenza control and eradication plan carried out between August 2007 and June 2008. </p>
+<p> Was it worth it? </p>
+<p> If EI became established in Australia, horse owners would face increased costs for the care and treatment of sick horses and many would face regular vaccination of their horses to enable them to participate in events. </p>
+<p> Like human influenza virus, EI virus is prone to mutation and if EI became endemic in the Australian horse population, it is likely that mutation would eventually render current vaccines ineffective, requiring new vaccines to be developed. </p>
+<p> Even with an effective vaccine, it is unlikely that enough horses would be vaccinated to protect highly valuable animals such as peak equestrian performers and the racing industry from contact with infected horses. </p>
+<p> Countries where EI is present face regular epidemics of the disease when a new strain of the virus emerges. Although EI is common in these countries, these epidemics still disrupt horse events, with the associated loss of income and flow-on effects experienced during the Australian outbreak. </p>
+<p> The control strategy implemented in NSW and Queensland during the 2007-08 outbreak of EI contained the outbreak to a relatively limited area of Australia. The impact of the outbreak and control measures on individual horse owners, the horse industry and associated sectors in NSW should not be understated, this impact has to be balanced against the impact of this highly infectious disease on the rest of Australia. </p>
+<p> Keys to success </p>
+<p> Success in the control of EI was due to a rapid response, based on a thorough and well rehearsed plan (AUSVETPLAN). Cooperation from the horse industry and all associated sectors was also a major contributing factor. Other key factors include the following </p>
+<p> Locking down on all horse movements restricted the spread of EI to a defined area of NSW and Queensland. Cooperation of horse owners in abiding by the lockdown was extremely important. </p>
+<p> Quarantining infected properties and infected areas also helped reduce spread. </p>
+<p> From September, zoning on the basis of risk allowed the lockdown to be eased in areas where there was no EI infection (green zone), while maintaining the restrictions on infected and buffer zones (red and amber zones). Movements were also freed up within the purple zone, where the chance of infection was much higher. This allowed some normal activities, such as breeding, to go ahead. </p>
+<p> Buffer zones, based on geographic features, horse-free areas and strategic vaccination allowed the infection to be held within containment lines. </p>
+<p> New rapid laboratory tests enabled the accurate detection of infected animals using blood tests. It was also possible to distinguish infected from vaccinated horses. Rapid laboratory testing was critical in the initial confirmation of the EI outbreak and in surveillance throughout the control program. Surveillance information provided confidence in what was being observed in the field and reported by the horse-owning public. </p>
+<p> Team effort </p>
+<p> Over 2000 people were deployed in the NSW control program, working at one of the state and local disease centres, nine forward command posts, 14 local vaccine centres and on affected properties. They included the following personnel: </p>
+<p> Roads & Transport Authority </p>
+<p> More than 1500 people from the horse industries worked as part of the EI control operation. Their horse experience or administration skills were well utilised. </p>
+<p> 16,000 movement permits were processed. </p>
+<p> Over 50,000 horses were vaccinated. </p>
+<p> 132,000 laboratory tests were carried out, with as many as 3,000 per day being done at the peak of operations. </p>
+<p> 45 zone progression cases were prepared and submitted for consideration by the national authorities. Each case involved the assembly of a detailed case, supported by comprehensive surveillance. </p>
+<p> 300 media releases were issued, resulting in thousands of radio, television and press interviews. </p>
+<p> 58 public meetings were held, attended by 5,660 people. </p>
+<p> 50 publications were prepared including factsheets, posters and signs. In addition, numerous press advertisements were prepared. </p>
+<p> There were 685,000 unique ‘page views’ generated for the EI home page alone. This does not include views of other web pages, fact sheets and multimedia products available from the EI website. </p>
+<p> Over 62,000 calls were made to the main EI hotline. Many other calls were directed to movements staff, Forward Command Posts and the Local Disease Control Centre. </p>

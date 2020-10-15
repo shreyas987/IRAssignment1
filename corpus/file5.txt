@@ -1,0 +1,26 @@
+<doc url="https://www.usatoday.com/story/news/nation/2020/03/11/coronavirus-pandemic-world-health-organization/5011903002/" parent_folder="web1" id="file17334768" filename="5011903002">
+<p> Coronavirus has been declared a pandemic: What does that mean, and what took so long? </p>
+<p> Coronavirus now pandemic as number of cases surpass 100,000 </p>
+<p> The coronavirus is now characterized as a pandemic as the WHO director general announces more than 100,000 cases in over 100 countries. </p>
+<p> A pandemic is a global outbreak of a serious new illness that requires “sustained transmission throughout the world," Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases, told USA TODAY in February. </p>
+<p> In the minds of many, the word "pandemic" is closely connected to the 1918 flu pandemic that killed tens of millions of people, Fauci said. </p>
+<p> But by definition, a pandemic doesn't require that scale of destruction. In reality, it's a loosely defined term. </p>
+<p> "We cannot say this loudly enough, or clearly enough, or often enough: all countries can still change the course of this pandemic," reads a statement from Tedros Adhanom Ghebreyesus, director-general of WHO. </p>
+<p> Tedros said WHO was aware the word could "cause unreasonable fear, or unjustified acceptance that the fight is over," if incorrectly used. </p>
+<p> Here's what you need to know about why the spread of the new coronavirus has been declared a pandemic: </p>
+<p> Why did it take so long for the coronavirus to be called a pandemic? </p>
+<p> WHO cited inaction as a major reason for the timing of the declaration. </p>
+<p> "WHO has been assessing this outbreak around the clock and we are deeply concerned both by the alarming levels of spread and severity, and by the alarming levels of inaction," Tedros said in a statement. </p>
+<p> "We have therefore made the assessment that #COVID19 can be characterized as a pandemic." </p>
+<p> The declaration comes as coronavirus cases are quickly increasing around the world. Infections outside China have increased 13-fold in two weeks, Tedros said. In that same time, the number of countries hit by the outbreak has tripled. </p>
+<p> As of Wednesday, there were more than 118,000 cases spread out over 114 countries, Tedros said. More than 4,000 people have died. </p>
+<p> WHO expects the numbers to grow, Tedros said. </p>
+<p> The organization has defined a pandemic as "the worldwide spread of a new disease." But there is no strict definition for how serious the illness should be, and earlier pandemics have had varying fatality rates. </p>
+<p> A disease spreading around the world may not be as unusual as it sounds, said William Schaffner, an infectious-disease specialist at Vanderbilt University. </p>
+<p> Advances in technology have made it easier to detect and track new diseases, he told USA TODAY in February. It's possible that some diseases have circled the globe undetected, he said. </p>
+<p> Is a pandemic different from an epidemic? </p>
+<p> Yes. While an epidemic describes an illness affecting a defined region, a pandemic has a global impact. </p>
+<p> In February, Fauci explained why coronavirus hadn't yet met the definition of a pandemic. At that time, the virus' spread in other countries had not yet been sustained for a significant amount of time. And because many of the cases outside China were related to travel, the global impact wasn't yet considered widespread. </p>
+<p> That has evolved in recent weeks. In the United States, COVID-19 cases now include people who were traveling to an affected region, close contacts of a known case, and infections acquired in the community with an unknown source, the CDC says. </p>
+<p> You don't need a face mask unless you have COVID-19 and are showing symptoms. Buying up masks takes away precious materials from the health workers who need them most. </p>
+<p> Contributing: Ken Alltucker, Jayne O'Donnell, David Jackson and Grace Hauck </p>

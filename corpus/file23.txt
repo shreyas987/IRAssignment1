@@ -1,0 +1,34 @@
+<doc url="https://www.nytimes.com/2020/02/28/health/coronavirus-pandemic-epidemic.html" parent_folder="web1" id="file17334740" filename="coronavirus-pandemic-epidemic.html">
+<p> Is the Coronavirus an Epidemic or a Pandemic? It Depends on Who’s Talking </p>
+<p> Last month, the World Health Organization stopped short of calling the outbreak a pandemic. Experts weigh in on the debate and explain the significance of the terms. </p>
+<p> All eyes have been on the coronavirus since it crept up in Wuhan, China, in late 2019. Since then, the virus has sickened tens of thousands of people in more than three dozen countries, and its quick advance across Asia, the Middle East and Europe has raised fears that a pandemic could be on the horizon. </p>
+<p> The World Health Organization has referred to the outbreak as an “epidemic” as opposed to a “pandemic.” But late last month, it increased its assessment of the global risk of spread and the risk of impact of the coronavirus outbreak from “high” to “very high.” </p>
+<p> What’s the difference between an epidemic and a pandemic? </p>
+<p> According to the W.H.O., an epidemic is explained as a regional outbreak of an illness that spreads unexpectedly. The C.D.C. calls it “an increase, often sudden, in the number of cases of a disease above what is normally expected” in that area. </p>
+<p> In 2010, the W.H.O. defined a pandemic as “the worldwide spread of a new disease” that affects large numbers of people. The C.D.C. says it is “an epidemic that has spread over several countries or continents, usually affecting a large number of people.” </p>
+<p> “Typically, an outbreak becomes an epidemic when it becomes quite widespread in a particular country, sometimes in a particular region, like Zika,” said Lawrence O. Gostin, a professor of global health law at Georgetown University, said. “Whereas a pandemic is thought to be a wide geographic spread of a disease on many parts of the world, many continents.” </p>
+<p> Who can declare a pandemic? </p>
+<p> Both terms are often used in reference to the coronavirus outbreak, but how they are used is subjective, and there are no hard and fast rules on when to use them, Mr. Gostin said. </p>
+<p> Last month, the W.H.O. declared the outbreak a global health emergency. Last week, Tedros Adhanom Ghebreyesus, the director-general of the W.H.O., said the decision whether to use the word “pandemic” was based on “an ongoing assessment” of the geographical spread of the virus, the severity of its effects and its impact on society. </p>
+<p> He added: “Does this virus have pandemic potential? Absolutely, it has. Are we there yet? From our assessment, not yet.” </p>
+<p> So far, health officials have not witnessed “the uncontained global spread” of the virus, or evidence of “large-scale severe disease or death,” Dr. Tedros said. </p>
+<p> What’s stopping the W.H.O. from using ‘pandemic’? </p>
+<p> According to Mr. Gostin, there are two reasons Dr. Tedros stopped short of calling the outbreak a pandemic: Because the outbreak can still be contained, and to try to avoid unnecessary panic. </p>
+<p> “He wanted to create a seriousness, a purpose, but not an overreaction,” Mr. Gostin said. “Not more travel bans. Not more closures of cities. Not more drain on human rights and economic activity.” </p>
+<p> Mr. Gostin said the outbreak was still containable, though other experts have disputed that assertion. But if the outbreak reaches a level where it could no longer be controlled, it would move into a pandemic phase. </p>
+<p> The W.H.O. no longer uses a system of six phases, which ranged from Phase 1 — no reports of animal influenza causing human infections — to Phase 6, a pandemic, according to Tarik Jasarevic, a spokesman for the W.H.O. </p>
+<p> “Groups in various organizations are working to define pandemic for this novel virus, which could take some time,” Mr. Jasarevic said. </p>
+<p> Does it matter what we call it? </p>
+<p> The terms epidemic and pandemic imply different approaches to a health crisis, said Dr. Jennifer Nuzzo, a senior scholar at the Johns Hopkins Center for Health Security. </p>
+<p> An epidemic suggests that the virus may be geographically limited, and that intervention by health agencies could help stop the spread. For a pandemic, where many places could be affected, there may be consequences for how many people or how much money or supplies are available, she said. </p>
+<p> When an outbreak covers the globe, international groups like the W.H.O. and the United Nations have to divide their resources across greater territory than during a regional epidemic, she said. That would make a pandemic far more difficult to manage. </p>
+<p> The approach to dealing with the pathogen could also be different, Dr. Nuzzo said. If cases are everywhere, the authorities might stop trying to prevent it from entering a country and focus instead on trying to treat illness, slow the pathogen’s spread and protect vulnerable people. </p>
+<p> Where has the coronavirus spread? </p>
+<p> There have been more than 80,000 confirmed cases of the coronavirus around the world, according to a Feb. 25 report from the W.H.O. The majority of those cases have been reported in China, where more than 2,700 people have died. </p>
+<p> Beyond China’s borders, the virus has spread to 46 countries across Asia, Europe, the Middle East and the Americas, killing at least 57 people. </p>
+<p> Should people be worried? </p>
+<p> “It’s not so much of a question of if this will happen anymore but rather more of a question of exactly when this will happen,” said Dr. Nancy Messonnier, the director of the National Center for Immunization and Respiratory Diseases. </p>
+<p> Cases in the United States are going to require an increase in public health measures, said Dr. Peter Rabinowitz, professor of environmental and occupational health sciences at University of Washington. </p>
+<p> Health officials are still determining whether some countries with coronavirus cases will stabilize, or whether new infections will drive cases up significantly. </p>
+<p> “The situation could definitely get worse and that needs to be understood,” Dr. Rabinowitz said. “At the same time, it’s sufficiently concerning now that preparations should be underway to be ready for a worsening situation.” </p>
+<p> Daniel Victor and Sui-Lee Wee contributed reporting. </p>

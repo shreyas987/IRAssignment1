@@ -1,0 +1,263 @@
+<doc url="https://www.health.nsw.gov.au/Infectious/controlguideline/Pages/influenza.aspx" parent_folder="web3" id="file17334860" filename="influenza.aspx">
+<p> NSW Health </p>
+<p> Factsheet </p>
+<p> Influenza control guideline </p>
+<p> Control Guideline for Public Health Units </p>
+<p> Public health priority: Routine. </p>
+<p> PHU response time: Enter cases on NDD within 3 working days of notification. Respond to a report of an outbreak in a residential care facility on the same day. </p>
+<p> Prologue </p>
+<p> When these Guidelines were first developed in 2009, they were directed specifically at the pandemic influenza virus A/H1N1 influenza 2009 (pH1N1). This 2011 version of the Guidelines is generic for influenza infection of all types because of the many similarities between the pandemic influenza strain and existing seasonal influenza strains, and the likelihood that there will be co-circulation of strains in 2011 and beyond. </p>
+<p> Since 1 December 2010 Australia has been in the standby 'ALERT' phase of its pandemic plan. The key element of the ALERT phase is heightened vigilance for a new influenza virus strain or a significant change in a currently circulating strain, which may be of public health concern. This is consistent with the WHO's recommendation for ongoing vigilance in the early post-pandemic period. Further information on the ALERT phase can be found in the Australian Health Management Plan for Pandemic Influenza. </p>
+<p> The best protection against pH1N1 and other influenza strains is vaccination. Annual influenza vaccination is recommended for any person aged six months and over who wishes to reduce the likelihood of becoming ill with influenza. Influenza vaccination is particularly recommended for people at risk of complications from influenza infection, people who may potentially transmit influenza to those at high risk of complications from influenza (e.g. healthcare workers), poultry workers, people providing essential services and some industries, and travellers, as guided by The Australian Immunisation Handbook. The 2011 trivalent seasonal influenza vaccine again contains the pH1N1 strain and is free under the National Immunisation Program (NIP) for certain groups at risk for severe disease, including older Australians, pregnant women, Aboriginal and Torres Strait Islander People aged ≥15 years, and individuals aged ≥6 months with specified underlying medical conditions predisposing to severe influenza. The influenza vaccine is also available to others if they wish to pay for a prescription or obtain the vaccine through workplace or other programs. </p>
+<p> Following the investigation of the excess number of cases of febrile reactions to the 2010 seasonal influenza vaccine in children, the Australian Technical Advisory Group on Immunisation (ATAGI) has advised that children aged between 6 months to less than 5 years should not receive the 2011 Fluvax® vaccine. Fluvax® is not registered for use in this age group in 2011. The alternative influenza vaccines available for paediatric use in the NIP are Vaxigrip® or Influvac®. ATAGI has also advised a strong preference for the use of either Vaxigrip® or Influvac® in children aged 5 years to less than 10 years under the NIP. Fluvax® may be used in children aged 5 years to less than 10 years when no timely alternative seasonal influenza vaccine is available. The full ATAGI statement which includes the rationale for these recommendations, is available here . </p>
+<p> 1. Summary </p>
+<p> Public health priority </p>
+<p> Routine </p>
+<p> Enter data within 5 working days - for individual cases in most community-based settings. </p>
+<p> High </p>
+<p> Act as soon as possible, generally within one working day - for outbreaks in high-risk settings such as health care facilities, boarding schools, special schools, residential care facilities, and Indigenous communities or health care workers in high risk settings (see Section 12. Special situations). </p>
+<p> Urgent </p>
+<p> Act as soon as possible, respond within 24 hours - following the identification of a new subtype or an untypable influenza isolate. </p>
+<p> Case management </p>
+<p> Cases will be managed directly by their health care providers, with a focus on patients with influenza-like illness (ILI) who are at increased risk for severe disease, or who have moderate to severe disease. </p>
+<p> Public health action will focus on outbreaks in high-risk settings (as above). </p>
+<p> Contact management </p>
+<p> None routinely, except in specific high-risk settings. </p>
+<p> Remind health care providers to be mindful of appropriate management of close contacts who are in vulnerable groups at increased risk of severe disease, including instructions to present early for testing and treatment should they develop symptoms. </p>
+<p> 2. The disease </p>
+<p> Infectious agent </p>
+<p> Influenza viruses are composed of an RNA core surrounded by an envelope containing two surface glycoproteins — haemagglutinin and neuraminidase. The RNA encoding these glycoproteins has the ability to rapidly mutate and produce minor or major changes to the antigenic structure, known as antigenic drift and antigenic shift, respectively. </p>
+<p> Mode of transmission </p>
+<p> Influenza virus are most commonly spread from person-to-person by inhalation of infectious droplets produced while talking, coughing and sneezing. Transmission may also occur through direct and indirect (fomite) contact. Aerosol transmission within confined spaces may be important. The virus may persist on hard surfaces for 1-2 days, particularly in cold or low humidity conditions. The virus may remain viable on hands for 5 minutes. </p>
+<p> Incubation period </p>
+<p> The incubation period for infection with influenza ranges from 1 to 7 days, commonly 2-3 days. </p>
+<p> Infectious period </p>
+<p> Patients may shed influenza virus for up to 24 hours (1 day) before onset of symptoms and until 7 days after the onset of symptoms. Viral shedding in adults peaks in the first 1 to 2 days after symptom onset, then reduces to very low levels by 5 days after onset of symptoms. Not all cases of influenza infection exhibit fever, but when it is present, it is correlated with viral shedding. </p>
+<p> Children and younger adults may shed influenza virus for 10 or more days, and immunosuppressed persons may shed virus for weeks. However, the ability to transmit infection is likely to be higher when respiratory symptoms are present. </p>
+<p> Patients are considered no longer infectious if 24 hours have elapsed since the resolution of fever, provided either: </p>
+<p> have received 72 hours of anti-influenza medication or </p>
+<p> 5 days have elapsed since onset of respiratory symptoms. </p>
+<p> Clinical presentation </p>
+<p> Symptoms of influenza typically include fever, cough, fatigue, sore throat, headache, myalgia, and rigors or chills. Diarrhoea and/or vomiting may also occur. Illness can range from asymptomatic infection to severe disease. </p>
+<p> Pneumonia may develop directly from influenza infection (primary influenza pneumonia) or from secondary bacterial infection. Acute respiratory distress syndrome (ARDS) may develop several days after disease onset. </p>
+<p> Persons at increased risk of disease </p>
+<p> Under the NIP, the following groups are regarded as vulnerable groups at increased risk of severe disease from influenza and are eligible for free seasonal influenza vaccine: </p>
+<p> persons aged ≥65 years of age </p>
+<p> Aboriginal or Torres Strait Islander people ≥15 years of age </p>
+<p> pregnant women </p>
+<p> people aged 6 months and over who have medical conditions predisposing to severe influenza, such as: </p>
+<p> diabetes mellitus </p>
+<p> chronic metabolic diseases </p>
+<p> people with impaired immunity (including, cancers, HIV infection, immunosuppressive drugs) </p>
+<p> chronic neurological conditions </p>
+<p> children aged 6 months to 10 years on long term aspirin therapy. </p>
+<p> While not eligible for free influenza vaccine under the NIP, otherwise healthy children aged less than 5 years of age can also be considered to be at increased risk for severe disease, compared to other age groups, evidenced by higher hospitalisation rates. [Note that a NSW-funded seasonal influenza vaccination program for all children aged 6 months to less than 5 years was offered in 2018] </p>
+<p> Similarly, during the 2009 pH1N1 pandemic, people with morbid obesity were identified to be an additional group at risk of complications. </p>
+<p> Health care workers </p>
+<p> Healthcare workers (HCW), defined as those workers providing clinical care, are considered to be a group of special interest, since vulnerable patients who are exposed to a HCW with influenza can become infected. Additionally, reduction in HCW numbers due to illness will adversely affect the care of vulnerable patients. [Note that under the NSW Occupational Assessment, Screening and Vaccination Against Specified Infectious Diseases (PD2018_009) policy directive, influenza vaccination is required annually for NSW Health workers in Category A High Risk positions by June 1 each year]. </p>
+<p> 3. Routine prevention activities </p>
+<p> The best protection against influenza is vaccination. </p>
+<p> Hand hygiene and respiratory/cough etiquette are thought to reduce transmission of influenza and voluntary home isolation of those with the illness may have significant impact on reducing disease transmission. </p>
+<p> Key prevention activities may include: </p>
+<p> public messages encouraging: </p>
+<p> timely vaccination, especially for those most at risk of severe disease </p>
+<p> early treatment for people at risk for severe disease </p>
+<p> symptomatic people to not attend school, child care, work or public gatherings </p>
+<p> vaccination of HCWs and implementation of disease control measures around infected HCWs </p>
+<p> emphasising the need for children with ILI to stay at home, and sending home children who present unwell at school or childcare facilities. School/childcare closure and exposure-related school/childcare exclusions are not generally recommended </p>
+<p> recommending to health care providers (both GPs and hospital-based practitioners) that people with ILI who are at increased risk of severe disease should receive early treatment with anti-influenza medications, and other treatment as appropriate </p>
+<p> recommending voluntary home isolation for those who have ILI or diagnosed influenza </p>
+<p> a focus on control of outbreaks in high-risk settings, such as residential care facilities, boarding schools, special schools, Indigenous communities, and hospitals. </p>
+<p> 4. Surveillance </p>
+<p> Objectives </p>
+<p> The objectives of surveillance are to: </p>
+<p> determine and monitor the stage, size and geographical spread of the influenza epidemic in the community </p>
+<p> detect outbreaks in high risk settings and implement appropriate control measures </p>
+<p> better understand the epidemiology of the disease </p>
+<p> determine the severity of the disease to inform appropriate disease control measures and health services planning </p>
+<p> determine the influenza strains circulating in the community to inform vaccine development </p>
+<p> determine resistance patterns of influenza circulating in the community to inform antiviral recommendations </p>
+<p> facilitate further studies, where necessary, to investigate the epidemiology, clinical features, and vaccine effectiveness. </p>
+<p> Methods </p>
+<p> The methods for achieving the surveillance objectives are as follows: </p>
+<p> notifiable disease surveillance systems </p>
+<p> ILI in the community will be monitored by established sentinel general practitioner surveillance systems and emergency department surveillance systems </p>
+<p> circulating influenza strains, resistance patterns, and viral genetic changes will be monitored through public health laboratories and the Melbourne-based WHO Collaborating Centre for Reference and Research on Influenza </p>
+<p> The severity of influenza will be monitored through: he severity of influenza will be monitored through: </p>
+<p> hospitalisation data (e.g. within jurisdictions, sentinel 'FluCAN' hospitals, sentinel state (QLD) data, Australian Paediatric Surveillance Unit (APSU) data) </p>
+<p> ICU data (e.g. within jurisdictions, ANZICS and FluCAN data) </p>
+<p> deaths (e.g. within jurisdictions, ANZICS data and FluCAN data, NSW Births, Deaths and Marriages Registry data) </p>
+<p> outbreaks in high risk settings will be detected by passive reporting from those settings </p>
+<p> vaccine effectiveness will be estimated through data from sentinel surveillance systems, hospitalisations, ICU admissions, the web-based FluTracking system, and the WA Influenza Vaccine Effectiveness WAIVE study. </p>
+<p> 5. Data management </p>
+<p> Confirmed cases of influenza, including available data on typing and subtyping, should be entered into jurisdictional notification databases and relayed to the National Notifiable Diseases Surveillance System (NNDSS). </p>
+<p> 6. Communications </p>
+<p> Positive influenza laboratory results should be reported to the State/Territory disease control unit or relevant public health units (PHU) in a timely fashion, and in accordance with specific jurisdictional notification requirements. </p>
+<p> PHUs shall inform their central State/Territory disease control unit when notified of an outbreak of influenza in a high-risk setting, or in an area with few previously reported cases. </p>
+<p> Where a confirmed case is being managed by a jurisdiction other than that of the case's usual residence, the managing jurisdiction will notify the jurisdiction of residence according to the established protocol for cross-border notification. </p>
+<p> 7. Case definition </p>
+<p> Influenza </p>
+<p> A confirmed case of influenza is defined as a person with influenza virus infection identified by one or more of the following tests: </p>
+<p> From an appropriate respiratory tract specimen: </p>
+<p> isolation of influenza virus by culture </p>
+<p> detection of influenza virus by nucleic acid testing </p>
+<p> detection of influenza virus antigen by fluorescent antibody </p>
+<p> From serological testing: </p>
+<p> IgG seroconversion or a significant increase in antibody level or a fourfold or greater rise in titre to influenza virus </p>
+<p> single high titre by complement fixation testing (CFT) or haemagglutination inhibition (HAI) assay to influenza virus (NSW refer to Section 14. Jurisdiction specific issues). </p>
+<p> Influenza-like illness (ILI) </p>
+<p> Diagnoses of ILI may be used for various purposes, including routine surveillance of influenza activity in the community, case-finding in outbreaks, and for clinical diagnosis and treatment. </p>
+<p> The sensitivity and specificity of particular case definitions of ILI vary, depending on the clinical symptoms or signs that are used as inclusion or exclusion criteria. The positive predictive value of a diagnosis of ILI will also depend on the current prevalence of influenza in the setting under surveillance. </p>
+<p> The choice of particular criteria to define a case of ILI may vary, depending on the settings and the purpose (surveillance or clinical management). </p>
+<p> Common to most case definitions of ILI are an illness, often of rapid onset, with fever and cough. Additional or optional features in case definitions may include chills or rigors, myalgia, fatigue, headache, sore throat and coryza. Note that in the elderly, confusion, anorexia and breathlessness may sometimes be the only signs of influenza. </p>
+<p> An example of a case definition for ILI that has been effectively used to guide clinical detection and treatment of individuals during a community influenza epidemic is: </p>
+<p> fever (>38C or a good history of fever) and </p>
+<p> cough or sore throat, in the absence of any other explanation for symptoms. </p>
+<p> In settings where influenza is being transmitted, this definition is fairly specific but lacks sensitivity, so some influenza cases will be missed. </p>
+<p> 8. Laboratory testing </p>
+<p> Laboratory testing of all potential cases of influenza is neither required nor desirable for public health management. </p>
+<p> It is not necessary to routinely obtain laboratory confirmation of influenza before commencing anti-influenza medications for individual patients. </p>
+<p> Laboratory testing is recommended: </p>
+<p> for a representative sample of ILI patients from sentinel surveillance systems. or a representative sample of ILI patients from sentinel surveillance systems. </p>
+<p> for people with influenza-like illness who are hospitalised or who die. </p>
+<p> for cases or outbreaks in high-risk settings where individuals are at increased risk for severe disease. The number of ill people needing testing to determine the cause of an outbreak is generally low (this will depend on the clinical situation, but five quality samples should suffice). </p>
+<p> for health care workers who work in specific specialised settings (see Health care workers) </p>
+<p> in primary care or outpatient settings where the result will guide clinical management. </p>
+<p> In order to monitor changes in circulating viruses, isolates from both representative and clinically or microbiologically unusual cases of influenza should be provided to the WHO Collaborating Centre for Reference and Research on Influenza for antigenic characterisation and resistance testing. </p>
+<p> 9. Case investigation </p>
+<p> Investigation </p>
+<p> Follow up is not required routinely for single notifications. </p>
+<p> Case treatment </p>
+<p> Anti-influenza medications have been shown to attenuate disease in cases of seasonal influenza if given early in the course of the illness (within 48 hours of developing symptoms). There may be benefit in providing anti-influenza medications to hospitalised patients after 48 hours. </p>
+<p> Consideration should be given to commencing anti-influenza medication in anyone suspected of having influenza who presents within 48 hours of symptom onset. Particular emphasis should be given to treating those who are at risk for severe outcomes i.e., those who: </p>
+<p> have moderate or severe illness (such as those requiring hospital attendance), or are rapidly deteriorating. </p>
+<p> In all cases, clinical judgement is required in the decision to treat with anti-influenza medication. For instance, clinicians should be aware of whether their patient has received influenza vaccination as this will reduce the likelihood that a person has influenza. In situations where oseltamivir resistance is suspected in a case, advice from an infectious diseases physician should be sought. </p>
+<p> Education </p>
+<p> The health care provider should provide the patient with information on the disease, the use of anti-influenza medications (if indicated), and infection prevention and control practices including hand hygiene and respiratory/cough etiquette (see Section 13. References and additional sources of information for factsheets). </p>
+<p> Health care providers should urge patients with ILI to ask close contacts who are at risk of severe disease to present early for treatment should ILI symptoms develop. </p>
+<p> Isolation </p>
+<p> Health care providers should counsel patients who have influenza or ILI to stay at home and keep away from work, school and crowded areas or public gatherings until symptoms have resolved. Ideally, they should be advised to wear a surgical mask when seeking medical attention or when in close company of vulnerable people. </p>
+<p> Healthcare workers with influenza should stay off work for 5 days after symptom onset, or until they are symptom-free, whichever is longer (see also Section 2. The disease). </p>
+<p> People with ILI who work with pigs or poultry should not attend work while they are likely to be infectious. </p>
+<p> People hospitalised with ILI should be nursed in a single room if possible. Where this is not possible, they should be cohorted with other patients with ILI or confirmed influenza infection, maintaining at least 1 m spacing between patients at all times. Patients with ILI should not be co-located with other patients at risk of severe disease. </p>
+<p> 10. Infection prevention and control </p>
+<p> The risk of further transmission of influenza can be minimised by ensuring compliance with 'standard' infection prevention and control precautions, and 'contact' and 'droplet' transmission-based precautions, as outlined in the NHMRC Australian Guidelines for the Prevention and Control of Infection in Healthcare (2010). In accordance with droplet transmission-based precautions it is important that infectious patients wear a surgical mask when not in isolation. </p>
+<p> In addition to these standard practices, the following should be undertaken: </p>
+<p> HCWs should routinely wear a surgical mask, protective eyewear and disposable gloves if they are undertaking an examination that may lead to coughing in an individual with an acute respiratory illness (e.g., collecting nose/throat swabs) </p>
+<p> Infectious patients should wear a surgical mask when not in isolation. </p>
+<p> Signage at the entrance to general practice, emergency departments and outpatient settings requesting patients with ILI to inform reception staff immediately on arrival, to don a surgical mask, and perform hand hygiene. </p>
+<p> Emphasise the importance of hand hygiene and respiratory hygiene/cough etiquette amongst patients and staff. </p>
+<p> P2 or N95 respirators should form part of the ensemble of personal protective equipment (PPE) of all HCWs involved in aerosol-generating procedures, e.g. endotracheal intubation, nebulized medication administration, airway suctioning, bronchoscopy, diagnostic sputum induction, positive pressure ventilation via facemask, and high frequency oscillatory ventilation. These procedures should only be performed in a single room with the door closed (note that the taking of throat/nasal swabs is not considered an aerosol generating procedure). </p>
+<p> Fit checking is the appropriate minimum standard for HCWs using P2 or N95 respirators and should be conducted each time a respirator is donned. Formal fit testing is recommended where available. </p>
+<p> Management of laundry and crockery and cutlery should be performed in accordance with standard precautions. </p>
+<p> Waste </p>
+<p> Management of clinical and related waste must conform to relevant state/territory regulations. Healthcare facilities should also refer to AS/NZS 3816. </p>
+<p> Used tissues should be disposed of in general waste. </p>
+<p> Health care-acquired infection </p>
+<p> If healthcare- or residential care facility-acquired infection is suspected, the facility's infection prevention and control procedures should be reviewed. Staff conducting the review must have a thorough understanding of infection prevention and control practices, be competent in using PPE and should have been vaccinated. </p>
+<p> 11. Contact management </p>
+<p> 12. Special situations </p>
+<p> Schools and Childcare settings </p>
+<p> Schools and childcare settings are prone to experiencing rapid transmission of influenza. Children and staff of schools and childcare centres who have risk factors for severe disease should be strongly encouraged to be vaccinated (NB: see notes in Prologue regarding the 2011 vaccination recommendations for children aged under 5 years and for children aged 5 to under 10 years). </p>
+<p> Children and staff with confirmed influenza or ILI should not attend school or child care. If a child or staff member becomes sick with an ILI at school they should be sent home. </p>
+<p> If an outbreak of ILI is reported in: </p>
+<p> Regular schools and child care settings </p>
+<p> PHU should assess </p>
+<p> Based on the assessment, the PHU may issue a letter for the school highlighting the outbreak, reinforcing control measures (stay away or isolate if sick, hygiene, vaccination, etc.) and urging children and staff at high risk of complications to see their doctor early for treatment if sick </p>
+<p> Boarding schools </p>
+<p> Because of the close nature of the students, outbreaks may spread more rapidly, and special control measures may be required, including: </p>
+<p> PHU should assess </p>
+<p> Based on the assessment, the PHU may issue a letter for the school highlighting the outbreak, reinforcing control measures (stay away or isolate if sick, hygiene, vaccination etc.) and urging children and staff at high risk of complications to see their doctor early for treatment if sick </p>
+<p> Sick children in boarding schools should be sent home where feasible, and the remainder (e.g., those who live far away) should be isolated or cohorted where practicable </p>
+<p> Prophylactic anti-influenza medication should be considered to control outbreaks in dormitories where an outbreak is detected early, but may be less useful where disease is widespread, in which case prophylaxis should be considered for vulnerable students and staff. </p>
+<p> Special schools </p>
+<p> Because there may be large numbers of students with chronic illnesses at risk of severe complications from influenza, special control measures may be required including: </p>
+<p> PHU should assess </p>
+<p> Based on the assessment the PHU may issue a letter for the school/childcare highlighting the outbreak, reinforcing control measures (stay away if sick, hygiene, vaccination etc.), and urging children and staff at high risk of complications to see their doctor early for treatment if sick </p>
+<p> Consider use of prophylactic anti-influenza medication to control outbreaks in specific classes at risk. </p>
+<p> Full or partial school closures are not generally recommended on public health grounds, although it is recognised that they may be considered on logistical grounds by the school. </p>
+<p> NSW Health is also able to assist with providing antivirals but local supplies should be sourced first. Should local supply of Tamiflu be unlikely within 24 hours of declaring the outbreak, the PHU can obtain Tamiflu from the State stockpile by ordering through the NSW Vaccine Centre. </p>
+<p> Health Care Workers </p>
+<p> HCWs with ILI require special consideration because an infectious HCW can expose vulnerable patients to infection and/or be a reflection of a broader outbreak in a health care setting. Patient care may also be adversely impacted by a reduction in health care worker numbers due to illness. </p>
+<p> Prevention </p>
+<p> Prevention of transmission of ILI between patients and HCWs can be achieved by using an approach that includes: </p>
+<p> strong encouragement for HCWs to be vaccinated annually against influenza </p>
+<p> raised awareness among staff, patients and visitors in health care settings about prevention, early detection and exclusion policies, through measures such as education and prominent signage </p>
+<p> good infection prevention and control practices, including use of appropriate PPE and hand hygiene and respiratory/cough etiquette (Section 10. Infection prevention and control) </p>
+<p> early identification and isolation of potentially infectious patients </p>
+<p> early identification and exclusion of potentially infectious staff and visitors from patient contact </p>
+<p> potential reassignment of vulnerable staff away from areas where contact with influenza patients is most likely </p>
+<p> in limited high risk settings (e.g., neonatal intensive care unit or a ward with immunosuppressed patients), contact tracing of vulnerable patients and staff who were exposed to infectious cases, and provision of early treatment, or rarely, post exposure prophylaxis. </p>
+<p> Unvaccinated HCWs who are at increased risk of complications from influenza and who are likely to be in direct contact with infectious influenza patients should be offered vaccination and, if they refuse, considered for redeployment to lower risk activities or environments. Where this is not practical: </p>
+<p> These HCW must ensure that they use appropriate PPE when examining and managing patients with ILI </p>
+<p> Managers must ensure that HCWs who are potentially at increased risk of complications from influenza should not participate in procedures which may generate small particles or aerosols of respiratory secretions in patients with confirmed or suspected influenza, and should not be in the room when such procedures are undertaken. </p>
+<p> HCWs must be advised of their responsibility to identify themselves if they believe they are in a group at risk for severe diseases and take appropriate action to protect themselves and others. </p>
+<p> Management of ill health care workers </p>
+<p> During times of influenza activity, healthcare facilities should ensure HCWs are aware to: </p>
+<p> be alert for symptoms </p>
+<p> exclude themselves from work immediately if they develop an ILI, and report the illness to their supervisor </p>
+<p> be assessed for influenza (e.g. by their GP or occupational health clinic). </p>
+<p> If influenza is diagnosed on clinical grounds: </p>
+<p> Where it is important to facilitate early return to work in areas with critical staffing levels, then swabs should be collected for priority testing for influenza and the HCW should receive anti-influenza medication </p>
+<p> The HCW should exclude themselves from work while infectious. It is recommended that healthcare workers with influenza should stay off work for 5 days or until they are symptom-free, whichever is the longer. Specific risk assessment that takes into account the infectious period of influenza may be undertaken in settings with vulnerable patients (see also Section 2. The disease on infectious period). </p>
+<p> Where clinically appropriate, a negative 'direct' test result (i.e., antigen test or nucleic acid test (NAT)) may allow the HCW to return to work earlier, subject to the risk that they may pose. Note that a negative 'point of care test' result does not have the required sensitivity to be used in this context. </p>
+<p> Contact tracing </p>
+<p> Contact tracing is not routinely required following diagnosis of an ILI in a HCW, unless the HCW was working in certain high risk settings (as described below). </p>
+<p> Post exposure prophylaxis in specialised settings to protect vulnerable patients </p>
+<p> Contact tracing should be considered when patients or staff working in high risk settings have been exposed to a confirmed infectious case of influenza (such high risk settings include hospital wards specifically for people who are immunosuppressed or neonatal wards, but not emergency departments, general wards, theatres or outpatient settings). In these situations: </p>
+<p> Close contacts are defined as unvaccinated patients and HCWs who were exposed to the infectious case within 1 metre for >15 minutes without a mask </p>
+<p> Diagnostic tests for influenza should be prioritised for exposed staff or patients who develop symptoms </p>
+<p> Vulnerable patients who are close contacts should be advised of their risk and, if indicated, in consultation with their health care provider, should be offered early treatment should symptoms develop. Prophylaxis should only be considered where the patient is assessed to have a very high risk of severe disease </p>
+<p> Unvaccinated clinical staff who are deemed close contacts and who are expected to be working on an ongoing basis with high risk patients should be offered prophylaxis and advised to absent themselves from work if symptoms develop within a week following the last exposure, in order to protect vulnerable patients. </p>
+<p> Outbreaks in Health Care Facilities </p>
+<p> If an outbreak occurs in a health care facility, an outbreak management team should be convened, including a senior facility manager, an infection control practitioner and appropriate clinical staff, in consultation with PHU staff as required. Control measures may include: </p>
+<p> case finding and treatment </p>
+<p> isolation and cohorting </p>
+<p> prophylaxis for patients and staff belonging to vulnerable groups </p>
+<p> distribution of information letters and factsheets </p>
+<p> epidemiological studies to determine risks for infection. </p>
+<p> Outbreaks in Indigenous communities </p>
+<p> Key factors to be considered regarding influenza risk in Indigenous communities include: </p>
+<p> the high prevalence of medical conditions that place individuals at risk for severe disease from influenza </p>
+<p> overcrowding, poor hygiene and other environmental conditions that can increase disease transmission and raise attack rates </p>
+<p> access to health care is often reduced due to remoteness and lack of transport and electronic communications infrastructure, and most primary care services have limited service and staff capacity </p>
+<p> many ill people may present late </p>
+<p> efforts should be made to determine the cause of respiratory disease outbreaks in remote communities by ensuring appropriate diagnostic tests are performed early. </p>
+<p> The clinical and public health response to suspected or confirmed influenza outbreaks in the remote community setting should aim to: </p>
+<p> work in collaboration with local health services and community leaders </p>
+<p> encourage early presentation and identification of all ILI cases, particularly in vulnerable community members* </p>
+<p> until laboratory confirmation of the outbreak, test (and treat) ILI cases who fit the clinical case criteria </p>
+<p> treat ILI cases who fit the clinical case criteria and are identified as belonging to vulnerable groups* or who have moderate to severe disease, to enable prompt and appropriate management to reduce the risk of severe complications </p>
+<p> consider providing anti-influenza prophylaxis for vulnerable community members who were close household contacts of an ILI case while infectious. Broader use of anti-influenza prophylaxis in a community setting should be only done in consultation with the communicable disease control area within the relevant State or Territory Health Department. </p>
+<p> consider the use of influenza vaccine as a disease control measure. </p>
+<p> * Note - during outbreaks in aboriginal communities it is recommended that the identification of vulnerable community members should include all individuals with risk factors referred to in Section 3. Routine prevention activities. Children who fall into the 'failure to thrive' category should also be considered as vulnerable to complications of influenza infection. </p>
+<p> Outbreaks on Cruise Ships or other Passenger Vessels </p>
+<p> Cruise ship travel is characterised by large numbers of people in closed and semi-closed settings. As with other close contact environments, these settings can facilitate the transmission of influenza and other respiratory viruses from person-to-person through droplet spread or potentially through contact with contaminated surfaces. </p>
+<p> Prevention </p>
+<p> Cruise ships are recommended to: </p>
+<p> screen oncoming passengers for ILI by questionnaire and assess and manage those who screen positive </p>
+<p> actively promote vaccination for passengers prior to embarkation, especially those considered at high risk to complications of influenza as identified in The Australian Immunisation Handbook. </p>
+<p> provide frequent messages to passengers and crew about hand hygiene and respiratory hygiene/cough etiquette, and the need to seek medical assessment and treatment if they develop respiratory symptoms and fever </p>
+<p> provide ready access to hand hygiene measures throughout the ship (including alcohol-based hand rub and soap and running water). </p>
+<p> Passengers and crew who are vulnerable to influenza infection need to be aware that their attendance on a cruise ship increases the risk that they may come into contact with respiratory viruses. </p>
+<p> Management </p>
+<p> In managing a potential outbreak of influenza on a cruise ship, the following should be considered: </p>
+<p> During the voyage, crew should encourage staff and passengers to immediately report ILI. </p>
+<p> Implementation of good respiratory hygiene and cough etiquette and environmental controls to encourage proper hygiene. </p>
+<p> Passengers and crew who meet the clinical case criteria for ILI during the voyage should be offered anti-influenza medication, be isolated and cared for in single cabins, and be kept separate from other passengers while infectious (see Section 2. The disease). </p>
+<p> On leaving the ship, passengers with ILI should voluntarily isolate themselves from others while infectious, and seek medical advice if required. No restrictions are placed upon well contacts. </p>
+<p> 13. References and additional sources of information </p>
+<p> 14. Jurisdiction specific issues (NSW) </p>
+<p> Influenza </p>
+<p> A confirmed case of influenza is defined as a person with influenza virus infection identified by one or more of the following tests: </p>
+<p> From an appropriate respiratory tract specimen: </p>
+<p> isolation of influenza virus by culture </p>
+<p> detection of influenza virus by nucleic acid testing </p>
+<p> From serological testing: </p>
+<p> IgG seroconversion or a significant increase in antibody level or a fourfold or greater rise in titre to influenza virus </p>
+<p> single high titre (≥ 128 ) by CFT or HAI to influenza virus </p>
+<p> Reinfection period </p>
+<p> Persons with additional PCR laboratory results for influenza which identify a different subtype or strain after a 30 day period should be entered as a newly acquired cases of influenza. </p>
+<p> Any confirmed cases that are identified within 30 days of a previously confirmed case will continue to be treated as a dual infection. </p>
+<p> Any confirmed cases regardless of strain or subtype that are identified using a means other than PCR testing will continue to be treated as a dual infection. </p>
+<p> Previously confirmed cases with additional laboratory notifications after 30 days where subtype is not known or unchanged should not be entered as a new case </p>

@@ -1,0 +1,50 @@
+<doc url="https://www.cnet.com/health/pandemic-what-it-is-and-how-it-affects-you/" parent_folder="web1" id="file17334762" filename="pandemic-what-it-is-and-how-it-affects-you">
+<p> Coronavirus is a pandemic: What that means for you </p>
+<p> COVID-19 is now considered a pandemic according to the WHO -- what that really means for your health and safety. </p>
+<p> For the most up-to-date news and information about the coronavirus pandemic, visit the WHO website. </p>
+<p> But what does it really mean if coronavirus is labeled as a pandemic, and how does that actually affect you? Here, learn the stance of the WHO and CDC on coronavirus as a potential pandemic, and what it means for you now that COVID-19 has been declared one. </p>
+<p> CNET Coronavirus Update </p>
+<p> Get all the latest on the coronavirus that's now been declared a pandemic. </p>
+<p> What is a pandemic? </p>
+<p> A pandemic, in simplest terms, is the "worldwide spread of a new disease," Ellen Foxman, MD, Ph.D., a Yale Medicine clinical pathologist and researcher of viral infections and microorganisms in the Clinical Virology Laboratory, tells CNET. </p>
+<p> The WHO and CDC have their own definitions of pandemic, though they are fundamentally the same. </p>
+<p> According to the WHO, a pandemic is "an epidemic occurring worldwide, or over a very wide area, crossing international boundaries and usually affecting a large number of people." The CDC defines a pandemic as "an epidemic that has spread over several countries or continents, usually affecting a large number of people." </p>
+<p> Now playing: Watch this: Pandemic: Here's what's changed about the coronavirus </p>
+<p> Phase 1: No animal viruses circulating have been reported to cause infection in humans. </p>
+<p> Phase 2: An animal virus in domestic or wild animals has been reported to cause infection in humans. </p>
+<p> Phase 3: An animal or human-animal virus has caused "sporadic cases or small clusters of disease in people." Limited human-to-human transmission may occur in certain circumstances. </p>
+<p> Phase 4: sustained human-to-human spread and community outbreaks. </p>
+<p> Phase 5: human-to-human transmission in at least two countries within a single WHO region. </p>
+<p> Phase 6: The actual pandemic phase, wherein there is human-to-human spread in at least one country outside of the two in the initial infected WHO region. </p>
+<p> Pandemic vs. epidemic </p>
+<p> "An epidemic is uncontrollable transmission of a disease, and a pandemic is when this occurs throughout the world," Foxman says. There are actually two other stages of disease: </p>
+<p> An endemic disease refers to an existing, predictable and relatively stable prevalence of a disease in a particular locale (example: malaria in Africa). </p>
+<p> A disease outbreak occurs when an infection shows up in an unexpected location or there is an unexpected increase in the infected population of a disease (example: Ebola, at various points in time). </p>
+<p> Outbreak is sometimes used interchangeably with epidemic, although outbreak is typically used for more limited geographic spread and epidemic is typically used when the geographic region expands to multiple regions. A disease outbreak is finally labeled a pandemic when the geographic region spans multiple countries, i.e. becomes global. Perhaps the most famous example of a pandemic is the 1918 influenza outbreak, which infected an estimated 500 million and killed an estimated 50 million people worldwide. </p>
+<p> Foxman urges everyone to remember that right now, "in many areas of the world, there are still only a small number of cases and this means that social distancing, such as avoiding travel and reducing direct contact with others, can be effective in slowing down the spread of the virus." </p>
+<p> What does it mean that this coronavirus a pandemic? </p>
+<p> Even though the WHO has declared COVID-19 a pandemic, nothing in your day-to-day life should change right now. You may, at some point, be affected by public health efforts in your community, such as the closure of schools. </p>
+<p> Just using the word "pandemic" in place of "outbreak" or "epidemic" shouldn't add extra, unnecessary fear to the existing public panic. It doesn't mean the disease has become more dangerous than it already is, and it doesn't mean that your personal risk of contracting coronavirus has increased. </p>
+<p> However, public health officials know that the designation will cause more unrest, fear and anxiety, which is likely why the large health agencies have avoided the term until now. While coronavirus should be taken seriously, the US does have resources to contain the virus and mitigate the risk. </p>
+<p> Can I see my doctor? </p>
+<p> Even though coronavirus is now being called a pandemic, you can still see your doctor if you get sick. Foxman says this only becomes a concern if the virus becomes widespread in the US. </p>
+<p> "If the US begins to see widespread community transmission of the coronavirus, this may mean that many people become sick at the same time, putting a strain on the healthcare system," Foxman says. "In this case, it is best to stay home if you have mild illness and do not need a hospital." </p>
+<p> Coronavirus in pictures: Scenes from around the world </p>
+<p> If you do have symptoms of the virus and think you need medical attention, call your doctor's office before going there, Foxman says, "to make sure the doctor can see you in a way that will not risk exposing other patients, for example, having a mask ready or bringing you directly into a room without staying in the waiting room." </p>
+<p> Slowing down the spread as much as possible is important, Foxman says, because this allows more time for the development of tests, drugs and other medical interventions and plans to help care for people who do get sick. </p>
+<p> "More preparation time can make a huge difference in how effectively the health care system can care for people who do get sick," she explains. </p>
+<p> Can I travel during a pandemic? </p>
+<p> One of the best ways to slow down the spread of the virus is to avoid travel and large gatherings of people, Foxman says. "If there is a threat of widespread transmission, it is likely that events will be cancelled and employers will ask employees to restrict travel." </p>
+<p> The CDC currently recommends that people in high risk groups, such as the elderly or those with certain medical conditions, stay home as much as possible to avoid exposure to the virus. </p>
+<p> Both the CDC and WHO have put many travel restrictions and warnings in place, which you can find on their respective websites: CDC travel FAQ for COVID-19 and WHO travel advice for coronavirus. Both agencies will continue to update travel guidelines when appropriate, such as if more countries report widespread coronavirus. </p>
+<p> What can I do to protect myself? </p>
+<p> Pandemic or not, it's not a bad idea to take simple precautions, Foxman says: "It is a good idea to prepare so that you will be able to stay home if you get sick, for example by making sure you have some extra food at home and an extra supply of any medications you take regularly," Foxman says. "It is also a good idea to make plans at work or school for how you will communicate and get things done if people need to stay home." </p>
+<p> However, you don't need to clear your local store shelves of soap and hand sanitizer, and you don't need to stock up on face masks either, unless you are already sick (face masks can help prevent sick people from further spreading diseases, but they won't necessarily prevent healthy people from contracting them). </p>
+<p> For more details on the state of coronavirus, travel advice, how to prepare and how to protect yourself, Foxman points you toward the CDC main page on COVID-19, which is continually updated with guidance for how to slow the spread of coronavirus, and take care of yourself and your loved ones. </p>
+<p> Now playing: Watch this: Coronavirus and COVID-19: Everything you need to know </p>
+<p> 5:50 </p>
+<p> The information contained in this article is for educational and informational purposes only and is not intended as health or medical advice. Always consult a physician or other qualified health provider regarding any questions you may have about a medical condition or health objectives. </p>
+<p> Close </p>
+<p> Discuss: Coronavirus is a pandemic: What that means for you </p>
+<p> Sign in to comment </p>
+<p> Be respectful, keep it civil and stay on topic. We delete comments that violate our policy, which we encourage you to read. Discussion threads can be closed at any time at our discretion. </p>

@@ -1,0 +1,24 @@
+<doc url="https://www.itv.com/news/2020-03-11/coronavirus-what-is-the-difference-between-an-epidemic-and-a-pandemic" parent_folder="web1" id="file17334734" filename="coronavirus-what-is-the-difference-between-an-epidemic-and-a-pandemic">
+<p> The virus has quickly grown, from an outbreak in the Chinese city Wuhan, to spanning across more than 120 countries. </p>
+<p> So what is the difference between an outbreak, an epidemic and a pandemic? </p>
+<p> What is an outbreak? </p>
+<p> An outbreak can be classified as when a small number of cases are reported in one area. </p>
+<p> An example of this is when the virus was first discovered in Wuhan, China. </p>
+<p> The World Health Organisation says: "A disease outbreak is the occurrence of disease cases in excess of normal expectancy. The number of cases varies according to the disease-causing agent, and the size and type of previous and existing exposure to the agent." </p>
+<p> Following the gradual spread outside China, the outbreak was declared a Public Health Emergency of International Concern on 30 January 2020. </p>
+<p> What is a epidemic? </p>
+<p> A disease moves to the epidemic stage when cases of the disease are reported "in excess of normal expectancy". </p>
+<p> The WHO states a disease becomes an epidemic when "the occurrence in a community or region of cases of an illness, specific health-related behaviour, or other health-related events clearly in excess of normal expectancy. </p>
+<p> "The community or region and the period in which the cases occur are specified precisely. The number of cases indicating the presence of an epidemic varies according to the agent, size, and type of population exposed, previous experience or lack of exposure to the disease, and time and place of occurrence." </p>
+<p> What is a pandemic? </p>
+<p> Prior to Covid-19, the most recent pandemic occurred in 2009. This was caused by the H1N1 virus and claimed the lives of up to 400,000 people globally. Now the world must confront a new threat. </p>
+<p> ITV News Health Correspondent Emily Morgan writes: "The WHO describe a pandemic as a worldwide spread of a new disease. It basically means that there is simultaneous sustained spread of a disease across the world, across international borders. </p>
+<p> "For you and I that declaration won't change a thing. The UK government is highly unlikely to change its course of action after this announcement, it is taking advice from our scientists and following their modelling here. </p>
+<p> "The WHO have though encouraged governments to try to change the course of the outbreak by taking urgent and aggressive action. Every country will now be expected to get ready to have the infection and take necessary steps, whatever they might be to help contain it. </p>
+<p> "Some have questioned why it has taken so long for WHO to declare it a pandemic. There is a general feeling that they didn't want to declare it too early and cause panic. They have simply said that it has pandemic potential. It has clearly got to the point where transmission is so sustained they have no choice but to call it a pandemic." </p>
+<p> What does this mean for the UK and me? </p>
+<p> The government has issued travel and health advice for Britons in the wake of the virus. </p>
+<p> Whilst Downing Street insists the UK is still in the contain phase, it is expected the number of people with the coronavirus will rapidly increase in the coming days and weeks. </p>
+<p> A £30 billion package to stimulate the economy was announced by the Chancellor as the Government and Bank of England sought to protect jobs and livelihoods against the crisis. </p>
+<p> As he delivered the Budget in the House of Commons, Rishi Sunak said he would "do whatever it takes to support the economy" and will give the NHS "whatever extra resources" it needs to combat the coronavirus outbreak. </p>
+<p> Britons have been advised against all but essential travel to destinations in China and Italy, with other brought back by flights laid on especially in the wake of the outbreak. </p>

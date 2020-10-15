@@ -1,0 +1,24 @@
+<doc url="https://www.bbc.co.uk/news/health-53218704" parent_folder="web1" id="file17334772" filename="health-53218704">
+<p> A new strain of flu that has the potential to become a pandemic has been identified in China by scientists. </p>
+<p> It emerged recently and is carried by pigs, but can infect humans, they say. </p>
+<p> The researchers are concerned that it could mutate further so that it can spread easily from person to person, and trigger a global outbreak. </p>
+<p> While it is not an immediate problem, they say, it has "all the hallmarks" of being highly adapted to infect humans and needs close monitoring. </p>
+<p> As it's new, people could have little or no immunity to the virus. </p>
+<p> The scientists write in the journal Proceedings of the National Academy of Sciences that measures to control the virus in pigs, and the close monitoring of swine industry workers, should be swiftly implemented. </p>
+<p> Pandemic threat </p>
+<p> A bad new strain of influenza is among the top disease threats that experts are watching for, even as the world attempts to bring to an end the current coronavirus pandemic. </p>
+<p> The last pandemic flu the world encountered - the swine flu outbreak of 2009 - was less deadly than initially feared, largely because many older people had some immunity to it, probably because of its similarity to other flu viruses that had circulated years before. </p>
+<p> That virus, called A/H1N1pdm09, is now covered by the annual flu vaccine to make sure people are protected. </p>
+<p> The new flu strain that has been identified in China is similar to 2009 swine flu, but with some new changes. </p>
+<p> So far, it hasn't posed a big threat, but Prof Kin-Chow Chang and colleagues who have been studying it, say it is one to keep an eye on. </p>
+<p> How worried should we be? </p>
+<p> The virus, which the researchers call G4 EA H1N1, can grow and multiply in the cells that line the human airways. </p>
+<p> They found evidence of recent infection in people who worked in abattoirs and the swine industry in China when they looked at data from 2011 to 2018. </p>
+<p> Current flu vaccines do not appear to protect against it, although they could be adapted to do so if needed. </p>
+<p> Prof Kin-Chow Chang, who works at Nottingham University in the UK, told the BBC: "Right now we are distracted with coronavirus and rightly so. But we must not lose sight of potentially dangerous new viruses." </p>
+<p> While this new virus is not an immediate problem, he says: "We should not ignore it." </p>
+<p> In theory, a flu pandemic could occur at any time, but they are still rare events. Pandemics happen if a new strain emerges that can easily spread from person to person. </p>
+<p> Although flu viruses are constantly changing - which is why the flu vaccine also needs to change regularly to keep up - they do not usually go pandemic. </p>
+<p> Prof James Wood, head of the Department of Veterinary Medicine at the University of Cambridge, said the work "comes as a salutary reminder" that we are constantly at risk of new emergence of pathogens, and that farmed animals, with which humans have greater contact than with wildlife, may act as the source for important pandemic viruses. </p>
+<p> A World Health Organization spokeswoman said: "Eurasian avian-like swine influenza virus are known to be circulating in the swine population in Asia and to be able to infect humans sporadically. Twice a year during the influenza vaccine composition meetings, all information on the viruses is reviewed and the need for new candidate vaccine viruses is discussed. We will carefully read the paper to understand what is new. </p>
+<p> "It also highlights that we cannot let down our guard on influenza; we need to be vigilant and continue surveillance even during the COVID-19 pandemic." </p>

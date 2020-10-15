@@ -1,0 +1,1654 @@
+<doc url="https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou04/pdf/09-e02.pdf" parent_folder="web3" id="file17334863" filename="09-e02.pdf">
+Guideline for Quarantine System
+of Pandemic Influenza
+
+March 26, 2007
+Pandemic Influenza Experts Advisory Committee
+
+3
+
+Quarantine Guideline for Pandemic Influenza from Phase 4A Onwards
+Characteristics of Cases (Infected Patients)
+○ Pandemic influenza-like symptoms
+* Conduct inspection
+inside the aircraft
+
+(Suspected) patients
+identified
+
+・ Self-restraint of Phase 4 designated
+regions from allowing travelers into
+or out of those regions.
+・ Place restrictions on airports and
+ports where inspection is performed
+
+Testing methods
+
+（＋）
+
+○
+
+RT-PCR or PCR method,
+
+○
+
+LAMP method etc.
+
+（－）
+
+Detain patient at medical institutions
+designated for infectious diseases until
+test results have been returned
+[Article 16 of the Quarantine Law]
+PCR, virus isolation
+and other tests
+conducted by the
+National Institute of
+Infectious Diseases.
+
+（＋）
+
+Individuals
+who were in
+close contact
+with
+(suspected)
+patients
+
+Individuals who are considered to have been in
+close contacted with suspected patients of
+influenza pandemic shall wait at appropriate
+locations in the plane/vessel, airport/port, or
+elsewhere, until a PCR test is completed. If the
+test proves positive, the quarantine officers
+shall instruct the detention of such individuals
+at designated medical institutions during the
+incubation period. (If beds are full, alternative
+hospital facilities will be available through the
+cooperation of municipalities).
+
+Isolation of the patient at designated
+medical institutions for infectious diseases
+[Article 15 of the Quarantine Law]
+
+1. Distribute masks (must be worn on the way home)
+All other
+passengers
+
+(1) Strongly urge individuals to remain at home during the incubation period
+* Conduct inspection
+
+Measures to be taken according to
+the Infectious Disease Law
+
+2. Notify relevant prefectural governments of the arrival of these individuals prior to
+their entry into the prefecture
+3. Health monitoring → Request prefectural governments to conduct health monitoring
+
+Confirmation by questionnaire &
+screening by thermography
+
+regions
+
+No (suspected)
+patients identified
+
+Transfer to medical
+institutions designated for
+infectious diseases etc,
+
+○ Came into contact with (suspected) pandemic
+influenza patients within the incubation period
+
+Confirmation by questionnaire &
+screening by thermography
+
+4
+
+Notification prior to landing of (suspected) patients on-board flights returning
+from regions where an outbreak of pandemic influenza has occurred
+
+Intensify inspection of returnees from designated Phase
+
+WHO designates regions in Phase
+4
+
+○ Traveled to the region where an outbreak of
+pandemic influenza has been identified within the
+incubation period
+
+(Suspected)
+patients
+
+(2) If (suspected) patients receive a positive test, individuals under health monitoring
+shall take their temperature in the morning and evening during the incubation
+period, and report to health centers or quarantine stations if abnormalities arise.
+Patients who receive a negative test should report to health centers and quarantine
+stations only if they experience physical abnormalities such as a high fever,
+difficulty breathing, etc. during the incubation period. In such he case of
+abnormalities, the relevant individuals shall consult the designated medical
+institutions and/or take otherwise required actions.
+1. Distribute masks (must be worn on the way home)
+
+・ Interview & Investigation
+
+Symptoms
+develop
+
+[Article 15-2 of the Infectious Disease
+Law]
+
+・ Recommendation and
+implementation of health checks
+[Article 17 of the Infectious Disease Law]
+
+・ Recommendation and
+implementation of hospitalization
+[Articles 19 & 20 of the Infectious Disease
+Law]
+
+Symptoms develop
+
+2. Health monitoring [Article 18-2 of the Quarantine Law] → Request
+prefectural governments to conduct health monitoring
+(1) Strongly urge individuals to remain at home during the incubation
+period
+(2) If physical abnormalities such as a high fever, difficulty breathing, etc.
+arise, individuals shall consult health centers or designated medical
+institutions, and/or take otherwise required actions.
+(3) Notify the prefectural governments
+４
+
+* Provide appropriate information to travelers
+
+・ Request cooperation of airlines
+・ Raise public awareness via posters etc.
+・ Announcements made by quarantine booths
+
+Guideline for Quarantine of Pandemic Influenza
+1
+
+Introduction
+
+(1)
+
+Objective
+
+These guidelines are formulated to specify quarantine measures mentioned in the Pandemic
+Influenza Preparedness Action Plan of the Japanese Government (hereinafter referred to as
+“Action Plan”). The Quarantine Guidelines aim to prevent the intrusion of pandemic influenza
+virus at the frontline as far as possible, through bolstered quarantine operations such as the
+screening of pandemic influenza patients in Phases 4A through 5A.
+Appropriate measures shall be selected and implemented from these guidelines, considering
+international situations including response of the World Health Organization (WHO), as well as
+the expected infectiousness and pathogenicity of pandemic influenza.
+In Phase 5B onwards, the focus of governmental actions shifts from quarantine measures at
+frontline and early response strategy to other aspects, and therefore reduction of immigrant
+quarantine operations shall be examined.
+(2)
+
+Timing of implementation
+
+These guidelines shall be implemented promptly when the WHO announces Phase 4 (Small
+cluster(s) with limited human-to-human transmission, but spread is highly localized), and
+pandemic influenza is designated as an infectious disease requiring quarantine under Article 34
+of the Quarantine Law (Law No. 201, 1951) (hereinafter referred to as “Law”). These
+guidelines shall also apply to the cases where human-to-human transmission is identified while
+the WHO does not declare Phase 4, but the Government of Japan is required to take the same
+domestic measures as in Phase 4.
+(3)
+
+Revision of these guidelines
+
+Measures and other provisions in these guidelines are subject to continuous modification and
+addition as necessary, in line with new medical and scientific findings (on clinical symptoms*,
+epidemiological information etc.), as well as progress in laboratory technologies, pertaining to
+pandemic influenza.
+*
+
+Clinical symptoms:
+Influenza involves fever and respiratory symptoms in general. Symptoms of pandemic
+influenza shall be defined anew when human-to-human transmission occurs.
+These guidelines are based on the assumption that diagnosis by PCR test would be
+possible, because genetic information of pandemic influenza virus will be identified
+when pandemic is confirmed.
+
+5
+
+2
+
+Basic matters
+
+(1)
+
+Restriction of travel to and from regions where infection occurs
+
+As a basic idea, as Phase proceeds (or in response to the mutation of viral infectiousness or
+pathogenicity), the quality and quantity of quarantine for returnees to Japan shall be ensured by
+the following measures.
+1)
+
+The Ministry of Foreign Affairs shall examine the issuance of infectious disease alert if
+the WHO designates a region for self-restraint from visiting, considering the risk and
+situations of that region.
+
+2)
+
+The Government of Japan shall propose Japanese nationals staying in the country or
+region where pandemic influenza occurs to examine safety measures including
+evacuation, based on the issued infectious disease alert. If the government recommends
+evacuation, it shall provide necessary information to related institutions.
+
+3)
+
+In line with the extent of outbreak in the region where infection occurs, the Ministry of
+Health, Labour and Welfare shall request airlines etc. through the Ministry of Land,
+Infrastructure and Transport to restrain from operations of charter and other flights
+arriving at non-quarantine airports. The request for restraint of airline operations shall be
+expanded as the threat increases, to include international regular flights etc.
+
+4)
+
+As for vessels and planes arriving from the region where infection occurs, the Ministry of
+Health, Labour and Welfare shall examine the designation and integration of domestic
+quarantine locations in advance and as necessary, from the viewpoint of prevention of
+infection spread, based on the provisions of Section 2, Article 14 of the Law.
+• The ministry shall designate Narita, Kansai, Chubu and Fukuoka International
+Airports for passenger planes, and quarantined airports for cargo planes.
+• The ministry shall designate Yokohama, Kobe, Kanmon Ports and others for
+passenger ships, and quarantined ports for cargo ships.
+• Cargo ships may be difficult to integrate due to their load and other reasons. In such
+cases, the two ministries shall negotiate carefully to determine appropriate measures,
+in addition to mandatory risk control actions following advance notification of patients,
+etc.
+As for detailed methods and timings of the above measures, the Ministry of Health,
+Labour and Welfare shall determine through consultation as necessary with other
+governmental agencies, municipalities and other related entities.
+The Quarantine Operations Control Office shall examine in detail how to identify
+assistant operators and their duties, how to secure required accommodations, and other
+necessary issues, so that needs for assistance in quarantine operations should be satisfied
+in different situations of integration.
+
+6
+
+Related departments of the Ministry of Health, Labour and Welfare shall ensure that
+required personnel would be available from other medical institutions to form medical
+teams to respond to requests for assistance.
+5)
+
+If vessels and planes from the region where infection occurs continue to arrive at the U.S.
+armed force facilities in Japan under the Japan-U.S. Status-of-Forces Agreement, the
+Government of Japan shall request its American counterpart to cooperate in appropriate
+quarantine measures at the U.S. armed force facilities and areas in Japan, to prevent the
+spread of infection.
+
+6)
+
+All related agencies and institutions shall collaborate to share information and seek
+cooperation and understanding of the general public, because awareness and active
+participation of individual citizens are indispensable for effective quarantine operations
+to fight pandemic influenza.
+
+(2)
+
+Response at quarantine stations
+
+Quarantine stations shall identify the status of occurrence and outbreak worldwide, and take
+necessary measures as follows for immigrants from the region where infection or outbreak of
+pandemic influenza occurs. Measures at quarantine stations include i) Detention under Article
+16 of the Law, or isolation under Article 15; and ii) Health monitoring and notification to the
+municipalities of passengers’ residence under Article 18. These measures shall target at
+suspected patients of pandemic influenza, individuals who heavily contacted with patients, and
+general co-passengers. The measures shall be taken based on a) Pre-quarantine notification
+under Article 6 of the Law, b) Questionnaire survey on health status (hereinafter referred to as
+“questionnaire”; See Attachment 1 printed on the back of Attachment 2), and c) Check-up by
+physicians under Article 13.
+To ensure effective implementation of the above, the directors of quarantine stations shall
+establish in advance initial response scheme for prompt crisis control. Individual quarantine
+stations shall have crisis control manuals in place, based on which chain of command and roles
+and responsibilities shall be confirmed in advance. The stations shall also conduct regular joint
+drills to respond in line with these guidelines. In addition, the stations shall consult with each
+other to prepare for assumed actions, in the case that smooth quarantine operations are required
+with external assistants who cooperate in turns.
+Definitions of “individuals who heavily contacted with patients”:
+“Individuals who heavily contacted with patients” include relatives and friends accompanying
+suspected patients of pandemic influenza at the time of entry into Japan; groups and tour guides
+traveling with suspected patients; crew members attending suspected patients on board;
+individuals seated within a specified distance from suspected patients (as determined by the
+relevant quarantine station considering on-board air streams, air conditioning, movements of
+suspected patients and other related conditions) and so on.
+These definitions are subject to modification and addition as necessary, following the
+identification of cases of pandemic influenza.
+
+7
+
+(3)
+
+Quarantine measures
+
+1)
+
+Measures for suspected patients of pandemic influenza
+If immigrants indicating high fever and coughs are suspected of infection by pandemic
+influenza, samples shall be taken on-board and PCR tests shall be conducted at quarantine
+stations.
+{ In principle, genetic identification by the PCR method shall be conducted at
+
+quarantine stations. If a branch quarantine station or office does not have required
+testing equipment, and if the transport of samples to a laboratory station is
+inappropriate due to distance reasons, an appropriate testing system shall be
+established in advance, such as requesting a nearby health institute to test the relevant
+samples. (To request a local health institute to conduct genetic identification by the
+PCR method, required arrangements shall be ensured through consultation with the
+government of the prefecture.)
+After samples are taken, the relevant suspected patients shall be transferred to
+designated medical institutions for infectious diseases.
+If the PCR test proves positive, samples shall be forwarded to the National Institute of
+Infectious Diseases for a confirming test. If the PCR test proves negative, detention of
+the relevant individual shall be lifted, though his/her health shall be monitored during
+the incubation period.
+2)
+
+Detention and isolation (including hospitalization with medical institutions)
+If suspected patients of pandemic influenza are identified, the directors of quarantine
+stations shall instruct their detention under Article 16 of the Law. The relevant
+individuals shall be transferred to designated medical institutions for infectious diseases
+for contract detention. In the case of emergency or other inescapable reasons, the
+directors of quarantine stations may entrust the hospitalization of suspected patients to
+hospitals or clinics other than designated medical institutions for infectious diseases, if
+the relevant hospitals/clinics have negative pressure beds and are deemed appropriate by
+the directors of quarantine stations. In the above case, the period of detention shall be
+determined by subtracting the days between the departure from the region where
+infection occurs and the arrival in Japan from ten (10) days. If the PCR test is conducted
+and proves positive of pandemic influenza, contract isolation shall commence under
+Article 15 of the Law.
+It is important to determine in advance communication systems, transfer methods and
+other details with contract medical institutions.
+
+8
+
+3)
+
+Response to individuals who heavily contacted with (suspected) patients
+Individuals who are considered to have heavily contacted with suspected patients of
+pandemic influenza shall wait at appropriate locations in the plane/vessel, airport/port or
+elsewhere, until the screening test of suspected patients completes. Quarantine officers or
+physicians shall interview and check such individuals while they are waiting.
+
+4)
+
+1
+
+i)
+
+If the PCR test of suspected patients proves positive, the quarantine officers or
+physicians shall instruct the detention of individuals who heavily contacted with
+them at medical institutions (if beds are full, at alternative hospitalization facilities
+available through cooperation of municipalities).
+
+ii)
+
+If any of individuals who heavily contacted with patients are suspected of pandemic
+influenza, such individuals shall be tested by the PCR method, and transferred to
+designated medical institutions for infectious diseases as necessary.
+
+iii)
+
+If the PCR test of suspected patients proves negative, suggesting the absence of
+pandemic influenza virus, individuals who heavily contacted with patients may
+leave the waiting locations. Masks shall be distributed to such individuals. Health
+of such individuals shall be monitored during the incubation period. (The
+monitoring includes a) Wearing of masks distributed at quarantine stations on the
+way home, b) Self-restraint from outing for a specified period, c) Reporting of
+fevers and other abnormal physical conditions, among other instructions.)
+
+iv)
+
+In the case of health monitoring, quarantine stations shall report to the governors of
+prefectures (the mayors and heads of wards for cities and special districts operating
+health centers) in which the relevant individuals reside or stay that they are under
+health monitoring, and request the cooperation of governors as necessary in the
+observation of health status etc., thereby ensuring prompt response in the case of
+infection.
+
+Response to general co-passengers (other than individuals who heavily contacted with
+patients)
+i)
+
+Check the health status of general co-passengers on board, through questionnaires,
+thermography1 and other means.
+
+ii)
+
+Identify the names and contact information of such individuals on questionnaires
+(See Attachment 2 printed on the back of Attachment 1). Masks shall be distributed
+to such individuals. Health of such individuals shall be monitored based on
+Attachment 3, Health Report Instructions. (The monitoring includes a) Wearing of
+masks distributed at quarantine stations on the way home, b) Self-restraint from
+outing for a specified period, c) Taking temperatures in the morning and evening,
+and reporting fevers or other abnormal physical conditions, among other
+instructions.)
+
+Thermography
+Refers to technology of identifying far infrared radiation from objects, images visualizing and analyzing
+thermal distribution based on such technology, and equipment to conduct such analysis.
+
+9
+
+5)
+
+6)
+
+iii)
+
+In the case of health monitoring, quarantine stations shall report to the governors of
+prefectures (the mayors and heads of wards for cities and special districts operating
+health centers) in which the relevant individuals reside or stay that they are under
+health monitoring, and request the cooperation of governors as necessary in the
+observation of health status etc., thereby ensuring prompt response in the case of
+infection.
+
+iv)
+
+“c) Taking temperatures in the morning and evening” is only required if the PCR
+test of the relevant suspected patients proves positive. If the PCR test of the relevant
+suspected patients proves negative of pandemic influenza, reporting is only
+required for fevers and abnormal physical conditions.
+
+v)
+
+The directors of quarantine stations shall report the results of PCR and other tests of
+suspected patients of pandemic influenza promptly to the governors of prefectures
+(the mayors and heads of wards for cities and special districts operating health
+centers) in which the relevant individuals reside or stay.
+
+Response to passengers of vessels and planes arriving from the region where infection
+occurs, in the case that no (suspected) patients are reported
+i)
+
+Identify the names and contact information of such passengers (individuals) on
+questionnaires, based on Section 2, Article 18 of the Law.
+
+ii)
+
+Masks shall be distributed to such individuals. Health of such individuals shall be
+monitored based on the Health Report Instructions. (The monitoring includes a)
+Wearing of masks distributed at quarantine stations on the way home, b)
+Self-restraint from outing for a specified period, c) Reporting of fevers and other
+abnormal physical conditions, among other instructions.)
+
+iii)
+
+If any of individuals under health monitoring instructed by quarantine stations
+report abnormal physical conditions after going home, the relevant quarantine
+stations shall notify promptly the health status of the relevant individuals, as well as
+instructions provided to and information reported from such individuals, to the
+governors of prefectures (the mayors and heads of wards for cities and special
+districts operating health centers) in which the relevant individuals reside or stay,
+using the designated form (Attachment 4) based on Section 3, Article 18 of the
+Law.
+
+iv)
+
+At the same time, the directors of quarantine stations shall report measures that they
+implemented to the Tuberculosis and Infectious Diseases Control Division of the
+Ministry of Health, Labour and Welfare, through the Quarantine Operations
+Control Office.
+
+Other
+It is necessary that quarantine stations examine as necessary the separation of traffic lines
+of immigrants from the country where pandemic influenza occurs and of those from other
+countries, to prevent the spread of infection, such as installing an arrival gate dedicated
+for airplanes arriving from the country where infection occurs.
+
+10
+
+(4)
+
+Issuing provisional certificate of pratique2
+
+If the threat of intrusion of pandemic influenza virus is considered minimal based on quarantine
+results, provisional certificate of pratique may be issued to vessels and planes (entering and)
+departing from the region where infection occurs and arriving in Japan within the incubation
+period, valid for a specified period shorter than the incubation period.
+If provisional certificate of pratique is issued, the relevant vessel shall submit a list of ports it
+plans to enter within the incubation period, and report any abnormal physical conditions during
+that time to the issuing quarantine station. If such abnormalities are reported, the relevant
+quarantine station shall inform the quarantine station near the port in which the relevant vessel
+currently anchors, as well as the governor of the relevant prefecture. The station shall also
+report the abnormalities to the Tuberculosis and Infectious Diseases Control Division, through
+the Quarantine Operations Control Office.
+(5)
+
+Information collection and provision
+
+1)
+
+To implement effective quarantine measures, it is extremely important to collect prompt
+and accurate information on the regions where infection occurs, through the WHO and
+other international organizations, state governments, and Japanese diplomatic
+establishments abroad (such as embassies and consulates general). If the Quarantine
+Operations Control Office obtains such information, prompt and appropriate quarantine
+measures shall be taken based on the obtained information.
+
+2)
+
+Because awareness and active participation of individual citizens are indispensable for
+effective quarantine operations to fight pandemic influenza, quarantine stations shall
+provide both immigrants and emigrants with information on the status of pandemic
+influenza overseas, measures to prevent infection etc. under the provisions of Section 1,
+Article 27-2 of the Law. Quarantine stations shall take any available measures for such
+public relations, including announcement on station websites; putting up posters at
+quarantine stations in ports and airports, as well as at departure lobbies; distribution of
+leaflets; announcement by quarantine officers; and so on.
+
+3)
+
+In principle, the Ministry of Health, Labour and Welfare shall take charge of media
+relations and other external liaison activities concerning suspected or confirmed patients
+of pandemic influenza. If such activities by quarantine stations are required, they shall
+respond accordingly through consultation with the Quarantine Operations Control Office.
+
+2
+
+Provisional certificate of pratique
+Provisional certificate of pratique is only issued when the pathogen of quarantined infectious disease is
+considered unlikely to intrude into Japan. If the certificate of pratique cannot be issued because the days
+between the departure and the arrival in Japan are shorter than the incubation period of the quarantined
+infectious disease or for other reasons, but if the threat of intrusion of the pathogen is considered minimal,
+the provisional certificate of pratique may be issued on condition that temperatures etc. should be reported
+as necessary for a specified period. Vessels and planes may only enter Japanese ports if either of the above
+is issued.
+
+11
+
+(6)
+
+Collaboration with related institutions
+
+Based on these guidelines, quarantine stations shall promote information sharing and
+collaboration with related institutions, including prefectural governments, to prevent the spread
+of pandemic influenza into Japan through quarantine operations. For example, quarantine
+stations shall announce the bolstered quarantine requirements in Japan during the boarding
+process to ensure the understanding and cooperation of passengers, in collaboration with
+airlines and shipping companies.
+Quarantine stations shall also coordinate with other port and airport establishments relating to
+quarantine operations, to ensure prompt response in crisis control (for example, by identifying
+emergency contacts).
+(7)
+
+Securing safety of quarantine officers etc.
+
+1)
+
+It is necessary to provide quarantine officers etc. with specific explanations on infection
+prevention, response in the case of infection, protective measures for families,
+designation of public occupational hazards, and so on, so that the officers may
+concentrate on quarantine operations.
+
+2)
+
+Quarantine officers shall have necessary personal protective equipment (PPE) at hand
+during quarantine operations. They shall also have good proficiency in the use of PPE.
+
+3)
+
+Quarantine stations shall also emphasize and disseminate hand washing, disinfection of
+hands and fingers with disinfectant ethanol and gargling etc. for post-quarantine
+decontamination.
+
+4)
+
+If it is identified that employees of quarantine stations have contacted with (suspected)
+patients of pandemic influenza, and if such employees are infected or suspected of
+infection, measures shall be taken as required by the Law. Specific procedures must be
+formulated in advance to ensure medical treatment of such employees.
+
+5)
+
+Employees of quarantine stations are included in the scope of proactive epidemiological
+research conducted by the governors of prefectures under Article 15 of the Law.
+Therefore, it shall be disseminated in advance that the station employees shall cooperate
+to such research.
+
+12
+
+3
+
+Quarantine response
+
+(1)
+
+Quarantine of airplanes
+
+1)
+
+If pre-quarantine notification by an airplane arriving from the region where infection
+occurs reports that individuals were identified on board indicating symptoms of pandemic
+influenza, the following response shall be taken.
+i)
+
+ii)
+
+Pre-arrival response
+a)
+
+If pre-quarantine notification (as specified by Article 6 of the Law) by an
+airplane arriving from the region where infection occurs reports that
+individuals were identified on board indicating symptoms of pandemic
+influenza, the relevant quarantine station shall confirm with the captain of the
+flight before its arrival on information required to determine that the reported
+individuals may have been infected by pandemic influenza.
+
+b)
+
+If it is identified through the process of a) that there are individuals on board
+matching the definitions for symptoms of pandemic influenza, the director of
+the quarantine station shall contact the airline company and others to confirm
+that infection prevention measures are in place on that flight.
+
+c)
+
+In principle, on-board quarantine shall be implemented in such cases. The
+quarantine station shall consult with the airline company and other related
+entities on required actions.
+
+d)
+
+The director of the quarantine station shall notify planned quarantine
+measures for the relevant flight to the immigration authorities, aeronautical
+stations and other related agencies in advance.
+
+Pre-arrival instructions
+Through the airline company, the director of the quarantine station shall request the
+captain of the relevant flight to cooperate in the following measures.
+a)
+
+Taking measures for scattering prevention, such as requesting the reported
+individuals to wear masks as far as possible;
+
+b)
+
+Limiting crew members attending the reported individuals, and instructing
+such dedicated crew members to keep masks on;
+
+c)
+
+Taking as much clearance as possible between the reported individuals and
+other passengers; The dedicated crew members shall guide the reported
+individuals to the backmost seats etc. to take sufficient distance from other
+passengers;
+
+d)
+
+If it is impossible to take distance between the reported individuals and other
+passengers, take additional preventive measures such as requesting
+passengers around the reported individuals to wear masks; and
+
+13
+
+e)
+
+Designating a dedicated lavatory nearest to the reported individuals, which
+other passengers shall not use.
+These measures do not apply to cargo-only planes.
+
+iii)
+
+Implementation of on-board quarantine
+On-board quarantine shall be implemented in the following procedures. These
+procedures shall also apply to the cases where other forms of quarantine are
+adopted for inescapable reasons.
+a)
+
+Quarantine officers shall enter the plane, and check whether there is distance
+between the reported individuals and other passengers, and if there is no
+distance, whether passengers around the reported individuals wear masks.
+Under the provisions of Article 12 of the Law, quarantine officers shall also
+distribute questionnaires, survey sheets, and Health Report Instructions to all
+passengers and crew members, and instruct them to fill the distributed forms.
+
+b)
+
+Quarantine officers (physicians) shall interview and check the reported
+individuals on board, referring to the questionnaires. If physicians diagnose
+the reported individuals as suspected patients of pandemic influenza, the
+physicians shall report accordingly to the director of the quarantine station,
+who shall in turn determine detention measures (transfer and detention) for
+the suspected patients following sampling for laboratory tests.
+
+c)
+
+Quarantine officers shall guide the suspected patients directly from the plane
+to the transfer vehicle, using wheelchairs etc. as necessary.
+Until preparations for transfer are complete, quarantine officers shall have the
+relevant suspected patients wait at appropriate locations in or around the
+quarantine station.
+
+d)
+
+Individuals who are considered to have heavily contacted with suspected
+patients of pandemic influenza shall wait at appropriate locations in the plane,
+airport facilities or elsewhere (detailed instructions are under examination),
+until the screening test of suspected patients completes. Quarantine officers
+(physicians) shall interview and check such individuals while they are
+waiting, based on the questionnaires.
+If the PCR test of suspected patients proves positive, the quarantine officers
+or physicians shall instruct the detention of individuals who heavily contacted
+with them at medical institutions (if beds are full, at alternative
+hospitalization facilities available through cooperation of municipalities).
+If any of individuals who heavily contacted with patients are suspected of
+pandemic influenza, such individuals shall be tested by the PCR method, and
+transferred to designated medical institutions for infectious diseases as
+necessary.
+
+14
+
+If the PCR test of suspected patients proves negative, suggesting the absence
+of pandemic influenza virus, individuals who heavily contacted with patients
+may leave the waiting locations. Masks shall be distributed to such
+individuals. Health of such individuals shall be monitored during the
+incubation period, based on the Health Status Instructions. (The monitoring
+includes a) Wearing of masks distributed at quarantine stations on the way
+home, b) Self-restraint from outing for a specified period, c) Reporting of
+fevers and other abnormal physical conditions, among other instructions.)
+In the case of health monitoring, quarantine stations shall report to the
+governors of prefectures (the mayors and heads of wards for cities and special
+districts operating health centers) in which the relevant individuals reside or
+stay that they are under health monitoring, and request the cooperation of
+governors as necessary in the observation of health status etc., thereby
+ensuring prompt response in the case of infection.
+The directors of quarantine stations shall report the results of PCR and other
+tests of suspected patients of pandemic influenza promptly to the governors
+of prefectures (the mayors and heads of wards for cities and special districts
+operating health centers) in which the relevant individuals reside or stay.
+e)
+
+After suspected patients and individuals who heavily contacted with patients
+are guided out of the plane, quarantine officers shall collect questionnaires etc.
+from general co-passengers, and check their health status by thermography
+and other methods. If abnormalities are identified, physicians shall check the
+relevant passengers (individuals). Quarantine officers shall then identify the
+names and contact information of such individuals on questionnaires (See
+Attachment 2 printed on the back of Attachment 1). Masks shall be
+distributed to such individuals. Health of such individuals shall be monitored
+based on Attachment 3, Health Report Instructions. (The monitoring includes
+a) Wearing of masks distributed at quarantine stations on the way home, b)
+Self-restraint from outing for a specified period, c) Taking temperatures in
+the morning and evening, and reporting fevers or other abnormal physical
+conditions, among other instructions.)
+In the case of health monitoring, quarantine stations shall report to the
+governors of prefectures (the mayors and heads of wards for cities and special
+districts operating health centers) in which the relevant individuals reside or
+stay that they are under health monitoring, and request the cooperation of
+governors as necessary in the observation of health status etc., thereby
+ensuring prompt response in the case of infection.
+Note that “c) Taking temperatures in the morning and evening” is only
+required if the PCR test of the relevant suspected patients proves positive. If
+the PCR test of the relevant suspected patients proves negative of pandemic
+influenza, reporting is only required for fevers and abnormal physical
+conditions.
+The directors of quarantine stations shall report the results of PCR and other
+tests of suspected patients of pandemic influenza promptly to the governors
+
+15
+
+of prefectures (the mayors and heads of wards for cities and special districts
+operating health centers) in which the relevant individuals reside or stay.
+
+iv)
+
+f)
+
+Quarantine officers shall report measures that they implemented to the
+Tuberculosis and Infectious Diseases Control Division of the Ministry of
+Health, Labour and Welfare, through the Quarantine Operations Control
+Office.
+
+g)
+
+Quarantine officers shall request the captain of the flight and the airline
+company to keep air conditioning in the plane on during quarantine
+operations on board and around the airplane, and to instruct maintenance
+operators not to come near the plane’s air outlets, for the sake of infection
+prevention.
+
+Measures related to suspected patients of pandemic influenza
+a)
+
+b)
+
+c)
+
+Basic matters before transfer
+(a)
+
+The directors of quarantine stations shall notify the information of
+suspected patients and expected arrival time to the designated medical
+institutions for infectious diseases (in the case of emergency or other
+inescapable reasons, hospitals or clinics other than designated medical
+institutions for infectious diseases, if the relevant hospitals/clinics have
+negative pressure beds and are deemed appropriate by the directors of
+quarantine stations), to ensure appropriate infection control at the
+arrival of suspected patients.
+
+(b)
+
+The directors of quarantine stations shall notify the transfer of
+suspected patients in advance to immigrant authorities, customs and
+other related agencies, as well as municipal agencies (including health
+centers governing the locations of the airport and medical institutions).
+
+(c)
+
+It is preferable that the transfer routes are safe, enabling stable traffic.
+
+Detention measures
+(a)
+
+In the case of detention measures specified by Article 16 of the Law,
+physicians shall inform the relevant individuals of required transfer in
+advance.
+
+(b)
+
+Quarantine officers and other operators contacting with suspected
+patients during transfer shall take necessary protective measures.
+
+Disinfection
+Quarantine officers shall perform the following disinfection measures based
+on Article 14 of the Law. Disinfecting officers shall take necessary protective
+measures.
+
+16
+
+d)
+
+(a)
+
+Disinfection of carry-on luggage of suspected patients of pandemic
+influenza; and
+
+(b)
+
+Disinfection of seats around suspected patients, lavatories that they
+contacted, utensils that they used etc.
+
+Transfer of individuals who heavily contacted with patients
+Quarantine officers shall transfer individuals who are diagnosed as relatively
+likely to be infected in transfer vehicles to medical institutions (if beds are
+full, to alternative hospitalization facilities available through cooperation of
+municipalities).
+Quarantine officers shall request such individuals to wear masks, and take
+necessary protective measures for themselves to prevent any risks of
+infection.
+
+e)
+
+Response to reports from individuals under health monitoring
+In principle, if any of individuals under health monitoring instructed by
+quarantine stations report abnormal physical conditions after going home, the
+relevant quarantine stations shall notify promptly the health status of the
+relevant individuals, as well as instructions provided to and information
+reported from such individuals, to the governors of prefectures (the mayors
+and heads of wards for cities and special districts operating health centers) in
+which the relevant individuals reside or stay, using the designated form based
+on Section 3, Article 18 of the Law. Quarantine stations shall also report the
+abnormalities to the Tuberculosis and Infectious Diseases Control Division,
+through the Quarantine Operations Control Office.
+This does not apply to such individuals for whom the cooperation of relevant
+municipal governments is ensured in the observation of health status etc.
+
+2)
+
+If pre-quarantine notification reports that no individuals were identified on board
+indicating symptoms of pandemic influenza
+Quarantine officers shall request the captain of the airplane arriving from the region
+where infection occurs to submit and/or present documentation specified by Section 2,
+Article 11 of the Law, and confirm that there are no individuals on board indicating
+symptoms of pandemic influenza based on the submitted/presented documentation (e.g.
+written declaration).
+i)
+
+Questionnaires and temperatures
+Quarantine officers shall collect questionnaires from all passengers and crew
+members arriving from the region where infection occurs, beside the plane.
+Quarantine officers shall check the health status of passengers and the levels of
+exposure to pandemic influenza before arrival. They shall also take the
+temperatures of passengers using thermography, radiation thermometers and other
+methods, thereby identifying individuals with high fevers.
+Quarantine officers shall then identify the names and contact information of such
+individuals on survey sheets, based on Section 2, Article 18 of the Law. Masks shall
+be distributed to such individuals. Health of such individuals shall be monitored
+
+17
+
+based on Health Report Instructions. (The monitoring includes a) Wearing of masks
+distributed at quarantine stations on the way home, b) Self-restraint from outing for
+a specified period, and c) Reporting of fevers or other abnormal physical conditions,
+among other instructions.)
+If any of individuals under health monitoring instructed by quarantine stations
+report abnormal physical conditions after going home, the relevant quarantine
+stations shall report immediately the abnormalities to the Tuberculosis and
+Infectious Diseases Control Division, through the Quarantine Operations Control
+Office. The quarantine stations shall also notify promptly the health status of the
+relevant individuals, as well as instructions provided to and information reported
+from such individuals, to the governors of prefectures (the mayors and heads of
+wards for cities and special districts operating health centers) in which the relevant
+individuals reside or stay, using the designated form based on Section 3, Article 18
+of the Law (Attachment 4).
+ii)
+
+Response to individuals indicating symptoms of pandemic influenza
+If individuals indicating symptoms of pandemic influenza are identified through
+questionnaires etc., physicians shall interview and check such individuals
+immediately. If physicians diagnose such individuals as suspected patients of
+pandemic influenza, measures shall be taken as specified by 3 – (1) – 1) – iii)
+onwards.
+
+3)
+
+Other
+Quarantine stations shall request transit passengers in the departure area to declare travels
+through or stays in the region where infection occurs as far as possible. Quarantine
+stations shall also seek to identify (suspected) patients in the departure area, with
+cooperation of ground personnel. If individuals indicating symptoms of pandemic
+influenza request immigration for medical or other treatment, the same measures as
+normal quarantine shall be taken as specified by 3 – (1) – 1) – iii) onwards.
+
+(2)
+
+Quarantine of vessels
+
+1)
+
+If pre-quarantine notification by a vessel arriving from the region where infection occurs
+within the incubation period reports that individuals were identified on board indicating
+symptoms of pandemic influenza
+The relevant quarantine station shall confirm with the captain of the vessel before its
+arrival on information required to determine that the reported individuals may have been
+infected by pandemic influenza. If it is identified through the process as above that there
+are individuals on board suspected of infection by pandemic influenza, the director of the
+quarantine station shall instruct on-board or on-shore quarantine3 at a quarantine port
+based on Section 2, Article 14 of the Law, even though the relevant vessel has prior
+permit to enter a non-quarantine port.
+
+3
+
+On-board or on-shore quarantine
+In on-board quarantine, quarantine officers instruct an arriving vessel to anchor in the designated quarantine
+area, and inspect the vessel on board. If quarantine in the designated area is difficult due to bad weather, cargo
+of hazardous substances etc., the director of the quarantine station may instruct on-shore quarantine, where
+quarantine officers inspect the vessel on board after it anchors alongside the pier.
+
+18
+
+The director of the quarantine station shall contact the shipping agent and others to notify
+the implementation of on-board or on-shore quarantine based on Section 3, Article 8 of
+the Quarantine Law, and confirm that appropriate infection prevention measures are in
+place on that vessel.
+On-shore quarantine shall be implemented if on-board quarantine is difficult due to bad
+weather, transfer of (suspected) patients etc. Quarantine stations shall determine in
+advance the piers, locations and other details of on-shore quarantine through consultation
+with port administrators, coast guard departments and other related entities.
+i)
+
+Pre-arrival instructions
+If quarantine officers receive notification from a vessel arriving from the region
+where infection occurs within the incubation period that individuals indicating
+symptoms of pandemic influenza were identified among its passengers or crew
+members, the quarantine officers shall contact the relevant vessel through its
+shipping agent to notify the implementation of on-board or on-shore quarantine,
+and to provide the following instructions.
+
+ii)
+
+a)
+
+Isolating the individuals indicating symptoms of pandemic influenza in a
+separate room; If there is no separate room, taking measures for scattering
+prevention, such as requesting the reported individuals to wear masks as far
+as possible;
+
+b)
+
+Limiting crew members attending the reported individuals, and instructing
+such members to take protective measures such as wearing masks and gloves,
+washing their hands, gargling etc.;
+
+c)
+
+Recording and reporting temperatures and symptoms of such individuals in
+the morning and evening, as well as use of any drugs;
+
+d)
+
+Designating lavatories for the reported individuals, and disinfecting such
+lavatories as appropriate; Use appropriate disinfectants such as disinfectant
+alcohol, sodium hypochlorite solution etc.;
+
+e)
+
+Sending the questionnaire sheet (Attachment 1) by fax or e-mail to the vessel
+through the shipping agent, and requesting all passengers and crew members
+to fill in the questionnaires before quarantine;
+
+f)
+
+Requesting general co-passengers to wash their hands, gargle and wear masks
+as far as possible; and
+
+g)
+
+Instructing the crew members to turn off the air conditioning as necessary.
+
+Information provision to related institutions, harbor pilots etc.
+a)
+
+4
+
+Quarantine officers shall provide detailed information on the region where
+infection occurs and/or spreads, outbreak status, types of transmission,
+symptoms, methods of prevention etc., to coast guard departments, harbor or
+bay pilots4, and other entities that go on board of vessels that intend to enter
+
+Harbor or bay pilots
+Refers to specialists who assist the captains of ocean vessels in ports, straits and inland seas with heavy
+vessel traffic, to guide such vessels safely and efficiently, because it is difficult for the captains to
+familiarize in all such waters.
+
+19
+
+Japan, but are still offshore and have not been quarantined. Quarantine
+stations shall also provide the following instructions to such entities.
+
+iii)
+
+•
+
+Members of such entities shall wear masks and gloves when going on
+board of aforementioned vessels.
+
+•
+
+If harbor or bay pilots and others enter the vessel together with
+quarantine officers, they shall not disembark until the quarantine process
+completes based on Article 5 of the Law. Quarantine officers shall
+disinfect harbor or bay pilots and others before disembarkation.
+
+Implementation of on-board quarantine
+a)
+
+Quarantine officers shall notify port administrators, coast guard departments
+and other related entities that suspected patients of pandemic influenza may
+be on board of the relevant vessel, and that on-board or on-shore quarantine
+will be implemented. Quarantine officers shall also prepare necessary
+equipment in accordance with the seriousness of conditions of the reported
+individuals.
+
+b)
+
+Quarantine officers shall listen to explanations on the reported individuals,
+individuals who heavily contacted with patients, and general co-passengers
+and crew members, from the captain, sanitation manager etc. of the vessel.
+Quarantine officers shall also distribute the survey sheet (Attachment 2) and
+Health Report Instructions (Attachment 3), and request passengers and crew
+members to fill the distributed forms.
+
+c)
+
+Quarantine officers (physicians) shall interview and check the reported
+individuals in a separate room on the vessel, referring to the questionnaires. If
+physicians diagnose the reported individuals as suspected patients of
+pandemic influenza, the physicians shall report accordingly to the director of
+the quarantine station, who shall in turn determine detention measures
+(transfer and detention) for the suspected patients following sampling for
+laboratory tests. The director of the quarantine station shall then instruct
+quarantine officers to prepare for transfer to medical institutions.
+
+d)
+
+Individuals who are considered to have heavily contacted with suspected
+patients of pandemic influenza shall wait at appropriate locations in the vessel,
+port facilities or elsewhere, until the screening test of suspected patients
+completes. Quarantine officers (physicians) shall interview and check such
+individuals while they are waiting, based on the questionnaires.
+If the PCR test of suspected patients proves positive, the quarantine officers
+or physicians shall instruct the detention of individuals who heavily contacted
+with them in the vessel or at medical institutions (if beds are full, at
+alternative hospitalization facilities available through cooperation of
+municipalities) during the incubation period.
+If any of individuals who heavily contacted with patients are suspected of
+pandemic influenza during the detention period, such individuals shall be
+tested by the PCR method, and transferred to designated medical institutions
+for infectious diseases as necessary.
+
+20
+
+If the PCR test of suspected patients proves negative, suggesting the absence
+of pandemic influenza virus, individuals who heavily contacted with patients
+may leave the waiting locations. Masks shall be distributed to such
+individuals. Health of such individuals shall be monitored during the
+incubation period, based on the Health Status Instructions. (The monitoring
+includes a) Wearing of masks distributed at quarantine stations on the way
+home, b) Self-restraint from outing for a specified period, c) Reporting of
+fevers and other abnormal physical conditions, among other instructions.)
+In the case of health monitoring, quarantine stations shall report to the
+governors of prefectures (the mayors and heads of wards for cities and special
+districts operating health centers) in which the relevant individuals reside or
+stay that they are under health monitoring, and request the cooperation of
+governors as necessary in the observation of health status etc., thereby
+ensuring prompt response in the case of infection.
+The directors of quarantine stations shall report the results of PCR and other
+tests of suspected patients of pandemic influenza promptly to the governors
+of prefectures (the mayors and heads of wards for cities and special districts
+operating health centers) in which the relevant individuals reside or stay.
+e)
+
+After suspected patients and individuals who heavily contacted with patients
+are guided out of the vessel, quarantine officers shall collect questionnaires
+etc. from general passengers and crew members, and check their health status
+by thermography and other methods on board. If abnormalities are identified,
+physicians shall check the relevant passengers (individuals). Quarantine
+officers shall then identify the names and contact information of such
+individuals on questionnaires (See Attachment 2 printed on the back of
+Attachment 1). Masks shall be distributed to such individuals. Health of such
+individuals shall be monitored based on Attachment 3, Health Report
+Instructions. (The monitoring includes a) Wearing of masks distributed at
+quarantine stations on the way home, b) Self-restraint from outing for a
+specified period, c) Taking temperatures in the morning and evening, and
+reporting fevers or other abnormal physical conditions, among other
+instructions.)
+In the case of health monitoring, quarantine stations shall report to the
+governors of prefectures (the mayors and heads of wards for cities and special
+districts operating health centers) in which the relevant individuals reside or
+stay that they are under health monitoring, and request the cooperation of
+governors as necessary in the observation of health status etc., thereby
+ensuring prompt response in the case of infection.
+Note that “c) Taking temperatures in the morning and evening” is only
+required if the PCR test of the relevant suspected patients proves positive. If
+the PCR test of the relevant suspected patients proves negative of pandemic
+influenza, reporting is only required for fevers and abnormal physical
+conditions.
+The directors of quarantine stations shall report the results of PCR and other
+tests of suspected patients of pandemic influenza promptly to the governors
+
+21
+
+of prefectures (the mayors and heads of wards for cities and special districts
+operating health centers) in which the relevant individuals reside or stay.
+f)
+
+iv)
+
+Quarantine officers shall report measures that they implemented to the
+Tuberculosis and Infectious Diseases Control Division of the Ministry of
+Health, Labour and Welfare, through the Quarantine Operations Control
+Office. Quarantine officers shall also provide the relevant information to port
+administrators, coast guard departments and other related entities.
+
+Detention measures for suspected patients of pandemic influenza
+a)
+
+b)
+
+Basic matters before transfer
+(a)
+
+The directors of quarantine stations shall notify the information of
+suspected patients and expected arrival time to the designated medical
+institutions for infectious diseases (in the case of emergency or other
+inescapable reasons, hospitals or clinics other than designated medical
+institutions for infectious diseases, if the relevant hospitals/clinics are
+deemed appropriate by the directors of quarantine stations), to ensure
+appropriate infection control at the arrival of suspected patients.
+
+(b)
+
+The directors of quarantine stations shall notify the transfer of
+suspected patients in advance to immigrant authorities, customs and
+other related agencies, as well as municipal agencies (including health
+centers governing the locations of the port and medical institutions).
+
+(c)
+
+It is preferable that the transfer routes are safe, enabling stable traffic.
+
+Detention measures
+In the case of detention measures specified by Article 16 of the Law,
+physicians shall inform the relevant individuals of required transfer in
+advance.
+Quarantine officers and other operators contacting with suspected patients
+during transfer shall take necessary protective measures.
+
+c)
+
+Disinfection
+Quarantine officers shall perform the following disinfection measures based
+on Article 14 of the Law. Disinfecting officers shall take necessary protective
+measures.
+
+d)
+
+(a)
+
+Disinfection of carry-on luggage of suspected patients of pandemic
+influenza; and
+
+(b)
+
+Disinfection of the rooms of suspected patients, washing rooms and
+lavatories that they used etc.
+
+Transfer of individuals who heavily contacted with patients
+Quarantine officers shall transfer individuals who are diagnosed as relatively
+likely to be infected in transfer vehicles to medical institutions (if beds are
+full, to alternative hospitalization facilities available through cooperation of
+municipalities).
+
+22
+
+Quarantine officers shall request such individuals to wear masks, and take
+necessary protective measures for themselves to prevent any risks of
+infection.
+e)
+
+Response to reports from individuals under health monitoring
+If any of individuals under health monitoring instructed by quarantine
+stations report abnormal physical conditions after going home, the relevant
+quarantine stations shall report immediately the abnormalities to the
+Tuberculosis and Infectious Diseases Control Division, through the
+Quarantine Operations Control Office. The quarantine stations shall also
+notify promptly the health status of the relevant individuals, as well as
+instructions provided to and information reported from such individuals, to
+the governors of prefectures (the mayors and heads of wards for cities and
+special districts operating health centers) in which the relevant individuals
+reside or stay, using the designated form based on Section 3, Article 18 of the
+Law (Attachment 4).
+This does not apply to such individuals for whom the cooperation of relevant
+municipal governments is ensured in the observation of health status etc.
+
+2)
+
+If pre-quarantine notification reports that no individuals were identified on board
+indicating symptoms of pandemic influenza
+Quarantine stations shall implement on-board or on-shore quarantine of passenger ships
+(including cargo-passengers ships) at a quarantine port (designating locations to anchor
+as necessary).
+As for cargo ships, quarantine stations shall request the captains through the shipping
+agents etc. to review information required to determine that individuals may have been
+infected by pandemic influenza. If it is confirmed that there are no individuals on board
+indicating symptoms of pandemic influenza, the relevant vessel shall enter a quarantine
+port and receive radio quarantine based on Section 2, Article 14 of the Law, even though
+the relevant vessel has prior permit to enter a non-quarantine port.
+Quarantine stations shall collaborate with related institutions in requesting crew members
+to restrain from disembarkation during the incubation period.
+i)
+
+Quarantine of crew members and passengers
+Quarantine officers shall collect questionnaires from all passengers and crew
+members arriving from the region where pandemic influenza occurs, on the vessel.
+Quarantine officers shall check the health status of passengers and the levels of
+exposure to pandemic influenza before arrival. They shall also take the
+temperatures of passengers using thermography, radiation thermometers and other
+methods, thereby identifying individuals with high fevers.
+Quarantine officers shall then identify the names and contact information of such
+individuals on survey sheets, based on Section 2, Article 18 of the Law. Masks shall
+be distributed to such individuals. Health of such individuals shall be monitored
+based on Health Report Instructions. (The monitoring includes a) Wearing of masks
+distributed at quarantine stations on the way home, b) Self-restraint from outing for
+a specified period, and c) Reporting of fevers or other abnormal physical conditions,
+among other instructions.)
+
+23
+
+If any of individuals under health monitoring instructed by quarantine stations
+report abnormal physical conditions after going home, the relevant quarantine
+stations shall report immediately the abnormalities to the Tuberculosis and
+Infectious Diseases Control Division, through the Quarantine Operations Control
+Office. The quarantine stations shall also notify promptly the health status of the
+relevant individuals, as well as instructions provided to and information reported
+from such individuals, to the governors of prefectures (the mayors and heads of
+wards for cities and special districts operating health centers) in which the relevant
+individuals reside or stay, using the designated form based on Section 3, Article 18
+of the Law (Attachment 4).
+ii)
+
+Response to individuals indicating symptoms of pandemic influenza
+If individuals indicating symptoms of pandemic influenza are identified through
+questionnaires etc. in i), physicians shall interview and check such individuals
+immediately. If physicians diagnose such individuals as suspected patients of
+pandemic influenza, measures shall be taken as specified by 3 – (1) – 1) – iii)
+onwards.
+
+3)
+
+If a vessel departs from the region where pandemic influenza occurs, and arrives in Japan
+after the incubation period
+Quarantine stations shall implement on-board or on-shore quarantine of passenger ships
+(including cargo-passengers ships) at a quarantine port. As for cargo ships, quarantine
+stations shall request the captains through the shipping agents etc. to review information
+required to determine that individuals may have been infected by pandemic influenza. If
+it is confirmed that there are no individuals on board indicating symptoms of pandemic
+influenza, the relevant vessel shall receive radio quarantine.
+i)
+
+Questionnaires and health check cards
+Quarantine officers shall distribute questionnaires to all passengers and crew
+members, and request them to fill the distributed sheets. Quarantine officers shall
+then collect the filled questionnaire sheets and check their health status and levels
+of exposure to pandemic influenza before arrival. They shall also take the
+temperatures of passengers using thermography, radiation thermometers and other
+methods, thereby identifying individuals with high fevers.
+Quarantine officers shall also distribute masks and health check cards (Attachment
+5), and give advice on health check and infection preparedness.
+
+4
+
+Others
+
+(1)
+
+Response to illegal immigrants and refugees
+
+Quarantine of illegal immigrants and refugees shall be conducted with cooperation of the Japan
+Coast Guard and other related institutions, securing the safety of quarantine station employees.
+If (suspected) patients of infectious diseases are identified, detention, isolation and/or other
+necessary measures shall be taken in line with 3 – (2) – 1) –iv).
+If such illegal immigrants and refugees are identified in Japan, necessary measures shall be
+taken in collaboration with related institutions.
+
+24
+
+(2)
+
+Requesting cooperation of related institutions
+
+1)
+
+Requesting cooperation of the police
+If quarantine station employees receive assault or other conducts by immigrants that
+interfere with the fulfillment of quarantine operations, or if station employees otherwise
+consider the fulfillment of quarantine operations difficult, they shall call for police
+officers as necessary, and/or bolster collaboration with the police to ensure smooth
+quarantine operations.
+
+2)
+
+Requesting cooperation of the Japan Coast Guard
+If quarantine stations etc. request the Japan Coast Guard to transfer (suspected) patients
+of pandemic influenza using patrol boats or other vessels, quarantine station employees
+shall provide the relevant JCG officers with advice on infection prevention, disinfection
+following transfer, health check of JCG members etc., as well as supplying related
+equipment as necessary.
+
+(3)
+
+Requesting cooperation of related institutions
+
+The Ministry of Health, Labour and Welfare shall request collaboration of municipal
+governments, designated medical institutions for infectious diseases, and other related
+institutions, because active cooperation of such institutions is indispensable for effective
+quarantine operations.
+(4)
+
+Types and methods of use of disinfectants
+
+Refer to the attached “Environmental Maintenance and Disinfection of Locations Where
+(Suspected) Patients Stay” (an excerpt from the Proactive Epidemiological Research
+Guidelines) for issues pertaining to disinfectants and environmental maintenance.
+(5)
+
+Analysis of pandemic influenza cases in Japan
+
+The Government of Japan shall collect the data of proactive epidemiological research etc. on
+pandemic influenza cases in Japan, verify the effects of quarantine measures and response, and
+revise them as necessary.
+
+25
+
+Attachment 1
+
+Ministry of Health, Labour and Welfare/Quarantine Station
+
+Questionnaire on Health Status
+Name
+Sex
+
+M
+
+F
+
+Passport No.
+
+Age
+
+Occupation
+Arriving date
+
+,Flight
+
+,Seat No.
+
+Countries/regions you traveled to or stayed in over that past four days
+
+Addresses and contact information in Japan and/or your home country
+Japan:
+Telephone:
+-
+
+-
+
+Home country:
+Telephone:
+{
+
+-
+
+Answer below questions on your health status.
+Fever ( °C) ···························································
+Severe coughs, breathing difficulty etc. ··················
+Use of antipyretic or other drugs ·······························
+
+{
+
+-
+
+Yes
+Yes
+Yes
+
+No
+No
+No
+
+Answer contacts with (suspected) pandemic influenza patients over the
+before arrival.
+(1)
+
+(2)
+
+Did you visit or stay in a region where infection occurs?
+··································································································· Yes
+
+____ days
+
+No
+
+Did you visit a hospitalized (suspected) pandemic influenza patient or otherwise
+contact such individuals? ··························································· Yes No
+
+I declare as above stated.
+
+Date (Month Date, Year):
+Signature
+
+This questionnaire is required to simplify the quarantine protocol specified by Article 12 of
+the Quarantine Law. Please answer all questions truthfully. If you refuse to answer or provide
+false information, you are subject to imprisonment or fine under Item 3, Article 36 of the
+Law.
+
+26
+
+Attachment 2
+
+Survey Sheet
+Please fill out inside the outer frame.
+Name:
+Age:
+
+Sex:
+
+M
+
+F
+
+Nationality:
+
+Occupation:
+Regions you traveled to/Locations where you may have contacted (suspected) pandemic
+influenza patients (Please describe)
+
+ITINERARY
+
+Countries and regions:
+Contact information in Japan (If you are a tourist, please indicate your itinerary at the
+bottom)
+Address:
+Telephone:
+Period
+Contact information
+*From (date) Accommodation:
+Address:
+To (date)
+Telephone:
+*From (date) Accommodation:
+Address:
+To (date)
+Telephone:
+Planned departure from Japan
+Date:
+Airport:
+Flight:
+If you are a tourist, please indicate your travel agency etc. If you have a printed
+itinerary, please attach its copy.
+Travel agency etc.:
+Agency address:
+Telephone:
+Contact person:
+* Indicate your schedule for ___ days from today.
+This survey is based on Section 2, Article 18 of the Quarantine Law. The information you
+provided to the quarantine station will be strictly controlled to protect your personal
+information. If you refuse to answer or provide false information, you are subject to
+imprisonment or fine under Item 7, Article 36 of the Law.
+[Used by the quarantine station]
+Results of medical check
+- Fever: Yes / No (Temperature at the medical check:
+°C)
+- Severe coughs, breathing difficulty, other respiratory symptoms: Yes / No
+Date of check (Month Date, Year):
+Physician:
+Name of quarantine station:
+Quarantine ID:
+
+27
+
+Attachment 3
+
+Instructions to Immigrants into Japan
+(Health Report Instructions)
+{
+
+Please observe the following instructions from today to the end of the period specified
+below.
+•
+
+During the period specified below, take your temperatures twice a day (in the
+morning and in the evening), and report to the quarantine station indicated below.
+
+•
+
+If you experience fever, severe coughs, breathing difficulty or other respiratory
+symptoms, report immediately as follows.
+1)
+
+2)
+
+•
+
+Contact the quarantine station indicated below, and report your name,
+quarantine ID and your present status. Follow the instructions given by the
+quarantine station’s representative.
+Contact a local health center or medical institution, ask about appropriate
+facilities and methods of consultation, and receive a medical check by a
+medical institution.
+
+If you leave Japan before the end of the specified period, contact the quarantine
+station indicated below and report your embarkation.
+
+{
+
+Your quarantine code:
+
+{
+
+You are required to report to the following quarantine station until:
+Quarantine station:
+
+Address
+Telephone
+
+Morning report
+(From : a.m. to :
+p.m.)
+Evening report
+(From : a.m. to :
+p.m.)
+Emergency contact in the case of high fever etc. (after the above indicated hours):
+
+Note 1. This reporting is based on Section 2, Article 18 of the Quarantine Law. Please
+answer all questions truthfully. If you neglect the reporting or report false
+information, you are subject to imprisonment or fine under Item 7, Article 36 of
+the Law.
+
+28
+
+Attachment 5
+
+Instructions to Immigrants Who Stayed in Regions Where
+Pandemic Influenza Occurs
+1.
+
+There are some asymptomatic days after the infection of pandemic influenza. Therefore,
+the observation period is set by law. To ensure pandemic influenza preparedness, please
+observe the following instructions for
+days.
+(1)
+
+Take the temperature in the morning and evening and check your health status for
+days.
+
+(2)
+
+After returning home, please wear the distributed mask when you go out to
+prevent the spread of the infection .
+
+(3)
+
+If you develop any of the following symptoms, contact a health center to report
+that you returned from a region where pandemic influenza occurs, and ask for
+advice on appropriate medical facilities. Receive an examination by a physician at
+an advised medical institution.
+• Fever • Severe coughs, breathing difficulty and other respiratory symptoms
+
+2.
+
+If your family etc. develop the abovementioned symptoms, contact a local health center
+or medical institution by telephone, and follow their instructions. At that time, report
+that you returned from a region where pandemic influenza occurs.
+
+Take this sheet to a medical institution as necessary.
+
+Ministry of Health, Labour and Welfare/Quarantine Station
+
+29

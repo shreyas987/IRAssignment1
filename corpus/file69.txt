@@ -1,0 +1,21 @@
+<doc url="https://www.businessinsider.com/how-wuhan-coronavirus-compares-to-other-outbreaks-pandemics-2020-1" parent_folder="web2" id="file17334793" filename="how-wuhan-coronavirus-compares-to-other-outbreaks-pandemics-2020-1">
+<p> One chart shows how the Wuhan coronavirus compares to other major outbreaks and pandemics in the last 50 years </p>
+<p> A coronavirus that originated in Wuhan, China, has killed at least 259 people and infected more than 11,000. </p>
+<p> Coronaviruses are zoonotic diseases, meaning they can pass from animals to humans. Both this virus and SARS likely originated in bats, then jumped to people. </p>
+<p> Since December 31, the Wuhan coronavirus has killed at least 259 people and infected more than 11,000 across 24 countries, including the US. </p>
+<p> The outbreak isn't currently considered a pandemic, despite its rapid spread. The World Health Organization (WHO) did, however, declare it a global public-health emergency on Thursday. </p>
+<p> Here's how the Wuhan outbreak compares to other major virus outbreaks in the last 50 years. </p>
+<p> The chart above does not include mosquito-borne viruses like Zika, malaria, and Dengue fever. </p>
+<p> All of these diseases jumped from animals to people </p>
+<p> According to experts, the new coronavirus likely originated in bats. More than 75% of emerging diseases originate in animals; these are called zoonotic diseases, meaning they can jump from animals to people. At least 10 outbreaks in the last century have spilled over to humans from mammals like bats, birds, and pigs. </p>
+<p> Ebola jumped from fruit bats in west Africa 40 years ago and has killed more than 13,500 people in multiple outbreaks. The Marberg virus, SARS (severe acute respiratory syndrome), MERS (Middle Eastern respiratory syndrome), and Nipah also originated in bats. </p>
+<p> The H7N9 and H5N9 bird flus, meanwhile, jumped from infected poultry to people in Chinese markets, together killing more than 1,000 people. </p>
+<p> The 2009-2010 swine flu pandemic (also known as H1N1) started, of course, in pigs. It killed at least 284,500 people in a global pandemic that spread to 214 countries, overseas territories, and communities in less than a year, according to the WHO. </p>
+<p> In 2019, the WHO reported that the fatality rate for H1N1 was 0.02%. </p>
+<p> According to experts, diseases will continue to spill over from animals to humans as the global population grows. The more people there are on Earth, the more our species moves into wild habitats and encounters creatures that harbor viruses. </p>
+<p> "Infectious diseases will continue to emerge and re-emerge. I think it's part of the world we live in now," Eric Toner, a senior scientist at the Johns Hopkins Center for Health Security, previously told Business Insider. "We're in an age of epidemics because of globalization, because of encroachment on wild environments." </p>
+<p> Correction: A previous version of the chart in this article incorrectly reported the case-fatality rate of H1N1. It is 0.02%. </p>
+<p> Healthcare Explained: </p>
+<p> Know the latest in healthcare industry with our Healthcare newsletter. </p>
+<p> Email address </p>
+<p> By clicking ‘Sign up’, you agree to receive marketing emails from Business Insider as well as other partner offers and accept our Terms of Service and Privacy Policy. </p>

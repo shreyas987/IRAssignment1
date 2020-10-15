@@ -1,0 +1,45 @@
+<doc url="https://www.latimes.com/science/story/2020-02-06/what-is-a-pandemic-coronavirus" parent_folder="web1" id="file17334735" filename="what-is-a-pandemic-coronavirus">
+<p> What is a pandemic? Does the coronavirus qualify? </p>
+<p> The coronavirus outbreak that originated in China has been considered a global health emergency for more than a month. Now, the World Health Organization says it’s a “pandemic.” Why? </p>
+<p> Excellent question. Let’s review some epidemiology basics to find out. </p>
+<p> Think back to the town where you grew up, and the infections that made the rounds. An “endemic” level of disease — or a community’s baseline prevalence of it — isn’t always zero. Consider chicken pox in the United States, or malaria in some African countries. Endemic disease certainly isn’t preferable, but it’s expected. </p>
+<p> A sudden increase in the number of people with a particular disease in a limited area can signal the onset of an outbreak. So can the emergence of an unusual type of disease, such as a strain of the flu that’s never been seen before. </p>
+<p> Advertisement </p>
+<p> If an outbreak expands to a broader population, it becomes an epidemic. </p>
+<p> A coronavirus infection can have common symptoms like a cough or fever. There can also be serious problems, including pneumonia or kidney failure. </p>
+<p> The WHO’s decision to declare a “public health emergency of international concern” in early February wasn’t arbitrary. The global health agency considers three factors when weighing that designation: </p>
+<p> 1. Is the outbreak unusual or unexpected? With a never-before-seen virus like the coronavirus that causes COVID-19, the answer was yes. </p>
+<p> Advertisement </p>
+<p> 2. Does the outbreak have implications for health beyond a national border? When the emergency was declared, there were dozens of reported cases on four continents, so the answer was another yes. </p>
+<p> 3. Does the outbreak require immediate international action? Since airport screenings and aid money were needed to attempt to contain the virus’ spread, the answer was once again yes. </p>
+<p> But epidemics can be severe without ever rising to the level of a pandemic, so long as they predominantly affect one region — in this case, China. </p>
+<p> The Centers for Disease Control and Prevention defines a pandemic as one that has spread to several countries or continents, usually affecting a large number of people. The severity of illnesses is not a consideration, nor is the number of deaths. </p>
+<p> Advertisement </p>
+<p> With more than 125,000 confirmed cases on six continents, the term “pandemic” clearly applies. </p>
+<p> “Diseases are not terribly good at respecting borders,” said Alex Azar, secretary of the Department of Health and Human Services. </p>
+<p> The new coronavirus has demonstrated that it can spread readily between humans. That makes it more similar to influenza — a classic pandemic agent — than to other coronaviruses. </p>
+<p> Advertisement </p>
+<p> Beyond the case count, a pandemic contrasts with an epidemic because it has global consequences. </p>
+<p> That’s why Middle Eastern respiratory syndrome never became a pandemic. Since the coronavirus that causes MERS began circulating in humans in 2012, it has infected only about 2,500 people, mostly in and around the Arabian Peninsula. </p>
+<p> A face mask won’t do much to protect you from the new coronavirus from China. If you want to reduce your risk of getting sick, focus on washing your hands. </p>
+<p> On the other hand, severe acute respiratory syndrome earned pandemic status because it affected 26 countries. The coronavirus that causes SARS triggered ongoing chains of transmission not just in China, the epicenter, but also in Canada, Hong Kong, Taiwan, Singapore, and Vietnam. </p>
+<p> Advertisement </p>
+<p> The COVID-19 coronavirus could wind up following the path of the H1N1 swine flu, which caused a pandemic in 2009. That outbreak subsided in 2010, but the virus continues to circulate as one of the primary strains of the seasonal flu. </p>
+<p> Sam Scheiner, a mathematical modeling expert for infectious diseases at the National Science Foundation. said that if the new coronavirus joins the list of seasonal respiratory viruses, it could ultimately lead to tens of thousands of deaths in the United States each year. </p>
+<p> Newsletter </p>
+<p> Get our free Coronavirus Today newsletter </p>
+<p> Sign up for the latest news, best stories and what they mean for you, plus answers to your questions. </p>
+<p> Enter Email Address </p>
+<p> Sign Me Up </p>
+<p> You may occasionally receive promotional content from the Los Angeles Times. </p>
+<p> Updates: </p>
+<p> 3:41 PM, Mar. 11, 2020: This story was originally published on Feb. 6. It was updated on March 11 after the World Health Organization announced that the coronavirus outbreak had become a pandemic. </p>
+<p> Sign up for the latest news, best stories and what they mean for you, plus answers to your questions. </p>
+<p> Enter Email Address </p>
+<p> Sign Me Up </p>
+<p> You may occasionally receive promotional content from the Los Angeles Times. </p>
+<p> Emily Baumgaertner is a national correspondent for the Los Angeles Times focused on medical investigations and features. She joined the paper in 2019 from the New York Times and has a graduate degree in public health. </p>
+<p> A U.S. advisory panel says decisions about who should get priority for COVID-19 vaccines should focus on disadvantaged areas to remedy racial health disparities. </p>
+<p> When President Trump said he had tested positive for the coronavirus, he became ground zero for the most high-profile contact-tracing effort of the pandemic. </p>
+<p> For all the medical care President Trump commands, he confronts the same uncertainties that 7.3 million Americans with COVID-19 have faced already. </p>
+<p> A dream of Dr. Fauci on mute, as President Trump gets COVID while scientists are sidelined. </p>

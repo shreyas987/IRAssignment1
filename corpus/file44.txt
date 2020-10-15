@@ -1,0 +1,24 @@
+<doc url="https://apic.org/monthly_alerts/outbreaks-epidemics-and-pandemics-what-you-need-to-know/" parent_folder="web1" id="file17334770" filename="outbreaks-epidemics-and-pandemics-what-you-need-to-know">
+<p> Outbreaks, epidemics and pandemics—what you need to know </p>
+<p> An outbreak is a sudden rise in the number of cases of a disease. An outbreak may occur in a community or geographical area, or may affect several countries. It may last for a few days or weeks, or even for several years. </p>
+<p> Some outbreaks are expected each year, such as influenza. Sometimes a single case of an infectious disease may be considered an outbreak. This may be true if the disease is rare (e.g., foodborne botulism) or has serious public health implications (e.g., bioterrorism agent such as anthrax). </p>
+<p> What is an epidemic? </p>
+<p> An epidemic occurs when an infectious disease spreads rapidly to many people. In 2003, the severe acute respiratory syndrome (SARS) epidemic took the lives of nearly 800 people worldwide. </p>
+<p> What are pandemics? </p>
+<p> A pandemic is a global disease outbreak. It differs from an outbreak or epidemic because it: </p>
+<p> affects a wider geographical area, often worldwide. </p>
+<p> infects a greater number of people than an epidemic. </p>
+<p> is often caused by a new virus or a strain of virus that has not circulated among people for a long time. Humans usually have little to no immunity against it. The virus spreads quickly from person-to-person worldwide. </p>
+<p> causes much higher numbers of deaths than epidemics. </p>
+<p> often creates social disruption, economic loss, and general hardship. </p>
+<p> The influenza (flu) pandemic of 1918-1919 killed between 20 and 40 million people. It is one of the most devastating pandemics in recorded world history. 2009 H1N1 influenza was a more recent global pandemic. </p>
+<p> While an influenza pandemic is rare, they do reoccur periodically. Some pandemics are worse than others. </p>
+<p> Public health experts say it’s not a matter of IF a flu pandemic will happen, but WHEN. It is essential to be prepared. </p>
+<p> Plan ahead in case services are disrupted. This is especially important if someone in your family has special needs. For example, make sure to have a way to fill needed prescriptions. </p>
+<p> Make a list of important contacts for home, school, and work. </p>
+<p> Talk with your neighbors, workplace, and school about how to plan for staying home if you or your household members are sick. </p>
+<p> Buy and store at least two weeks’ supplies of food, water, medicine, and facemasks. </p>
+<p> Stay as healthy as you can by getting adequate rest, managing stress, eating right, and continuing to exercise. </p>
+<p> Making plans now will help you to be ready for the next flu pandemic. </p>
+<p> For more information on influenza pandemics preparedness, go to www.flu.gov. You can also call the CDC Hotline at 800-CDC-INFO (800-232-4636) or email questions to cdcinfo@cdc.gov. </p>
+<p> Information is also available from your local and state health department. </p>

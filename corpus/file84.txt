@@ -1,0 +1,92 @@
+<doc url="https://www.agriculture.gov.au/pests-diseases-weeds/animal/avian-influenza" parent_folder="web3" id="file17334853" filename="avian-influenza">
+<p> Coronavirus (COVID-19) response </p>
+<p> We are working to keep our agriculture, fishery and forestry industries strong during the COVID-19 outbreak. See how COVID-19 may affect you. </p>
+<p> Avian Influenza or Bird Flu </p>
+<p> ​​​​​​​​​​​The Key Facts </p>
+<p> Avian influenza and human pandemic influenza are different diseases. </p>
+<p> Avian influenza in birds does not easily cause disease in humans. There have been numerous deaths from H5N1 avian influenza in the world since the virus first emerged in 2003. </p>
+<p> In 2013 a H7N9 strain of avian influenza in poultry emerged which caused human deaths in China. </p>
+<p> There is only the most remote possibility of a human pandemic influenza developing in Australia as a result of migratory birds carrying avian influenza virus to Australia. If a human pandemic influenza develops as a result of mutation of an avian influenza virus, it will most likely occur somewhere else in the world and any spread to Australia would be from international travellers. </p>
+<p> Surveillance continues to show H5N1 avian influenza virus is not present in Australia. Waterfowl, which are the normal hosts of avian influenza and are thought to have had a role in the spread of the H5N1 virus in Europe, Asia and Africa do not migrate to Australia. A number of species of wading birds do migrate to Australia but they are not the normal hosts or spreaders of avian influenza. Australia’s strict biosecurity measures prevent the disease coming into Australia through imported birds or poultry products. </p>
+<p> There is little risk of people in Australia being affected by avian influenza through normal contact with birds. As always, practice good personal hygiene when handling birds. </p>
+<p> Aviary birds, caged birds and back yard birds are at little risk if simple measures such as preventing them mixing with wild birds and protecting their feed and water supply are adopted. More information on bird biosecurity. </p>
+<p> Australia is well prepared to deal with a case of avian influenza should it occur in poultry here. There have been seven minor incidents of highly pathogenic avian influenza (all involving types of avian influenza which have not caused disease in humans) in Australia, the last being in 2013. Each was eradicated before the disease was able to significantly spread. Workers involved with diseased poultry did not become infected with avian influenza in any of these outbreaks. </p>
+<p> Australia has a surveillance program to detect incursions of avian influenza. </p>
+<p> National health and agriculture simulation exercises have been held to better prepare Australia for an outbreak of avian influenza in both humans and/or birds. </p>
+<p> Public alarm about avian influenza and confusion between avian influenza and human pandemic influenza may unnecessarily damage Australia's poultry industry. </p>
+<p> Eggs, meat and poultry products in Australia are safe. </p>
+<p> ​ </p>
+<p> About the Disease </p>
+<p> [expand all] </p>
+<p> What is avian influenza? </p>
+<p> Avian Influenza (AI) is a viral disease of birds. There are many strains of AI virus that cause infections of different severity. These range from low pathogenic or mild, to highly pathogenic strains that are associated with severe disease and high mortality in poultry. </p>
+<p> The disease occurs worldwide. </p>
+<p> What is H5N1? </p>
+<p> H5N1 is a particular strain of highly pathogenic avian influenza. </p>
+<p> What species of animals does avian influenza affect? </p>
+<p> All bird species are thought to be susceptible, with reports showing it to occur in more than 140 species including domestic poultry - chickens, turkeys, pheasants, partridges, quail, pigeons, ducks, geese, guinea fowl and ostriches - and wild birds. </p>
+<p> AI viruses usually only infect birds but pigs, tigers, leopards and domestic cats have also been infected with H5N1. </p>
+<p> What are the clinical signs of avian influenza in birds? </p>
+<p> The clinical signs are variable and depend on a range of factors including the virulence of the virus, the species and age of the birds infected, the presence of concurrent diseases, and the environment. </p>
+<p> In very severe forms, such as H5N1, the disease appears suddenly and birds die quickly. </p>
+<p> Can poultry be treated for avian influenza? </p>
+<p> No. AI is a severe viral disease and there is currently no effective treatment available for birds once clinical signs of disease appear. Vaccines are available for certain subtypes of avian influenza, which may protect poultry from clinical signs of disease if they subsequently become infected. However, routine vaccination for AI is not permitted in Australia. </p>
+<p> How does avian influenza spread? </p>
+<p> AI is spread by wild birds, particularly ducks, contaminating food or water supplies. Migratory birds (predominantly shore birds and waders from nearby countries in South East Asia) can pose a risk if they harbour AI infection and then mingle with, and transmit this infection to waterfowl that are nomadic within Australia. These nomadic birds can then mingle with and spread the infection to domestic birds such as poultry. </p>
+<p> The disease is also spread by animal to animal contact, bites and scratches; and the movement of infected live birds, poultry products or contaminated feed, equipment and materials. The disease can survive in faeces, on feathers, eggs or meat and in water. </p>
+<p> How can I stop avian influenza from spreading? </p>
+<p> If you own birds, don’t let their water and feed become contaminated, store feed in a sealed container away from wild birds. Only use town or bore water, if these sources are not available, drinking water should be treated with chlorine or other methods that would inactivate the virus. </p>
+<p> Use netting or fencing to keep out wild birds. Regularly clean bird equipment and pens with a household disinfectant, do not share bird equipment with other bird owners. </p>
+<p> Always thoroughly wash your hands and clothing with soap and hot water before and after handling birds. Footwear can be cleaned with normal household disinfectants, washing soda or vinegar. </p>
+<p> Can anything be done to control AI infection in wild birds? </p>
+<p> WHO, FAO and the OIE agree that control of avian influenza infection in wild bird populations is not feasible and should not be attempted. </p>
+<p> Wild waterfowl have been known for some time to be the natural reservoir of all influenza A viruses. Migratory birds can carry these viruses, in their low-pathogenic form, over long distances, but do not usually develop signs of illness and only rarely die of the disease. </p>
+<p> The instances in which highly pathogenic avian influenza viruses have been detected in migratory birds are likewise rare and the role of these birds in the spread of highly pathogenic avian influenza remains poorly understood.​ </p>
+<p> Avian Influenza and Australia </p>
+<p> [expand all] </p>
+<p> What is Australia doing about avian influenza? </p>
+<p> The Australian Government has been aware of this strain of the disease since its emergence in 1997 and again when it took hold in many Asian countries in 2003. </p>
+<p> Biosecurity </p>
+<p> The chicken meat and egg industries in Australia have strict biosecurity systems in place that include provisions to keep wild birds away from production birds. Poultry farmers are on high alert and are backed up by diagnostic facilities and response plans, the equal of anywhere in the world. </p>
+<p> Biosecurity isn't just the responsibility of commercial producers. The Australian Government has been working hard to make all Australian bird owners aware of the threat of AI and the importance of keeping pests and diseases away from birds and livestock. Biosecurity campaigns have been undertaken with bird fanciers, small rural landholders and recreational shooters. </p>
+<p> Outbreak ResponseCapability </p>
+<p> Australia is well prepared to handle an outbreak of AI should the disease occur here because of past experience, international connections, linkages with health and well-tested emergency response plans. </p>
+<p> Animal health authorities have had contingency plans in place for many years to minimise the impact of an outbreak of AI in Australia. These procedures are outlined in the Australian Veterinary Emergency Plan (AUSVETPLAN). AUSVETPLAN describes the response measures that will be used should an outbreak occur, including the culling of infected birds, disposal method used for carcasses and sanitary measures that will be adopted at infection sites to contain the disease. </p>
+<p> Biosecurity officers at airports, seaports and international mail centres have been on high alert for bird and poultry products since the first, isolated cases of avian influenza were reported in Asia in late 2003. </p>
+<p> Birds, poultry meat and poultry products (including eggs, egg products, feathers, and vaccines) from overseas can carry diseases including avian influenza. Poultry meat and products are not allowed into Australia and are seized and destroyed by Biosecurity. </p>
+<p> All incoming international mail is also subject to biosecurity intervention. Additionally, incoming international passengers’ baggage may be x-rayed, inspected or checked by detector dogs for biosecurity risk items. Surveillance for avian influenza is undertaken under the Northern Australia Quarantine Strategy as bird flu is a target disease under this strategy. </p>
+<p> Has H5N1 highly pathogenic avian influenza ever occurred in Australia? </p>
+<p> The H5N1 strain has never been reported in Australia. There have been seven outbreaks of other highly pathogenic avian influenza strains (which have not caused disease in humans) in commercial bird flocks in Australia, all of which were successfully eradicated. The last reported case was in 2013 in Young, New South Wales. Previous outbreaks occurred in commercial poultry farms in New South Wales (2012), Victoria (1976, 1985 and 1992) and Queensland (1994). </p>
+<p> What would happen if AI came to Australia? </p>
+<p> A highly pathogenic avian influenza outbreak in Australia would have devastating effects on Australia’s poultry meat and egg industries, which contribute enormously to the Australian economy. </p>
+<p> For example in 2003, the Netherlands culled over 30 million birds in order to eradicate the disease. Eradication cost more than €150 million (Euros) approximately $252 million (Australian dollars). </p>
+<p> The risk of a human pandemic influenza is serious. Each additional human case gives the virus an opportunity to improve its transmissibility in humans. The severity of disease and estimated number of deaths caused by a pandemic virus vary greatly and will not be known prior to the emergence of the virus. </p>
+<p> What should I do if I suspect an outbreak and need to report it? </p>
+<p> Talk to your local vet, the Chief Veterinary Officer (CVO) in your state or territory or call the 24 hour Emergency Animal Disease Watch Hotline: </p>
+<p> Phone 1800 675 888 - freecall from within Australia </p>
+<p> Human Health </p>
+<p> [expand all] </p>
+<p> Human Health </p>
+<p> Transmission to humans occurs predominantly through handling live or dead infected birds or very close contact with them and their excretions. Clinical signs and symptoms of AI in humans include fever, sore throat, respiratory distress, pneumonia and in some cases death. </p>
+<p> People do not get infected with AI through eating properly cooked chicken meat and eggs. There is currently no evidence of efficient human-to-human transmission with H5N1 avian influenza viruses. </p>
+<p> If AI were to pose a significant threat (direct or indirect) to Australia's human population, the Australian Government would activate the Australian Health Management Plan for Pandemic Influenza. This plan provides direction for the development of actions by all Australian Governments, their agencies and emergency services in the event of such an occurrence. </p>
+<p> Is it safe to eat chicken? </p>
+<p> Yes, it is safe to eat properly cooked chicken meat and eggs. </p>
+<p> Should travellers take special precautions? </p>
+<p> Before departing discuss the risk of avian influenza with your doctor as part of your routine pre-travel health checks. </p>
+<p> Australians travelling overseas are encouraged to avoid contact with live domestic birds (such as chickens, ducks and geese) on farms and in market places and avoid contact with sick or dead birds. Practise good hygiene at all times. Ensuring all uncooked poultry and eggs are handled hygienically with careful attention to hand washing after handling. Only eat properly cooked poultry and eggs. Proper cooking destroys the virus in poultry and eggs. </p>
+<p> Based on available information, the evolution of a new clade of the H5N1 virus (described as H5N1 clade 2.3.2.1) identified in 2011 as circulating in poultry in parts of Asia poses no increased risk to public health. It is not considered unusual because influenza viruses are constantly evolving, especially in areas where they circulate regularly in poultry. </p>
+<p> While travelling, it is suggested that you regularly check the Department of Foreign Affairs and Trade Travel Bulletin and country specific travel advice for information about any change to the current situation and whether additional precautions are recommended. </p>
+<p> Returning to Australia </p>
+<p> When returning to Australia from overseas, you must declare for inspection any poultry meat and products (including raw or cooked chicken and duck), fresh or preserved eggs or egg products, feathers and items containing feathers, poultry vaccines, and any other animal products, plant material and food. </p>
+<p> Information for recreational shooters </p>
+<p> Duck shooters have an important role in detecting and reporting diseases in wild birds! </p>
+<p> Many species of wild birds, especially waterfowl, can carry the virus but generally show no signs of disease. Australia does not have migratory waterfowl with known flyways. The risk of waterfowl catching AI is posed when they mingle with shore birds and waders that come to Australia from Asia. In order to mount an effective Australian response, ongoing vigilance and early reporting of signs of the disease is crucial. The immediate reporting of anything unusual such as large numbers of dead birds will ensure authorities can contain and eradicate the disease as quickly as possible. </p>
+<p> The H5N1 HPAI can infect humans who come in very close contact with infected birds or their excrement. The virus can survive in bird excrement for over a month and can survive in water for many days, if not weeks, depending on temperature. It is important to know that freezing poultry does not kill the virus. </p>
+<p> Although H5N1 HPAI has never been detected in wild birds in Australia, several subtypes of low pathogenic avian influenza are known to circulate at low levels in waterfowl and shorebird species. These viruses are not believed to cause clinical signs of disease in wild birds. However, it is important for recreational shooters, bush walkers and others such as poultry owners to be vigilant and report any unusual signs of the disease in birds immediately. </p>
+<p> It is recommended that if handling wild birds, you practise good hygiene. If you come across a large number of dead birds or any other circumstances that look unusual, you should not handle the birds without the proper personal protection equipment. You should then take immediate action. Telephone the national Emergency Animal Disease Watch Hotline on 1800 675 888. Alternatively, contact the Department of Primary Industries or Agriculture in your state or territory or tell your local veterinarian. </p>
+<p> Where to get more public health information </p>
+<p> The Australian Government Department of Health website provides information of the human health aspects of bird flu. A hotline is also available for people requiring further information: </p>
+<p> Phone 1800 004 599 - free call from within Australia (8:30am - 5pm) </p>
+<p> Please tell us more in your own words (do not provide personal details) </p>
+<p> We aren't able to respond to your individual comments or questions. To contact us directly phone us or submit an online inquiry </p>

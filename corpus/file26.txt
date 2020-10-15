@@ -1,0 +1,87 @@
+<doc url="https://www.businessinsider.com/coronavirus-pandemic-timeline-history-major-events-2020-3" parent_folder="web1" id="file17334760" filename="coronavirus-pandemic-timeline-history-major-events-2020-3">
+<p> A comprehensive timeline of the coronavirus pandemic at 9 months, from China's first case to the present </p>
+<p> The first case of the novel coronavirus was reported in Wuhan, China, in December. </p>
+<p> In the nine months since, the virus has infected more than 33 million people and killed more than 1 million. </p>
+<p> Here is a timeline of the most significant events and milestones of the pandemic. </p>
+<p> December 31, 2019: Chinese Health officials informed the World Health Organization about a cluster of 41 patients with a mysterious pneumonia in the city of Wuhan. </p>
+<p> Though the first 41 cases were reported December 31, some reporting suggests the virus could have started spreading as early as November. </p>
+<p> January 1, 2020: Chinese authorities closed the Huanan Seafood Wholesale Market, to which many cases in that early cluster had links. </p>
+<p> Researchers think the coronavirus originated in bats, then may have jumped to an intermediary species that passed it to people. </p>
+<p> China has since banned the buying, selling, and transportation of wild animals in markets, restaurants, and online marketplaces across the country. </p>
+<p> But later research has suggested that the market simply boosted transmission of the coronavirus — it wasn't the outbreak's original origin site. </p>
+<p> January 7: Chinese authorities identified the virus that caused the illness as a new type of coronavirus. </p>
+<p> Other viruses in the coronavirus family cause the common cold, pneumonia, and SARS. </p>
+<p> January 11: China recorded its first coronavirus death. </p>
+<p> The first person to die was a 61-year-old man who was a frequent customer at the Huanan market. </p>
+<p> January 13: The first coronavirus case outside China was reported in Thailand. </p>
+<p> A 61-year-old female tourist in Thailand was diagnosed on January 13. She'd recently spent time in Wuhan. Airports in Hong Kong, Singapore, Thailand, and South Korea began to screen passengers for fever. </p>
+<p> January 20: The first US case was reported: a 35-year-old man in Snohomish County, Washington. </p>
+<p> The man left Wuhan and landed at the Seattle-Tacoma International Airport on January 15. He reported to urgent clinic with pneumonia symptoms on January 19. He was diagnosed with the coronavirus a day later. </p>
+<p> January 23: Chinese authorities placed the 11-million-person city of Wuhan under quarantine, and the rest of the Hubei province days later. </p>
+<p> The Hubei lockdowns affected an estimated 60 million people, making China's action the largest quarantine in history at the time. </p>
+<p> January 30: The WHO declared a "public-health emergency of international concern." </p>
+<p> January 31: President Donald Trump banned foreign nationals from entering the US if they'd been in China within the prior two weeks. </p>
+<p> February 2: The first coronavirus death outside of China was recorded in the Philippines. </p>
+<p> February 6: A person in California died from COVID-19, the first known American death. </p>
+<p> Santa Clara County officials found via autopsies that three people who died in their homes on February 6, February 17, and March 6 had the coronavirus. </p>
+<p> Before those cases were identified, officials thought that a fatality reported in Washington state on February 29 was the earliest US death from the coronavirus. </p>
+<p> February 7: Wuhan doctor and whistleblower Li Wenliang died. At the onset of the outbreak, Li warned contacts from medical school about a new virus but was reprimanded by authorities. </p>
+<p> Li was forced to sign a letter saying he made "false comments" after he alerted fellow doctors about the worrisome pneumonia-like disease. </p>
+<p> Li caught the coronavirus himself and died a little more than a month later. He left behind a son and pregnant wife. After his death, Chinese social media was filled with outpourings of grief and anger. Many posts featured a hashtag saying "We want freedom of speech." </p>
+<p> February 9: The death toll in China surpassed that of the 2002-2003 SARS epidemic, which killed 774 people globally. </p>
+<p> SARS infected 8,098 people globally over eight months in 2002 and 2003. The total global COVID-19 case count surpassed that of SARS in just a month. By February 9, the new coronavirus' death toll in China exceeded the total number of people killed worldwide by SARS. </p>
+<p> February 11: The WHO announced that the disease caused by the new coronavirus would be called COVID-19. </p>
+<p> "We had to find a name that did not refer to a geographical location, an animal, an individual, or group of people," WHO director-general, Tedros Adhanom Ghebreyesus, said, adding that the WHO wanted a name that was "pronounceable and related to the disease." </p>
+<p> February 12: Coronavirus cases started to spike in South Korea. </p>
+<p> As China's daily number of new cases began to stabilize, South Korea's began to soar. </p>
+<p> A 61-year-old member of the controversial Shincheonji Church of Jesus triggered a "superspreader" event at the church's Daegu branch. The woman had come into contact with more than 1,000 churchgoers at several tightly packed services. </p>
+<p> South Korea quickly implemented widespread testing and contact tracing, which enabled it to get the outbreak under control. </p>
+<p> February 14: A Chinese tourist who tested positive for the virus died in France, becoming Europe's first death tied to the outbreak. </p>
+<p> February 19: Iran's coronavirus outbreak began to grow. </p>
+<p> Iran's schools and universities closed February 23, as did movie theaters and cultural centers. The country released 54,000 prisoners to prevent outbreaks in its prisons. </p>
+<p> According to Reuters, 23 members of Iran's parliament — 8% — had gotten the coronavirus by early March. Fatemeh Rahbar, a conservative lawmaker from Tehran, died. </p>
+<p> February 21: COVID-19 cases spiked in Italy. </p>
+<p> The country's coronavirus caseload skyrocketed at the end of February — more than 110,000 people were infected at the time. In total, more than 313,000 people have gotten the coronavirus in Italy. </p>
+<p> February 29-March 19: Nearly all US states declared a state of emergency. </p>
+<p> The announcements enabled states to activate emergency response plans and spend money on preparedness actions such as deploying additional personnel, buying equipment, and preparing stockpiles of supplies. </p>
+<p> March 3: Coronavirus cases began to sharply increase in Spain, marking the start of its outbreak. </p>
+<p> Spain passed 100,000 confirmed cases of COVID-19 on March 31. More than 748,000 people have gotten infected there in total. </p>
+<p> March 9: Italy placed all 60 million residents under lockdown. </p>
+<p> The country initially saw two regions in the north become hotspots, so locked down towns there on February 23. Then on March 9, the government expanded the restriction zone to encompass the entire nation. </p>
+<p> March 11: The WHO declared the outbreak a pandemic. </p>
+<p> The WHO made the designation based on the geographic spread of the disease, the severity of illnesses it causes, and its effects on society. </p>
+<p> "Pandemic is not a word to use lightly or carelessly," Tedros said. </p>
+<p> March 11: President Trump banned travel from 26 European countries. </p>
+<p> March 13: Trump declared a national emergency. </p>
+<p> The declaration triggered the Stafford Act and allowed for more federal aid to states and municipalities. </p>
+<p> March 19: China reported no new locally spread infections for the first time since the pandemic began. </p>
+<p> March 23: New York City became the epicenter of the coronavirus outbreak in the US. </p>
+<p> New York has recorded more than 456,000 cases. More than 33,000 people there have died. </p>
+<p> March 26: The US became the world leader in confirmed cases with 82,404, surpassing China's 81,782 and Italy's 80,589 at the time. </p>
+<p> March 31: More than one-third of humanity was under some form of lockdown. </p>
+<p> April 2: The world passed 1 million COVID-19 infections. </p>
+<p> April 7: Roughly 95% of all Americans were under some form of lockdown as a result of state, county, or city orders. </p>
+<p> Governors in 42 states had issued stay-at-home orders by the end of March, affecting a total of 308 million people, or about 95% of the US population. </p>
+<p> April 10: The global death toll surpassed 100,000. </p>
+<p> April 14: President Trump ordered a halt on $400 million in US funding for the World Health Organization. </p>
+<p> Trump blamed the WHO for "severely mismanaging and covering up the spread of the coronavirus." </p>
+<p> April 24: Coronavirus cases began to spike in Brazil. </p>
+<p> By the end of September, Brazil had reported more than 4.7 million cases — the world's third-highest total after the US and India. </p>
+<p> May 11: Many countries, including Spain, Iran, Italy, New Zealand, and Thailand, began to ease lockdown restrictions. </p>
+<p> May 16: Coronavirus cases begin to surge in India. </p>
+<p> By late September, India had reported more than 6.1 million coronavirus cases and more than 96,000 deaths. </p>
+<p> May 21: The number of global COVID-19 cases surpassed 5 million. </p>
+<p> June 28: Global cases surpassed 10 million, and global deaths surpassed 500,000. </p>
+<p> By June 30 — exactly six months after China confirmed the existence of this new virus — authorities had reported more than 10 million cases globally. About half of those were active and ongoing, while the other half had recovered. </p>
+<p> September 22: US deaths from COVID-19 topped 200,000. </p>
+<p> In March, a group of disease modelers predicted that COVID-19 would kill as many as 195,000 people in the US by the end of the year. The country reached that number three months earlier than expected. </p>
+<p> September 28: Global deaths surpassed 1 million. </p>
+<p> The US, Brazil, and India combined account for nearly half of the total count. </p>
+<p> The 1 million figure number is known to be an undercount, however, given the lack of widespread testing in many nations, as well as suspected concealment of cases and deaths in some countries like Russia and Brazil. </p>
+<p> This story was originally published on March 19. It is regularly updated with new information. </p>
+<p> Holly Secon contributed reporting. </p>
+<p> Healthcare Explained: </p>
+<p> Do you have a personal experience with the coronavirus you'd like to share? Or a tip on how your town or community is handling the pandemic? Please email covidtips@businessinsider.com and tell us your story. </p>
+<p> Know the latest in healthcare industry with our Healthcare newsletter. </p>
+<p> Email address </p>
+<p> By clicking ‘Sign up’, you agree to receive marketing emails from Business Insider as well as other partner offers and accept our Terms of Service and Privacy Policy. </p>

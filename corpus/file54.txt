@@ -1,0 +1,45 @@
+<doc url="https://www.bbc.com/news/world-51839944" parent_folder="web1" id="file17334725" filename="world-51839944">
+<p> The coronavirus outbreak has been labelled a pandemic by the World Health Organization (WHO). </p>
+<p> WHO chief Dr Tedros Adhanom Ghebreyesus said the number of cases outside China had increased 13-fold in two weeks. He said he was "deeply concerned" by "alarming levels of inaction". </p>
+<p> A pandemic is a disease that is spreading in multiple countries around the world at the same time. </p>
+<p> Hours later Italy said all shops except food shops and pharmacies would close. </p>
+<p> Announcing the toughest lockdown seen yet in Europe, Prime Minister Giuseppe Conte said bars, hairdressers, restaurants and cafes that could not guarantee a metre's distance between customers and non-essential company departments would also close. </p>
+<p> The impact of the tightened restrictions - in force from Thursday until 25 March - on the rate of new coronavirus cases would take a couple of weeks to be seen, Mr Conte said. </p>
+<p> What did the WHO say? </p>
+<p> Dr Tedros said that calling the outbreak a pandemic did not mean the WHO was changing its advice about what countries should do. </p>
+<p> He called on governments to change the course of the outbreak by taking "urgent and aggressive action". </p>
+<p> "Several countries have demonstrated that this virus can be suppressed and controlled," he said. </p>
+<p> "The challenge for many countries who are now dealing with large clusters or community transmission is not whether they can do the same - it's whether they will." </p>
+<p> Governments had to "strike a fine balance between protecting health, minimising disruption and respecting human rights". </p>
+<p> "We're in this together to do the right things with calm and protect the citizens of the world. It's doable," he said. </p>
+<p> His appeal was followed by the several other countries announcing ever more stringent restrictions to try to prevent the virus taking a hold. </p>
+<p> Denmark - which has 514 confirmed cases, up 10-fold since Monday, but no deaths so far - is to close all schools and universities from Friday and will send home all public sector employees who are not in critical roles in the coming days. The government also urged the cancellation of events with more than 100 people attending. </p>
+<p> Meanwhile India has suspended most visas for foreigners until 15 April and Guatemala is banning European citizens from entering from Thursday. </p>
+<p> What is the situation in Italy and Iran? </p>
+<p> The country has already closed schools, gyms, museums, nightclubs and other venues across the country. </p>
+<p> It has more than 12,000 confirmed cases and a death toll of 827. Nearly 900 people with the virus in Italy were in intensive care, the WHO's emergencies head Michael Ryan said. </p>
+<p> Dr Ryan said the situation in Iran - where the official figures are 354 deaths among 9,000 cases - was "very serious". The WHO had sent 40,000 testing kits to Iran but there was still a shortage of ventilators and oxygen. </p>
+<p> "Iran and Italy are suffering now but I guarantee you other countries will be in that situation very soon," he said. </p>
+<p> Earlier, Germany's Chancellor Angela Merkel warned that up to 70% of the country's population - some 58 million people - could contract the coronavirus. She said since there was no known cure, the focus would fall on slowing the spread of the virus. "It's about winning time," she said. </p>
+<p> Some German virologists dispute the high figure. Former federal government adviser on disease control, Prof Alexander Kekulé, told German media he saw a worst case scenario of 40,000 cases. </p>
+<p> The number of confirmed cases in Germany has risen to 1,567 from 1,296, the Koch institute for infectious diseases said. </p>
+<p> Why is it being called a pandemic now? </p>
+<p> By Philippa Roxby, BBC Health </p>
+<p> The use of the p-word by the WHO to describe the global spread of this new coronavirus is not a huge surprise. </p>
+<p> Up until now, it has talked merely of the "threat" or the "potential" for a pandemic. But with cases in more than 100 countries, and increasing numbers not linked to travel, the language has changed. </p>
+<p> The WHO no longer 'declares' a pandemic the way it used to, so this is as official as it gets. Yet this doesn't mean the pandemic cannot be controlled, it explains. </p>
+<p> It's a call to action and a plea for all countries not to give up, no matter how large the number of cases. </p>
+<p> Practically, countries are being told to continue to do what they have been advised to do. That means some may have to step up their response. </p>
+<p> But the WHO is not changing what it's doing or the threat level of the virus. </p>
+<p> What the use of the word "pandemic" highlights is the importance of countries around the world taking urgent action to respond to their own outbreaks - because now it's everyone's responsibility to turn the tide on the virus. </p>
+<p> What else is happening? </p>
+<p> France said there had been 48 deaths in the country, an increase of 15 from Tuesday. There are 2,281 confirmed cases. Coronavirus-linked restrictions have been extended to two more areas, France's health minister said. </p>
+<p> In the western US, Washington state is banning some large gatherings in certain areas and has told all school districts to prepare for possible closures in the coming days. The governor of Seattle's King County said he expected a serious coronavirus outbreak within weeks. </p>
+<p> In the eastern US, New York's governor announced that troops would be sent into New Rochelle, in an attempt to contain an outbreak of the virus, as the total number of US cases passed 1,000 on Wednesday. </p>
+<p> A one-mile (1.6km) containment zone was in force around the town north of Manhattan. Some individuals have been quarantined. </p>
+<p> Several countries - including Sweden and Bulgaria, as well as the Republic of Ireland - have recorded their first deaths, while the number of confirmed cases in Qatar jumped from 24 to 262. </p>
+<p> China - where the virus was first detected - has seen a total of 80,754 confirmed cases and 3,136 deaths. But it recorded its lowest number of new infections, just 19, on Tuesday. </p>
+<p> What are your experiences relating to the coronavirus outbreak? Share your experiences by emailing haveyoursay@bbc.co.uk. </p>
+<p> Please include a contact number if you are willing to speak to a BBC journalist. You can also contact us in the following ways: </p>
+<p> Name (optional) Your E-mail address (required) Town & Country (optional) Your telephone number (optional) Comments (required) </p>
+<p> If you are happy to be contacted by a BBC journalist please leave a telephone number that we can contact you on. In some cases a selection of your comments will be published, displaying your name as you provide it and location, unless you state otherwise. Your contact details will never be published. When sending us pictures, video or eyewitness accounts at no time should you endanger yourself or others, take any unnecessary risks or infringe any laws. Please ensure you have read the terms and conditions. </p>

@@ -1,0 +1,60 @@
+<doc url="https://www.verywellhealth.com/difference-between-epidemic-and-pandemic-2615168" parent_folder="web1" id="file17334781" filename="difference-between-epidemic-and-pandemic-2615168">
+<p> Difference Between an Epidemic and a Pandemic </p>
+<p> Trisha Torrey is a patient empowerment and advocacy consultant. She has written several books about patient advocacy and how to best navigate the healthcare system. </p>
+<p> UPDATE: On March 11, 2020, the World Health Organization characterized the new coronavirus (COVID-19) as a pandemic.﻿﻿ A pandemic is a global outbreak of a disease from a new virus. </p>
+<p> Epidemic is a term that is often broadly used to describe any problem that has grown out of control. An epidemic is defined as "an outbreak of a disease that occurs over a wide geographic area and affects an exceptionally high proportion of the population."﻿﻿ </p>
+<p> An epidemic is an event in which a disease is actively spreading. In contrast, the term pandemic relates to geographic spread and is used to describe a disease that affects a whole country or the entire world.﻿﻿ </p>
+<p> While casual use of epidemic may not require such nuance, it's important to know the differences between these two terms (and similar ones like outbreak and endemic) when considering public health news. In addition, from an epidemiologic standpoint, terms like these direct the public health response to better control and prevent a disease. </p>
+<p> Common Confusion </p>
+<p> While epidemic is typically used to describe matters of health (e.g. The opioid crisis in America has grown to epidemic proportions.), it is sometimes used colloquially to describe behavior (There's an epidemic of tantrums among preschoolers!) or behavioral phenomena (such as "epidemic hysteria"). </p>
+<p> While the usages are not inappropriate in the modern context, they can cause confusion. In addition, even when the word is used to define health issues, it may not accurately depict the scale or progression of a disease. In some cases, terms like outbreak or endemic may be more appropriate. In others, epidemic may fall short in describing the scale of the problem and be better defined as a pandemic. </p>
+<p> Disease Event Classification </p>
+<p> Epidemiology is the branch of medicine that deals with the incidence, distribution, and control of diseases. In the United States, the main body collecting and overseeing this data is the Centers for Disease Control and Prevention (CDC). Among its many functions, the CDC is tasked with directing the appropriate response to a disease occurrence. </p>
+<p> While the level of disease occurrence can be described in many ways, it is primarily defined by two measurable factors: </p>
+<p> The pattern and speed by which a disease moves (known as the reproduction rate) </p>
+<p> The size of the susceptible population (known as the critical community size) </p>
+<p> The role of epidemiology is to determine the disease prevalence (the proportion of people affected within a population) and incidence (the occurrence of a disease over a specific period of time) to direct the appropriate public health response. </p>
+<p> Definitions </p>
+<p> Based on the disease prevalence, incidence, and the known or unknown disease pathways, there are several ways an epidemiologist might describe a disease event: </p>
+<p> Sporadic refers to a disease that occurs infrequently or irregularly.﻿﻿ Foodborne pathogens, such as Salmonella or E. coli, can often cause sporadic disease outbreaks. </p>
+<p> Cluster refers to a disease that occurs in larger numbers even though the actual number or cause may be uncertain. An example is the cluster of cancer cases often reported after a chemical or nuclear plant disaster.﻿﻿ </p>
+<p> Endemic refers to the constant presence and/or usual prevalence of a disease in a geographic population.﻿﻿ </p>
+<p> Hyperendemic refers to persistent, high levels of disease well above what is seen in other populations. For example, HIV is hyperendemic in parts of Africa, whereas many as one in five adults has the disease, and endemic in the United States, where roughly one in 300 is infected.﻿﻿ </p>
+<p> Epidemic refers to a sudden increase in the number of cases of a disease above what is normally expected.﻿﻿ </p>
+<p> Outbreak carries the same definition as an epidemic but is often used to describe a more limited geographic event.﻿﻿ </p>
+<p> Pandemic refers to an epidemic that has spread over several countries or continents, usually affecting a large number of people.﻿﻿ </p>
+<p> By contrast, a plague is not an epidemiologic term but one that refers specifically to a contagious bacterial disease characterized by fever and delirium, such as bubonic plague. </p>
+<p> Epidemic vs. Pandemic </p>
+<p> While the terms may suggest that there is a specific threshold by which an event is declared an outbreak, epidemic, or pandemic, the distinction is often blurred, even among epidemiologists. </p>
+<p> Part of the reason for this is that some diseases become more prevalent or lethal over time, while others become less, forcing the CDC to regularly adjust its statistical models. </p>
+<p> Epidemiologists are cautious about how they describe a disease event so that it is placed in the appropriate context. While epidemic suggests a disease that is out of control, events described as clusters infer an isolated event of lesser concern. </p>
+<p> The CDC also recognizes that certain terms can incite undue panic. One such example is the Zika outbreak of 2016, which triggered alarm in the United States when locally acquired disease occurred in 218 individuals in Florida and six people in Texas. Another 46 were infected from sexual or laboratory transmission, and one additional person became infected from person-to-person contact through an unknown route.﻿﻿ </p>
+<p> Even with HIV, a disease spread across much of the planet, the term pandemic has been increasingly replaced by epidemic given the widespread distribution of effective treatment and decreasing rates in some previously hyper-prevalent regions. </p>
+<p> On the other hand, as influenza becomes more virulent year after year, public health officials will commonly refer the seasonal outbreaks as pandemics, particularly given the 2009 H1N1 outbreak in the United States in which over 60 million Americans were affected, resulting in 274,304 hospitalizations and 12,469 deaths.﻿﻿ </p>
+<p> This is not to suggest that pandemics are approached in the same way as a more constrained outbreak given the need for international cooperation. On the flip side, an outbreak may be treated no less aggressively than a pandemic if it has the potential to expand beyond its borders, such as may occur with the Ebola virus.﻿﻿ </p>
+<p> Feelings of fear, anxiety, sadness, and uncertainty are normal during pandemics. Being proactive about your mental health can help to keep both your mind and body stronger. Learn about the best online therapy options available to you. </p>
+<p> Phases of a Pandemic </p>
+<p> While there are procedural steps the CDC will take to evaluate and classify a disease event, the actual staging of an epidemic (essentially the outline as to when the spread of disease is severe enough to take specific actions) can vary based on the pathogenesis (pathway) of a disease and numerous other epidemiological factors. </p>
+<p> The one staging model used to direct the public health response specifically involves influenza (the flu). In 1999, the World Health Organization (WHO) released the very first influenza pandemic preparedness plan in which it outlined the appropriate response based on six clearly outlined phases.﻿﻿ </p>
+<p> The aim of the plan was to coordinate the global response by providing countries a blueprint from which to draw up their own national strategies based on available resources. The United States released its first pandemic influenza plan in 2005.﻿﻿ The same basic model can be applied with variations to other epidemics, such as tuberculosis, malaria, and the Zika virus. </p>
+<p> Phases 1 through 3 are designed to help public health officials know it is time to develop the tools and action plans to respond to an impending threat. Phases 4 through 6 are when action plans are implemented in coordination with the WHO. </p>
+<p> The WHO revised the phases in 2009 to better distinguish between preparedness and response. The plan was solely intended to address influenza pandemics given their high mutation rate and the virus's ability to jump from animals to humans.﻿﻿ </p>
+<p> Former WHO Stages of a Flu Pandemic </p>
+<p> Phase 1 is the period during which no animal viruses are reported to cause infection in humans. </p>
+<p> Phase 2 is the first level of threat wherein a virus is confirmed to have jumped from an animal to humans. </p>
+<p> Phase 3 is when sporadic cases or small clusters of disease are confirmed, but human-to-human transmission has either not occurred or is considered unlikely to sustain an outbreak. </p>
+<p> Phase 4 is the point where either human-to-human transmission or a human-animal virus has caused a community-wide outbreak. </p>
+<p> Phase 5 is when human-to-human transmission of the virus has caused the spread of disease to at least two countries. </p>
+<p> Phase 6 is the point at which the disease is declared a pandemic having spread to at least one other country. </p>
+<p> The timeframe for each phase can vary significantly, ranging from months to decades. Not all will progress to phase 6, and some may even revert if a virus spontaneously weakens. </p>
+<p> As of February 2020, WHO stopped using this six-step plan. </p>
+<p> Notable Pandemics in History </p>
+<p> In addition to HIV, which has killed over 39 million people since 1982, there have been other equally devastating pandemics in history: </p>
+<p> The Plague of Justinian of 541 A.D. was attributed to the bubonic plague and wiped out 25-50 million people in one year.﻿﻿ </p>
+<p> The Black plague killed more than 75 million people from 1347 to 1351, if the count includes those who died in Middle Eastern lands, China, and India, in addition to Europe.﻿﻿ </p>
+<p> The Spanish flu pandemic of 1918 killed well over 50 million people in one year, including 675,000 Americans.﻿﻿ </p>
+<p> The smallpox pandemic of the 20th century claimed between 300 to 500 million lives. Edward Jenner confirmed that cowpox provided protection against smallpox infection in 1798. In 1959, the World Health Organization (WHO) launched a huge campaign to globally eradicate smallpox. In 1980, smallpox was declared eradicated—the only human disease that has been eradicated to date. ﻿﻿ </p>
+<p> The ongoing tuberculosis pandemic continues to kill over 1.5 million people annually. Despite the availability of effective treatment, multi-drug resistance has staved efforts to reverse the progression of the pandemic.﻿﻿ </p>
+<p> Sign up for our Health Tip of the Day newsletter, and receive daily tips that will help you live your healthiest life. </p>
+<p> Verywell Health uses only high-quality sources, including peer-reviewed studies, to support the facts within our articles. Read our editorial process to learn more about how we fact-check and keep our content accurate, reliable, and trustworthy. </p>
+<p> Verywell Health uses cookies to provide you with a great user experience. By using Verywell Health, you accept our </p>

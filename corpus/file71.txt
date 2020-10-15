@@ -1,0 +1,48 @@
+<doc url="https://www.cnn.com/2020/01/29/china/sars-wuhan-virus-explainer-intl-hnk-scli/index.html" parent_folder="web2" id="file17334795" filename="index.html">
+<p> Hong Kong (CNN)The Wuhan coronavirus has sparked alarm around the world, but in Asia, it's also brought up memories of a deadly virus. </p>
+<p> To many, the latest outbreak feels eerily similar to 2003, when severe acute respiratory syndrome (SARS) swept through the region, infecting more than 8,000 people and killing 774. </p>
+<p> Like SARS, this latest outbreak is caused by a coronavirus, a family of viruses common to animals that range from the common cold, to more serious diseases, like Middle East respiratory syndrome (MERS). </p>
+<p> But while the Wuhan coronavirus and SARS are caused by a similar virus, they're not exactly the same. Here's how the two stack up. </p>
+<p> Origin </p>
+<p> Read More </p>
+<p> Both the SARS and Wuhan outbreaks started in China -- and both are believed to have originated from wild animal markets. </p>
+<p> Scientists believe that the coronavirus behind SARS came from a reservoir in bats that then spread to the civet cat, a wild animal considered a delicacy in parts of south China, then humans. </p>
+<p> In the case of this latest outbreak, it's been traced to Wuhan's now-shuttered Huanan Seafood Wholesale Market, where a number of wild animals were for sale, including raccoon dogs and snakes. Experts believe that the coronavirus was carried by animals -- possibly snakes -- and then spread to humans, likely again originating in bats. </p>
+<p> After SARS, China banned the slaughter and consumption of civet cats. This time, China has gone a step further: on January 26, the government announced it was banning all sales of wild animals throughout the country. </p>
+<p> Number of infections </p>
+<p> More than 7,700 people worldwide have been infected globally since the first confirmed case of the Wuhan coronavirus in December. </p>
+<p> By comparison, there were 8,098 confirmed cases of SARS between November 2002 to July 2003. </p>
+<p> It has taken less than two months to get infect around 75% of the number infected by SARS over a nine month period. </p>
+<p> In China, the number of confirmed cases of the Wuhan coronavirus has already exceeded the number infected by SARS in 2002 and 2003. </p>
+<p> At least 7,711 cases have been reported in mainland China to date, compared to 5,327 confirmed SARS cases on August 16, 2003, the last time the Chinese health ministry reported such data. </p>
+<p> Since 2003, Chinese domestic and international travel has increased dramatically, which may be helping to spread the disease faster. According to Chinese government figures, the number of outbound tourists increased from 16.6 million trips in 2003 to 149.7 million in 2018. </p>
+<p> It's worth noting that this outbreak has happened at the worst time of the year for China -- Lunar New Year -- when millions of people travel home to see their family. </p>
+<p> According to Wuhan's culture and tourism bureau, there were still 4,096 Wuhan tourists overseas as of January 27. </p>
+<p> Number of deaths </p>
+<p> During the 2003 SARS outbreak, 774 people died. The vast majority of the deaths occurred in mainland China, and in Hong Kong. </p>
+<p> This time, 170 people have died of the virus -- and so far, they have all been in mainland China. </p>
+<p> But the best thing to look at when comparing deaths is the case fatality rate -- the measure of what proportion of people infected end up dying. </p>
+<p> Timeline </p>
+<p> 2019 </p>
+<p> December 8: First patient develops symptoms of Wuhan coronavirus </p>
+<p> December 31: Earliest cases of virus reported to World Health Organization </p>
+<p> 2020 </p>
+<p> January 1: Market in Wuhan where outbreak is believed to have originated closed for disinfection </p>
+<p> January 7: Chinese scientists identify pathogen involved as new strain of coronavirus </p>
+<p> January 9: First death linked to virus </p>
+<p> January 20: Cases reported in Beijing and Shenzhen </p>
+<p> January 23: First virus outside Wuhan </p>
+<p> Travel restrictions placed on Wuhan's neighboring cities, impacting millions of people </p>
+<p> WHO says virus is not yet a public health emergency of international concern </p>
+<p> January 28: Death toll tops 100 </p>
+<p> Source: Wuhan Municipal Health Commission, CNN reporting </p>
+<p> Currently, the case fatality rate for Wuhan virus is around 2% -- significantly smaller than SARS' 9.6% mortality rate. It's also smaller than Middle East respiratory syndrome (MERS) -- another type of coronavirus -- which has a case fatality rate of 35%. </p>
+<p> But this calculation is only as good as the numbers that are reported. Some experts are concerned that we may not have an accurate picture of the number infected in China, as there has been a shortage of test kits. </p>
+<p> Identifying the virus </p>
+<p> One of the biggest differences between SARS and this current outbreak is how fast it was reported and how soon scientists were able to identify it. </p>
+<p> China informed the World Health Organization about the new virus on December 31, 2019, about three weeks after the first case was detected. The virus behind the outbreak was identified on January 7. This is as swift as any other developed country would have been able to identify it, said Ian Lipkin, a professor of epidemiology at Columbia University who worked to contain SARS back in 2003. </p>
+<p> Sequencing the genome has a huge impact -- it allows other countries to develop tests for the virus early on and study the virus </p>
+<p> During SARS, China kept the disease under wraps. The disease was first publicly reported in February 2003, but by that time, five people had died and another 300 had fallen ill from the disease in China's Guangdong province. </p>
+<p> It also wasn't until five months after the SARS outbreak first started that American and Canadian scientists announced they had sequenced the genome thought to be the cause of that virus. Back in 2003, health authorities were grappling with a lack of knowledge about what the virus was. </p>
+<p> So this time around, China has done things differently. Not only did Beijing have the scientific prowess to be able to identify the genome, but it also informed other countries about it. </p>
+<p> But there have still been questions over how transparent China has been. There are still some concerned that the scale of the problem may be far worse than the official figures let on. </p>

@@ -1,0 +1,14 @@
+<doc url="https://www.cdc.gov/flu/pandemic-resources/1918-pandemic-h1n1.html" parent_folder="web1" id="file17334774" filename="1918-pandemic-h1n1.html">
+<p> 1918 Pandemic (H1N1 virus) </p>
+<p> Related Pages </p>
+<p> The 1918 influenza pandemic was the most severe pandemic in recent history. It was caused by an H1N1 virus with genes of avian origin. Although there is not universal consensus regarding where the virus originated, it spread worldwide during 1918-1919. In the United States, it was first identified in military personnel in spring 1918. It is estimated that about 500 million people or one-third of the world’s population became infected with this virus. The number of deaths was estimated to be at least 50 million worldwide with about 675,000 occurring in the United States. </p>
+<p> Read about the 1918 influenza pandemic and progress made in preparedness and response. </p>
+<p> Mortality was high in people younger than 5 years old, 20-40 years old, and 65 years and older. The high mortality in healthy people, including those in the 20-40 year age group, was a unique feature of this pandemic. While the 1918 H1N1 virus has been synthesized and evaluated, the properties that made it so devastating are not well understood. With no vaccine to protect against influenza infection and no antibiotics to treat secondary bacterial infections that can be associated with influenza infections, control efforts worldwide were limited to non-pharmaceutical interventions such as isolation, quarantine, good personal hygiene, use of disinfectants, and limitations of public gatherings, which were applied unevenly. </p>
+<p> Exit Notification/Disclaimer Policy </p>
+<p> Close </p>
+<p> Links with this icon indicate that you are leaving the CDC website. </p>
+<p> The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website. </p>
+<p> Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website. </p>
+<p> You will be subject to the destination website's privacy policy when you follow the link. </p>
+<p> CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website. </p>
+<p> For more information on CDC's web notification policies, see Website Disclaimers. </p>

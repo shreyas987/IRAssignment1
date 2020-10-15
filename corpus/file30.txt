@@ -1,0 +1,20 @@
+<doc url="https://epidemic-stats.com/" parent_folder="web1" id="file17334748" filename="epidemic-stats.com">
+<p> All statistics data about coronavirus COVID-19 comes from World Health Organization, Johns Hopkins CSSE and worldometers. Charts includes number of infected, deaths and recovered. </p>
+<p> About Coronavirus </p>
+<p> Basic Information </p>
+<p> Coronavirus Disease 2019 (COVID-19) was detected in Wuhan, Hubei Province, China in December 2019. It was a new infectious disease and was caused by new type of virus SARS-CoV-2. COVID-19 is a cause of an outbreak of respiratory disease. Cases of COVID-19 has spread to well over 190 countries. WHO declared a global pandemic in March 2020... READ MORE </p>
+<p> Big Lots: The Run Continues (NYSE:BIG) </p>
+<p> Quad 7 Capital </p>
+<p> Q1 COVID-related strength has continued into Q2. Shares likely to rise into the mid-$40 range, but the market is weighing whether this high level of performance... </p>
+<p> Changes in military recruiting may endure after pandemic </p>
+<p> Lolita Baldor </p>
+<p> COVID-19 has had a dramatic impact on military recruiting, closing enlistment stations and forcing thousands of recruiters to woo potential soldiers online, or even on their front steps.... </p>
+<p> Langerak beats COVID as J-League restart looms </p>
+<p> Michael Lynch </p>
+<p> When the J-League resumes this Saturday, Socceroos goalkeeper Mitchell Langerak will have more reason than most to be celebrating.... </p>
+<p> 'Very confusing time for investors': ASX ends volatile, COVID-plagued financial year down 11% </p>
+<p> Alex Druce </p>
+<p> Leading fund managers expect volatility on the Australian sharemarket to persist for the forseeable future as the ASX ended the financial year down 11.2 per cent.... </p>
+<p> New resources available this fall to help mitigate impact of COVID-19 school disruptions – Company Announcement </p>
+<p> PR Newswire </p>
+<p> PORTLAND, Ore., June 30, 2020 /PRNewswire/ -- As the education community continues to grapple with instruction in the era of COVID-19, attention has shifted to how to move forward after interrupted learning and potential learning loss to create pathways toward academic growth for all students. Today... </p>

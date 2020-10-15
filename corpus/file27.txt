@@ -1,0 +1,196 @@
+<doc url="https://www.nytimes.com/article/coronavirus-timeline.html" parent_folder="web1" id="file17334766" filename="coronavirus-timeline.html">
+<p> A Timeline of the Coronavirus Pandemic </p>
+<p> The outbreak of the virus, which began in Wuhan, China, has sickened more than 14.7 million people. At least 610,200 people have died. </p>
+<p> The coronavirus, which surfaced in a Chinese seafood and poultry market late last year, has spread to at least 177 countries, killing more than 610,200 and sickening more than 14.7 million in a matter of months. The World Health Organization has declared the situation a pandemic. </p>
+<p> Here’s a timeline of the outbreak so far. </p>
+<p> Dec. 31 </p>
+<p> Chinese authorities treated dozens of cases of pneumonia of unknown cause. </p>
+<p> On Dec. 31, the government in Wuhan, China, confirmed that health authorities were treating dozens of cases. Days later, researchers in China identified a new virus that had infected dozens of people in Asia. At the time, there was no evidence that the virus was readily spread by humans. Health officials in China said they were monitoring it to prevent the outbreak from developing into something more severe. </p>
+<p> Jan. 11 </p>
+<p> China reported its first death. </p>
+<p> On Jan. 11, Chinese state media reported the first known death from an illness caused by the virus, which had infected dozens of people. The 61-year-old man who died was a regular customer at the market in Wuhan. The report of his death came just before one of China’s biggest holidays, when hundreds of millions of people travel across the country. </p>
+<p> Jan. 20 </p>
+<p> Other countries, including the United States, confirmed cases. </p>
+<p> The first confirmed cases outside mainland China occurred in Japan, South Korea and Thailand, according to the W.H.O.’s first situation report. The first confirmed case in the United States came the next day in Washington State, where a man in his 30s developed symptoms after returning from a trip to Wuhan. </p>
+<p> Jan. 23 </p>
+<p> Wuhan, a city of more than 11 million, was cut off by the Chinese authorities. </p>
+<p> The Chinese authorities closed off Wuhan by canceling planes and trains leaving the city, and suspending buses, subways and ferries within it. At this point, at least 17 people had died and more than 570 others had been infected, including in Taiwan, Japan, Thailand, South Korea and the United States. </p>
+<p> Jan. 30 </p>
+<p> The W.H.O. declared a global health emergency. </p>
+<p> Amid thousands of new cases in China, a “public health emergency of international concern” was officially declared by the W.H.O. China’s Foreign Ministry spokeswoman said that it would continue to work with the W.H.O. and other countries to protect public health, and the U.S. State Department warned travelers to avoid China. </p>
+<p> Jan. 31 </p>
+<p> The Trump administration restricted travel from China </p>
+<p> The Trump administration suspended entry into the United States by any foreign nationals who had traveled to China in the past 14 days, excluding the immediate family members of American citizens or permanent residents. By this date, 213 people had died and nearly 9,800 had been infected worldwide. </p>
+<p> Feb. 2 </p>
+<p> The first coronavirus death was reported outside China. </p>
+<p> A 44-year-old man in the Philippines died after being infected, officials said, the first death reported outside China. By this point, more than 360 people had died. </p>
+<p> Feb. 5 </p>
+<p> A cruise ship in Japan quarantined thousands. </p>
+<p> After a two-week trip to Southeast Asia, more than 3,600 passengers began a quarantine aboard the Diamond Princess cruise ship in Yokohama, Japan. Officials started screening passengers, and the number of people who tested positive became the largest number of coronavirus cases outside China. By Feb. 13, the number stood at 218. When they began leaving the ship on Feb. 19, more than 600 people had been infected. </p>
+<p> Feb. 7 </p>
+<p> A Chinese doctor who tried to raise the alarm died. </p>
+<p> When Dr. Li Wenliang, a Chinese doctor, died after contracting the coronavirus, he was hailed as a hero by many for trying to ring early alarms that infections could spin out of control. </p>
+<p> In early January, the authorities reprimanded him, and he was forced to sign a statement denouncing his warning Dr. Li’s death provoked anger and frustration at how the Chinese government mishandled the situation. </p>
+<p> Feb. 11 </p>
+<p> The disease the virus causes was named. </p>
+<p> The W.H.O. proposed an official name for the disease the virus coronavirus causes: Covid-19, an acronym that stands for coronavirus disease 2019. The name makes no reference to any of the people, places, or animals associated with the coronavirus, given the goal to avoid stigma. </p>
+<p> Feb. 14 </p>
+<p> France announced the first coronavirus death in Europe. </p>
+<p> An 80-year-old Chinese tourist died on Feb. 14 at a hospital in Paris, in what was the first coronavirus death outside Asia, the authorities said. It was the fourth death from the virus outside mainland China, where about 1,500 people had died, most of them in Hubei Province. </p>
+<p> Feb. 23 </p>
+<p> Italy saw a major surge in cases. </p>
+<p> Europe faced its first major outbreak as the number of reported cases in Italy grew from fewer than five to more than 150. In the Lombardy region, officials locked down 10 towns after a cluster of cases suddenly emerged in Codogno, southeast of Milan. Schools closed and sporting and cultural events were canceled. </p>
+<p> Feb. 24 </p>
+<p> Iran emerged as a second focus point. </p>
+<p> Iran announced its first two coronavirus cases on Feb. 19. Less than a week later, the country said it had 61 coronavirus cases and 12 deaths, more than any other country at the time but China, and public health experts warned that Iran was a cause for worry — its borders are crossed each year by millions of religious pilgrims, migrant workers and others. Cases in Iraq, Afghanistan, Bahrain, Kuwait, Oman, Lebanon, the United Arab Emirates and one in Canada, have been traced back to Iran. </p>
+<p> Latin America reported its first case. </p>
+<p> Brazilian health officials said that a 61-year-old São Paulo man, who had returned recently from a business trip to Italy, tested positive for the coronavirus. It was the first known case in Latin America. Officials also began tracking down other passengers on the flight the man took to Brazil and others who had contact with him in recent days. </p>
+<p> Feb. 29 </p>
+<p> The United States reported a death. </p>
+<p> On Feb. 29, the authorities announced that a patient near Seattle had died from the coronavirus, in what was believed to be the first coronavirus death in the United States at the time. In fact, two people had died earlier, though their Covid-19 diagnoses were not discovered until months later. </p>
+<p> As the number of global cases rose to nearly 87,000, the Trump administration issued its highest-level warning, known as a “do not travel” warning, for areas in Italy and South Korea most affected by the virus. </p>
+<p> March 3 </p>
+<p> U.S. officials approved widespread testing. </p>
+<p> The C.D.C. lifted all federal restrictions on testing for the coronavirus on March 3, according to Vice President Mike Pence. The news came after the C.D.C.’s first attempt to produce a diagnostic test kit fell flat. By this point, the coronavirus had infected more than 90,000 around the globe and killed about 3,000, according to the W.H.O. </p>
+<p> March 13 </p>
+<p> President Trump declared a national emergency. </p>
+<p> Mr. Trump officially declared a national emergency, and said he was making $50 billion in federal funds available to states and territories to combat the coronavirus. He also said he would give hospitals and doctors more flexibility to respond to the virus, including making it easier to treat people remotely. </p>
+<p> March 15 </p>
+<p> The C.D.C. recommended no gatherings of 50 or more people in the U.S. </p>
+<p> The C.D.C. advised no gatherings of 50 or more people in the United States over the next eight weeks. The recommendation included weddings, festivals, parades, concerts, sporting events and conferences. The following day, Mr. Trump advised citizens to avoid groups of more than 10. New York City’s public schools system, the nation’s largest with 1.1 million students, announced that it would close. </p>
+<p> March 16 </p>
+<p> Latin America began to feel the effects. </p>
+<p> Several countries across Latin America imposed restrictions on their citizens to slow the spread of the virus. Venezuela announced a nationwide quarantine that began on March 17. Ecuador and Peru implemented countrywide lockdowns, while Colombia and Costa Rica closed their borders. However, Jair Bolsonaro, the president of Brazil, encouraged mass demonstrations by his supporters against his opponents in congress. </p>
+<p> March 17 </p>
+<p> The E.U. barred most travelers from outside the bloc. </p>
+<p> European leaders voted to close off at least 26 countries to nearly all visitors from the rest of the world for at least 30 days. The ban on nonessential travel from outside the bloc was the first coordinated response to the epidemic by the European Union. </p>
+<p> March 19 </p>
+<p> For the first time, China reported zero local infections. </p>
+<p> China reported no new local infections for the previous day, a milestone in the ongoing fight against the pandemic. The news signaled that an end to China’s epidemic could be in sight. </p>
+<p> However, experts said the country would need to see at least 14 consecutive days without new infections for the outbreak to be considered over. And the announcement did not mean that China recorded no new coronavirus cases. Officials said that 34 new cases had been confirmed among people who had arrived in China from elsewhere. </p>
+<p> March 24 </p>
+<p> The Tokyo Olympics were delayed until 2021. </p>
+<p> Officials announced that the Summer Olympics in Tokyo would be postponed for one year. Only three previous Games had been canceled, all because of war: in 1916, 1940 and 1944. </p>
+<p> March 24 </p>
+<p> India announced a 21-day lockdown. </p>
+<p> One day after the authorities halted all domestic flights, Narendra Modi, India’s prime minister, declared a 21-day lockdown. While the number of reported cases in India was about 500, the prime minister pledged to spend about $2 billion on medical supplies, isolation rooms, ventilators and training for medical professionals. </p>
+<p> March 26 </p>
+<p> The United States led the world in confirmed cases. </p>
+<p> The United States officially became the country hardest hit by the pandemic, with at least 81,321 confirmed infections and more than 1,000 deaths. This was more reported cases than in China, Italy or any other country at the time. </p>
+<p> March 27 </p>
+<p> Trump signed a stimulus bill into law. </p>
+<p> Mr. Trump signed a $2 trillion measure to respond to the coronavirus pandemic. Lawmakers said the bill, which passed with overwhelming support, was imperfect but essential to address the national public health and economic crisis. </p>
+<p> March 30 </p>
+<p> More states issued stay-at-home directives. </p>
+<p> Virginia, Maryland and Washington, D.C., issued orders requiring their residents to stay home. Similar orders went into effect for Kansas and North Carolina. Other states had previously put strict measures in place. The new orders meant that least 265 million Americans were being urged to stay home. </p>
+<p> April 2 </p>
+<p> Cases topped a million, and millions lost their jobs. </p>
+<p> By April 2, the pandemic had sickened more than one million people in 171 countries across six continents, killing at least 51,000. </p>
+<p> In just a few weeks, the pandemic put nearly 10 million Americans out of work, including a staggering 6.6 million people who applied for unemployment benefits in the last week of March. The speed and scale of the job losses was without precedent: Until March, the worst week for unemployment filings was 695,000 in 1982. </p>
+<p> April 6 </p>
+<p> Prime Minister Boris Johnson moved into intensive care. </p>
+<p> Ten days after going public with his coronavirus diagnosis, Prime Minister Boris Johnson of Britain was moved into intensive care. The decision was a precaution, according to the British government, who also said he had been in good spirits. Mr. Johnson had also asked the foreign secretary, Dominic Raab, to deputize for him “where necessary.” He was released on April 12. </p>
+<p> April 10 </p>
+<p> Cases surged in Russia. </p>
+<p> The number of people hospitalized in Moscow with Covid-19 doubled from the previous week, with two-thirds of the country’s 12,000 reported cases in Moscow. The increase in cases pushed Moscow’s health care system to its limit, well before an expected peak. </p>
+<p> April 14 </p>
+<p> The global economy slid toward contraction. </p>
+<p> The International Monetary Fund warned that the global economy was headed for its worst downturn since the Great Depression. The organization predicted the world economy would contract by 3 percent in 2020, a reversal from its forecast early this year that the world economy would grow by 3.3 percent. </p>
+<p> April 17 </p>
+<p> President Trump encouraged protests against some state restrictions. </p>
+<p> In a series of all-cap tweets, Mr. Trump encouraged right-wing protests of social distancing restrictions in some states. His call followed protests in Michigan, Minnesota and Ohio where protesters — many wearing red “Make America Great Again” hats — congregated in packed groups around state capitols to demand that restrictions be lifted and to demonize their governors. </p>
+<p> April 21 </p>
+<p> Officials discovered earlier known U.S. coronavirus deaths in California. </p>
+<p> Officials in Santa Clara County, Calif., announced that two residents there died of the coronavirus on Feb. 6 and Feb. 17, making them the earliest known victims of the pandemic in the United States. The new information, gained from autopsies of the residents, moved the timeline of the virus’s spread in country weeks earlier than previously understood. . </p>
+<p> April 24 </p>
+<p> The European Union, pressured by China, watered down a report on disinformation. </p>
+<p> The E.U. appeared to succumb to pressure from Beijing and softened criticism of China in a report on disinformation about the coronavirus pandemic. While the initial report was not particularly harsh, European officials delayed and then rewrote the document to dilute the focus on China, a vital trading partner. </p>
+<p> April 26 </p>
+<p> The global death toll surpassed 200,000. </p>
+<p> By April 26, the coronavirus pandemic had killed more than 200,000 people and sickened more than 2.8 million worldwide, according to data collected by The New York Times. The actual toll is higher by an unknown degree, and will remain so for some time. </p>
+<p> April 30 </p>
+<p> Airlines announced rules requiring face masks. </p>
+<p> American Airlines and Delta Air Lines said they would require all passengers and flight attendants to wear a face covering. Lufthansa Group — which owns Lufthansa, Swiss International Air Lines and Austrian Airlines — as well as JetBlue and Frontier Airlines had made similar announcements. </p>
+<p> May 5 </p>
+<p> The coronavirus reached France in December, doctors said, rewriting the epidemic’s timeline. </p>
+<p> French doctors said that they had discovered that a patient treated for pneumonia in late December had the coronavirus. If the diagnosis is verified, it would suggest that the virus appeared in Europe nearly a month earlier than previously understood and days before Chinese authorities first reported the new illness to the World Health Organization. The first report of an infection in Europe was on Jan. 24 in France. </p>
+<p> May 13 </p>
+<p> A top W.H.O. official said the coronavirus ‘may never go away.’ </p>
+<p> Dr. Mike Ryan, the head of the W. H. O.’s health emergencies program, said the virus may become “just another endemic virus in our communities, and this virus may never go away.” He also tamped down expectations that the invention of a vaccine would provide a quick and complete end to the global crisis. </p>
+<p> May 17 </p>
+<p> Japan and Germany, two of the world’s largest economies, enter recessions. </p>
+<p> Japan, the world’s third-largest economy after the United States and China, fell into a recession for the first time since 2015. Its economy shrank by an annualized rate of 3.4 percent in the first three months of the year. </p>
+<p> Germany, Europe’s largest economy, also fell into a recession. Its economy suffered its worst contraction since the 2008 global financial crisis, shrinking by 2.2 percent in the January-March period from the previous quarter. </p>
+<p> May 22 </p>
+<p> Infections in Latin America continue to rise. </p>
+<p> On May 22, Brazil overtook Russia in reporting the second-highest count of infections worldwide, reaching more than 330,000. Peru and Chile ranked among the hardest-hit countries in the world in terms of infections per capita, around 1 in 300. Data from Ecuador indicated that it was suffering one of the worst outbreaks in the world. The United States remained the global epicenter, with more than 1.6 million cases and the number of deaths nearing 100,000. </p>
+<p> May 27 </p>
+<p> Coronavirus deaths in the U.S. passed 100,000. </p>
+<p> Four months after the government confirmed the first known case, more than 100,000 people who had the coronavirus were recorded dead in the United States. The death toll was far higher than in any other nation around the world. </p>
+<p> May 29 </p>
+<p> India lifted lockdown as its cases skyrocketed. </p>
+<p> More than two months after India went into one of the world’s most severe lockdowns, the country moved to ease restrictions. Experts feared it was the worst timing: Infections were increasing quickly, including among migrant workers, leading to outbreaks in villages across Northern India. Almost half of the country’s 160,000 known cases had been traced to just four cities: New Delhi, Chennai, Ahmedabad and Mumbai, where hospitals had been overwhelmed. </p>
+<p> May 31 </p>
+<p> Large protests drove concerns about new infections. </p>
+<p> Mass protests over police violence against black Americans, in the wake of George Floyd’s death in custody of the Minneapolis Police, spurred concerns that the gatherings could lead to new outbreaks. By May 31, there had been protests in at least 75 U.S. cities. Demonstrations in many places around the United States, including in New York City where most protesters wore masks, did not produce a surge in cases. </p>
+<p> June 4 </p>
+<p> Coronavirus tore into regions previously spared. </p>
+<p> The number of known cases across the globe grew faster than ever, with more than 100,000 new infections a day. Densely populated, low- and middle-income countries across the Middle East, Latin America, Africa and South Asia were hit the hardest, suggesting bad news for strongmen and populists who once reaped political points by vaunting low infection rates as evidence of their leadership’s virtues. </p>
+<p> June 9 </p>
+<p> Moscow ended lockdown. </p>
+<p> Moscow’s lockdown ended on June 9 as a nationwide vote on extending President Vladimir V. Putin’s rule loomed, and as the city reported more than 1,000 daily new cases. Barbershops, beauty salons and other businesses were allowed to reopen. One day before the lockdown was lifted, Mayor Sergei S. Sobyanin said the spread of the coronavirus in the capital had slowed and that the city’s shelter-in-place measures, some of the world’s most stringent outside of China, could be lifted. </p>
+<p> June 11 </p>
+<p> Coronavirus cases in Africa topped 200,000. </p>
+<p> The W.H.O. said that it took Africa 98 days to reach 100,000 coronavirus cases, but only 18 days for that figure to double. While the sharp rise in cases could be explained by an increase in testing, the agency said, more than half of the 54 countries on the continent were experiencing community transmissions. Ten countries were driving the rise in numbers and accounted for nearly 80 percent of all cases. South Africa has a quarter of the total cases. </p>
+<p> June 17 </p>
+<p> The outbreak surged, with clusters on several continents. </p>
+<p> Outbreaks in Latin America, Africa, South Asia and the United States continued to drive the global caseload. On June 16, more than 140,000 cases were reported and another 166,000 on June 17, two of the three highest tallies since the outbreak began. Seventy-seven nations have seen a growth in new cases over the past two weeks, while only 43 have seen declines. </p>
+<p> June 20 </p>
+<p> Southern U.S. states saw sharp rise in cases. </p>
+<p> On June 20, for the third straight day, Florida and South Carolina broke their single-day records for new cases. The news came as infection levels for Missouri and Nevada also reached new highs. On June 19, the United States reported more than 30,000 new infections, its highest since May 1, with cases rising in 19 states across the South, West and Midwest. </p>
+<p> June 22 </p>
+<p> Saudi Arabia imposed strict limits on this year’s hajj. </p>
+<p> Saudi Arabia announced that this year’s hajj, the annual pilgrimage to Mecca for Muslims, would welcome “very limited numbers” to prevent the spread of the coronavirus. The authorities said that the event, scheduled for July, would allow only Saudi pilgrims and noncitizens already inside the kingdom. </p>
+<p> June 30 </p>
+<p> The E.U. said it would reopen borders. </p>
+<p> The European Union prepared to open to visitors from 15 countries on July 1, but not to travelers from the United States, Brazil or Russia. The move puts into effect a complex policy that seeks to balance health concerns with politics, diplomacy and the desperate need for tourism revenue. Australia, Canada and New Zealand were among the approved list of countries. Travelers from China will be permitted if China reciprocates. </p>
+<p> July 1 </p>
+<p> Iran announced new lockdown measures. </p>
+<p> As hospitals in Iran filled and the death toll climbed, officials announced new shutdown measures in cities across 11 provinces. Eight provinces, including Tehran, the capital, were among the areas considered red zones. The partial shutdown in Tehran restricted movement, cut work hours and banned large gatherings like weddings and funerals. </p>
+<p> July 6 </p>
+<p> U.S. deaths surpassed 130,000. </p>
+<p> Dr. Anthony S. Fauci, the nation’s top infectious disease expert, warned that the country was still “knee-deep in the first wave” of the pandemic, with more than 130,000 coronavirus deaths and nearly three million cases. Dr. Fauci said that having more than 50,000 new cases a day recorded several times in the past week was “a serious situation that we have to address immediately.” </p>
+<p> July 7 </p>
+<p> The Trump administration sent formal notice of U.S. withdrawal from the W.H.O. </p>
+<p> The Trump administration notified the United Nations that the United States was withdrawing from the W.H.O. effective July 6, 2021. The move would cut off the organization’s biggest sources of aid. </p>
+<p> July 7 </p>
+<p> Brazil’s president tested positive. </p>
+<p> President Jair Bolsonaro of Brazil disclosed on July 7 that he had been infected with the virus, saying that he was tested after experiencing fatigue, muscle pain and a fever. The news came after months of denying the seriousness of the pandemic and brushing aside protective measures, and after more than 65,000 Brazilians had died. </p>
+<p> July 10 </p>
+<p> U.S. set seven records in 11 days. </p>
+<p> On July 10, the United States reached 68,000 new cases for the first time, setting a single-day record for the seventh time in 11 days. The infection rate was underscored by alarming growth in the South and West. At least six states had also reported single-day records for new cases: Georgia, Utah, Montana, North Carolina, Iowa and Ohio. </p>
+<p> July 10 </p>
+<p> Hong Kong shut down schools amid a third wave. </p>
+<p> Hong Kong, a city of seven million, has reported more than 1,400 cases and seven deaths. But on July 10, it shut down its school system as it worked to contain a third wave of infections, which official reported included 38 new cases. </p>
+<p> The third wave, which comes after infections surged in March and were contained by May, was a setback for a city that had largely returned to normal, with restaurants enjoying packed crowds and workers returning to offices. </p>
+<p> July 11 </p>
+<p> President Trump publicly wore a mask for the first time. </p>
+<p> President Trump wore a mask in public for the first time during a visit to Walter Reed National Military Medical Center, following repeated urging from aides that it was a necessary message to send to Americans resistant to covering their faces. The president had repeatedly dismissed suggestions that he wear a mask, frequently appearing in public spaces without one and ignoring public health rules in several states. </p>
+<p> July 13 </p>
+<p> More than five million Americans lost health insurance. </p>
+<p> The coronavirus pandemic stripped an estimated 5.4 million Americans of their health insurance between February and May, a period in which more adults became uninsured because of job losses than have ever lost coverage in a single year, according to a study. </p>
+<p> July 15 </p>
+<p> Tokyo raised its pandemic alert level. </p>
+<p> Days after new cases hit record highs, Tokyo raised its alert level to “red,” its highest. In the week before, Tokyo recorded two consecutive daily records with a peak of 243 cases on July 10. Since February, the sprawling metropolis of 14 million had reported a total of just under 8,200 cases and 325 deaths. </p>
+<p> July 16 </p>
+<p> A study in South Korea found that older children spread the virus comparably to adults. </p>
+<p> While school districts around the United States struggle with reopening plans, a study from South Korea offered a note of caution. It found that children between the ages of 10 and 19 can spread the virus at least as well as adults do, suggesting that middle and high schools in particular may seed new clusters of infection. Children younger than 10 transmit to others much less often, according to the study, although the risk is not zero. </p>
+<p> July 17 </p>
+<p> India reached a million coronavirus cases, and lockdowns were reimposed. </p>
+<p> India on July 17 surpassed one million confirmed infections and 25,000 deaths. The milestones came as several states and cities had reimposed total and partial lockdowns and as the country ranked third in the world in infections behind the United States and Brazil. While India’s caseloads continued to climb, researchers at the Massachusetts Institute of Technology estimated that by the end of next year, India would have the worst outbreak in the world. </p>
+<p> July 17 </p>
+<p> Israel announced new restrictions. </p>
+<p> As the number of new coronavirus infections continued to climb in Israel and the government faced further criticism of its handling of the pandemic, Prime Minister Benjamin Netanyahu’s Office and the Health Ministry announced new restrictions on gyms, restaurants and beaches. Since late June, infections in Israel had soared. The nation had been averaging more than 1,500 cases a day, up from 664 two weeks before. </p>
+<p> July 21 </p>
+<p> European leaders agreed on a $857 billion stimulus package. </p>
+<p> European Union leaders on July 21 agreed on a large spending package to rescue their economies from the ruins caused by the pandemic. The $857 billion stimulus agreement will benefit nations hit hardest by the pandemic. </p>

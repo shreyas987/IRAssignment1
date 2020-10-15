@@ -1,0 +1,165 @@
+<doc url="https://www.cdc.gov/flu/pandemic-resources/2009-pandemic-timeline.html" parent_folder="web2" id="file17334794" filename="2009-pandemic-timeline.html">
+<p> 2009 H1N1 Pandemic Timeline </p>
+<p> In 2009, a new H1N1 influenza virus emerged, causing the first global flu pandemic in 40 years. Below is a timeline of major events that took place during the 2009 H1N1 pandemic. </p>
+<p> April 15 </p>
+<p> First human infection with new influenza A H1N1 virus detected in California. </p>
+<p> Timelineicon </p>
+<p> April 17 </p>
+<p> Second human infection with the new influenza A H1N1 virus detected in California about 130 miles away from first infection, with no known connection to previous patient. </p>
+<p> Timelineicon </p>
+<p> April 18 </p>
+<p> First novel 2009 H1N1 flu infections were reported by CDC to the World Health Organization (WHO) through the U.S. International Health Regulations Program. </p>
+<p> Timelineicon </p>
+<p> April 21 </p>
+<p> CDC publicly reported the first two U.S. infections with the new H1N1 virus. </p>
+<p> CDC began working to develop a candidate vaccine virus. </p>
+<p> April 22 </p>
+<p> CDC activated it’s Emergency Operations Center (EOC). </p>
+<p> Timelineicon </p>
+<p> April 23 </p>
+<p> Two additional human infections with 2009 H1N1 were detected in Texas, transforming the investigation into a multistate outbreak and response. </p>
+<p> Timelineicon </p>
+<p> April 24 </p>
+<p> CDC uploaded complete gene sequences of new H1N1 2009 virus to a publically-accessible international influenza database. </p>
+<p> Timelineicon </p>
+<p> April 25 </p>
+<p> The World Health Organization (WHO) declared a public health emergency of international concern. </p>
+<p> Timelineicon </p>
+<p> April 26 </p>
+<p> The United States Government declared 2009 H1N1 a Public Health Emergency of International Concern and CDC began releasing 25% of antiviral drugs needed to treat this new influenza virus from the federal stockpile. </p>
+<p> Timelineicon </p>
+<p> April 27 </p>
+<p> WHO Director-General raised the level of influenza pandemic alert from phase 3 to phase 4, based on data showing person-to-person spread and the ability of the virus to cause community-level outbreaks. </p>
+<p> Timelineicon </p>
+<p> April 28 </p>
+<p> The Food and Drug Administration (FDA) approved a new CDC test to detect 2009 H1N1 infections </p>
+<p> CDC issued the first CDC Interim Guidance on Closing Schools and Childcare Facilities, recommending a 7-day dismissal in affected schools and childcare facilities with laboratory-confirmed cases of influenza A H1N1 virus. </p>
+<p> Timelineicon </p>
+<p> April 29 </p>
+<p> WHO raised the level of influenza pandemic alert from phase 4 to phase 5, signaling that a pandemic was imminent, and requested all countries to immediately activate their pandemic preparedness plans and be on high alert for unusual outbreaks of influenza-like illness and severe pneumonia. </p>
+<p> Timelineicon </p>
+<p> May </p>
+<p> 2009 H1N1 influenza summer activity peaked in the United States during May and June. </p>
+<p> Timelineicon </p>
+<p> May 1 </p>
+<p> Domestic and global shipments of new CDC test to detect 2009 H1N1 began. </p>
+<p> CDC updated the CDC Interim Guidance on Closing Schools and Childcare Facilities, recommending affected communities with lab-confirmed cases of influenza A H1N1 consider adopting school dismissal and childcare closing measures, including closing for up to 14 days depending on the extent and severity of influenza illness. </p>
+<p> Timelineicon </p>
+<p> May 4 </p>
+<p> CDC shifted from reporting confirmed cases of 2009 H1N1 to reporting both confirmed and probable cases of 2009 H1N1. </p>
+<p> Timelineicon </p>
+<p> May 5 </p>
+<p> Peak school dismissal day in the spring phase of the pandemic. 980 schools were dismissed, affecting 607,778 students. </p>
+<p> Timelineicon </p>
+<p> May 6 </p>
+<p> CDC distributed updated recommendations for the use of influenza antiviral medicines to provide guidance for clinicians in prescribing antiviral medicines for treatment and prevention (chemoprophylaxis) of 2009 H1N1 influenza. </p>
+<p> Timelineicon </p>
+<p> May 8 </p>
+<p> CDC issued an MMWR updating the 2009 H1N1 influenza situations in Mexico, the United States, and worldwide. </p>
+<p> Timelineicon </p>
+<p> May 12 </p>
+<p> CDC reported early data on 2009 H1N1 illness among pregnant women in an MMWR. </p>
+<p> Timelineicon </p>
+<p> June 11 </p>
+<p> The World Health Organization (WHO) declared a pandemic and raised the worldwide pandemic alert level to phase 6, which means the virus was spreading to other parts of the world. </p>
+<p> CDC held its first press conference with former CDC Director Thomas Frieden, MD, MPH. The press conference had 2,355 participants. </p>
+<p> Timelineicon </p>
+<p> June 19 </p>
+<p> All 50 states, the District of Colombia, Puerto Rico and the U.S. Virgin Islands had reported cases of 2009 H1N1 infection. </p>
+<p> By late-June, more than 30 summer camps in the U.S. had reported outbreaks of 2009 H1N1 influenza illness. CDC released guidance for day and residential camps to reduce spread of influenza. </p>
+<p> Timelineicon </p>
+<p> June 25 </p>
+<p> CDC estimated at least 1 million cases of 2009 H1N1 influenza had occurred in the United States. </p>
+<p> Timelineicon </p>
+<p> Early July </p>
+<p> Reported cases of 2009 H1N1 nearly doubled since mid-June 2009. </p>
+<p> Three 2009 H1N1 influenza viruses that were resistant to the antiviral drug, oseltamivir, were detected in three countries. </p>
+<p> Timelineicon </p>
+<p> July 10 </p>
+<p> CDC reported findings in an MMWR that indicated a large prevalence of obesity in intensive care patients with confirmed 2009 H1N1 influenza infection. </p>
+<p> After mid-July, 2009 H1N1 influenza activity declined in most countries. </p>
+<p> Timelineicon </p>
+<p> July 22 </p>
+<p> Clinical trials testing the 2009 H1N1 flu vaccine began. </p>
+<p> August </p>
+<p> August 3 </p>
+<p> August 19 </p>
+<p> CDC Guidance for Businesses and accompanying toolkit posted to CDC.gov. </p>
+<p> Timelineicon </p>
+<p> August 20 </p>
+<p> CDC Guidance for Institutions of Higher Education (IHE) and accompanying toolkit posted to CDC.gov. Calls were conducted with Secretary Duncan and Sebelius to explain guidance. Press briefings followed. </p>
+<p> Second wave of 2009 H1N1 influenza activity began in the U.S. </p>
+<p> Timelineicon </p>
+<p> August 30 </p>
+<p> New reporting season for the 2009-2010 influenza season began. </p>
+<p> Timelineicon </p>
+<p> September 1 </p>
+<p> More than 1,000 test kits shipped to 120 domestic and 250 international laboratories in 140 countries since May 1, 2009. </p>
+<p> Timelineicon </p>
+<p> September 3 </p>
+<p> CDC published a study that analyzed data related to H1N1 influenza pediatric deaths reported to CDC from April to August 2009 in MMWR. Data showed 477 deaths with lab-confirmed 2009 H1N1 flu in the U.S. had been reported to CDC as of August 8, 2009. </p>
+<p> Timelineicon </p>
+<p> September 10 </p>
+<p> HHS secretary and CDC Director joined the National Foundation for Infectious Diseases (NFID) in a news conference to stress the importance of getting vaccinated for the upcoming influenza season. </p>
+<p> Timelineicon </p>
+<p> September 15 </p>
+<p> The FDA announced its approval of four 2009 H1N1 influenza vaccines. </p>
+<p> Timelineicon </p>
+<p> September 30 </p>
+<p> October </p>
+<p> October 5 </p>
+<p> First doses of H1N1 vaccine were given in the U.S. </p>
+<p> Timelineicon </p>
+<p> October 24 </p>
+<p> Influenza activity reached its highest level in the reporting week ending October 24, 2009, with 48 of 50 states reported widespread activity. </p>
+<p> Timelineicon </p>
+<p> Late October </p>
+<p> Second wave of H1N1 flu activity peaked in the U.S. </p>
+<p> Timelineicon </p>
+<p> November 12 </p>
+<p> CDC released its first estimates official estimates of 2009 H1N1 cases, hospitalization and deaths. </p>
+<p> Timelineicon </p>
+<p> November 16 </p>
+<p> FDA announced its approval of a fifth 2009 H1N1 vaccine. </p>
+<p> Timelineicon </p>
+<p> November 23 </p>
+<p> No school closures throughout United States; first time since 8/25/2009. </p>
+<p> Timelineicon </p>
+<p> December </p>
+<p> Results of trials conducted among adults were published in December, and the data indicated that the immune response among vaccinated adults was excellent. </p>
+<p> Timelineicon </p>
+<p> December 4 </p>
+<p> CDC published preliminary safety results for the 2009 H1N1 vaccines for the first months of reports received through the U.S. Vaccine Adverse Event Reporting System (VAERSexternal icon). </p>
+<p> Timelineicon </p>
+<p> December 18 </p>
+<p> First 100 million doses of 2009 H1N1 vaccine were available for ordering. </p>
+<p> Timelineicon </p>
+<p> Late December </p>
+<p> 2009 H1N1 vaccination had been opened up to anyone who wanted it. </p>
+<p> 2010 </p>
+<p> Timelineicon </p>
+<p> January </p>
+<p> Activity declined to levels below baseline, but persisted for several more months at lower levels. </p>
+<p> Timelineicon </p>
+<p> January 10-16 </p>
+<p> President of the United States proclaimed National Influenza Vaccination Week (NIVW) and encouraged all Americans to observe the week by getting vaccinated with the 2009 H1N1 flu vaccine. </p>
+<p> Timelineicon </p>
+<p> February </p>
+<p> FDA’s VRBPAC selected 2009 H1N1 virus for inclusion in 2010-2011 seasonal flu vaccine </p>
+<p> Timelineicon </p>
+<p> February 18 </p>
+<p> WHO published recommendations for the composition of influenza virus vaccines for the upcoming Northern Hemisphere influenza season. Components included a 2009 H1N1-like virus. </p>
+<p> Timelineicon </p>
+<p> April </p>
+<p> Between April 2009 and April 2010, CDC held 60 related media events – 39 press briefings and 22 telebriefings – reaching more than 35,000 participants. </p>
+<p> Timelineicon </p>
+<p> August 11 </p>
+<p> WHO announced the end of 2009 H1N1 influenza pandemic. </p>
+<p> Exit Notification/Disclaimer Policy </p>
+<p> Close </p>
+<p> Links with this icon indicate that you are leaving the CDC website. </p>
+<p> The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website. </p>
+<p> Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website. </p>
+<p> You will be subject to the destination website's privacy policy when you follow the link. </p>
+<p> CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website. </p>
+<p> For more information on CDC's web notification policies, see Website Disclaimers. </p>

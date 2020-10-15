@@ -1,0 +1,13 @@
+<doc url="https://www.economist.com/coronavirus-pandemic" parent_folder="web1" id="file17334763" filename="coronavirus-pandemic">
+<p> Our coverage of the coronavirus </p>
+<p> A selection of our stories about covid-19 and its consequences </p>
+<p> The novel coronavirus has infected millions and killed hundreds of thousands of people around the world since it first emerged in China last December. It has compelled many governments to lock down their populations to a degree unimaginable until recently. It is causing the most brutal recession in living memory. At The Economist, we are analysing every aspect of the pandemic—from the science to its political, economic and social consequences—with rigour and a global perspective. And we have invited thinkers outside the newspaper to share their views on the world after covid-19. Every piece we publish is fact-checked. To stay up to speed with our latest coverage, register to receive The Economist Today, our daily newsletter, listen to our podcasts or bookmark this page. </p>
+<p> America’s president said the end of the pandemic was in sight. Now he is the country’s most prominent case </p>
+<p> Low interest rates and changing preferences explain housing’s strength during the pandemic </p>
+<p> Data trackers </p>
+<p> In many parts of the world, official death tolls undercount the total number of fatalities </p>
+<p> Our podcast on the science and technology making the news. Also this week: what do scientists still need to understand about covid-19? And, what did Taiwan do differently? </p>
+<p> Monetary policy, fiscal measures and buyers’ preferences explain the unlikely boom </p>
+<p> Therapies and vaccines will come, but not for many months. Until then, politicians will have to work on the basics </p>
+<p> Despite their outrage early in the pandemic, many of its citizens now accept the party line </p>
+<p> The latest coronavirus is different from past ones, so requires a different response </p>

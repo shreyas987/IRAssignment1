@@ -1,0 +1,72 @@
+<doc url="https://health-infobase.canada.ca/covid-19/epidemiological-summary-covid-19-cases.html" parent_folder="web1" id="file17334749" filename="epidemiological-summary-covid-19-cases.html">
+<p> Current situation </p>
+<p> Figure 1. Types of statistics </p>
+<p> Hover over provinces and territories to see total cases, recovered cases, number of people tested or deaths in Canada over time. Click the play button to animate the map. </p>
+<p> The count of total cases of COVID-19 in Canada was 1,471 per 100,000 population as of . </p>
+<p> This information is based on data from our provincial and territorial partners. It is current as of . For the most up to date data for any province, territory or city, please visit their web site. </p>
+<p> ** No data is available for this day, and so the most recently available data is displayed. </p>
+<p> * Rate per 100,000 population </p>
+<p> † Rate per 1,000,000 population </p>
+<p> National overview </p>
+<p> Over {Num tested} people have been tested for COVID-19 in Canada. This corresponds to a test rate of {Rate tested} per 1 million people. Of all people tested, {Tested positive}% have been found to be positive. For more detailed information about trends in laboratory testing for COVID-19 in Canada, please see the Detailed weekly epidemiological report (PDF). </p>
+<p> Table 1. Daily* change in the number of cases, deaths and people tested, by location in Canada as of </p>
+<p> Location </p>
+<p> New cases </p>
+<p> New deaths </p>
+<p> Number of people tested </p>
+<p> * The new cases, deaths and tests reflect the net change between the current day and the previous reported day. Some provinces and territories do not provide daily updates. </p>
+<p> N/A indicates no daily update provided by province/territory. </p>
+<p> Tables and figures included below reflect only detailed case information data provided to the Public Health Agency of Canada by provincial/territorial health authorities. </p>
+<p> Epidemic curve </p>
+<p> Detailed case report data were provided on cases; episode date was available for (%) cases, and both exposure and episode date were available for (%) cases. </p>
+<p> The shaded area in Figure 2 represents a period of time (lag time) where it is expected that cases have occurred but have not yet been reported nationally. There is an approximate 1 to 2 week delay when a person becomes ill and when their information is reported to the Public Health Agency of Canada, as a result of the time required to seek healthcare, get tested and receive results. It also takes time for public health authorities to gather information on cases. Therefore, new information will be provided as it becomes available. </p>
+<p> Figure 2. COVID-19 cases (n=Footnote 1) in Canada by date of illness onsetFootnote 2 as of ( </p>
+<p> Figure 2. COVID-19 cases (n=Footnote 1) in Canada by date of illness onsetFootnote 2 as of (total cases) </p>
+<p> Figure 2. COVID-19 cases (n=Footnote 1) in Canada by date of illness onsetFootnote 2 as of (by exposure) </p>
+<p> Figure 2. COVID-19 cases (n=Footnote 1) in Canada by date of illness onsetFootnote 2 as of (by age - 10 year groups) </p>
+<p> Figure 2. COVID-19 cases (n=Footnote 1) in Canada by date of illness onsetFootnote 2 as of (by age - 20 year groups) </p>
+<p> Data note: The shaded area represents a period of time (lag time) where it is expected that cases have occurred but have not yet been reported nationally. </p>
+<p> Figure 2: Text description </p>
+<p> COVID-19 cases (n=Footnote 1*) in Canada by date of illness onsetFootnote 2 as of </p>
+<p> COVID-19 cases (n=Footnote 1*) in Canada by date of illness onsetFootnote 2 as of </p>
+<p> COVID-19 cases (n=Footnote 1*) in Canada by date of illness onsetFootnote 2 as of </p>
+<p> Demographics </p>
+<p> Detailed case report data were provided on 99,853 cases; age information was available for 155,813 (99.9%) cases, and both age and sex were available for 155,347 (99.6%) cases. </p>
+<p> Of the COVID-19 cases reported in Canada to date, approximately {Fraction (e.g "one third")} ({Percent Sex}) are {Sex}. Approximately {Fraction (e.g "one third")} ({Percent of Over 60}) of cases are 60 years old and over (Figure 3). </p>
+<p> domestic acquisition (defined as any exposure that occurred within Canada): {Spread} ({Percent spread}%) </p>
+<p> from contact with a COVID case: {Spread contact} ({Percent spread}%) </p>
+<p> from contact with a traveller: {Spread traveller} ({Percent spread}%) </p>
+<p> from an unknown source: {Spread unknown} ({Percent spread}%) </p>
+<p> currently unknown (information pending): {Unknown pending} ({Percent unknown pending}%) </p>
+<p> travelled outside of Canada: {Travelled} ({Percent travelled}%) </p>
+<p> Hospitalizations, intensive care unit (ICU) and deaths </p>
+<p> Detailed case report data were provided on 99,853 cases; hospitalization status information was available for 65,597 (xx%) of these cases: </p>
+<p> {Num Hospitalized} cases ({Percent Hospitalized}%) were hospitalized, of whom: </p>
+<p> {Num Intensive Care} ({Percent Intensive Care}%) were admitted to the ICU </p>
+<p> {Num Mechanical Ventilation} ({Percent Mechanical Ventilation}%) required mechanical ventilation </p>
+<p> Detailed case report forms have been received from provinces and territories for {Num Deaths} deaths related to COVID-19. </p>
+<p> Figure 4. Age and sexFootnote 3 distribution of COVID-19 cases </p>
+<p> Figure 4a. Age and sexFootnote 3 distribution of COVID-19 cases hospitalized in Canada as of (n=Footnote 1) </p>
+<p> Figure 4b. Age and sexFootnote 3 distribution of COVID-19 cases admitted to ICU in Canada as of (n=Footnote 1) </p>
+<p> Figure 4c. Age and sexFootnote 3 distribution of COVID-19 cases deceased in Canada as of (n=Footnote 1) </p>
+<p> Data note: Figure 4 includes COVID-19 cases hospitalized, admitted to ICU, and deceased for which age and sex information were available. Therefore, some COVID-19 hospitalizations, ICU admissions, and deaths may not be included in Figure 4. </p>
+<p> Figure 4: Text description </p>
+<p> Age and sexFootnote 3 distribution of COVID-19 cases hospitalized in Canada as of (n=Footnote 1) </p>
+<p> Number of cases with case reports (proportion) </p>
+<p> Number of male cases (proportion) </p>
+<p> Number of female cases (proportion) </p>
+<p> Age and sexFootnote 3 distribution of COVID-19 cases admitted to ICU in Canada as of (n=Footnote 1) </p>
+<p> Number of cases with case reports (proportion) </p>
+<p> Number of male cases (proportion) </p>
+<p> Number of female cases (proportion) </p>
+<p> Age and sexFootnote 3 distribution of COVID-19 cases deceased in Canada as of (n=Footnote 1) </p>
+<p> Number of cases with case reports (proportion) </p>
+<p> Number of male cases (proportion) </p>
+<p> Number of female cases (proportion) </p>
+<p> Provincial/territorial and international reporting </p>
+<p> For more information, please refer to provincial or territorial COVID-19 webpages: </p>
+<p> Footnotes </p>
+<p> Footnote 1 </p>
+<p> This figure is based on cases for which a case report form has been received by the Public Health Agency of Canada from provincial/territorial partners. </p>
+<p> If date of illness onset was not available, the earliest of the following dates was used as an estimate: Specimen Collection Date and Laboratory Testing Date. </p>
+<p> Provinces and territories may define sex differently and some may be referring to biological sex. </p>

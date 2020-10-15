@@ -1,0 +1,66 @@
+<doc url="https://www.outbreak.gov.au/current-responses-to-outbreaks/avian-influenza" parent_folder="web3" id="file17334865" filename="avian-influenza">
+<p> Avian influenza in Victoria </p>
+<p> Current situation </p>
+<p> The response to avian influenza in Victoria is continuing, with further farms now infected. </p>
+<p> As of 26 August 2020, there are three different strains of avian influenza across six infected farms in Victoria. </p>
+<p> There are three egg farms with highly pathogenic H7N7 avian influenza. </p>
+<p> Two turkey farms with low pathogenic H5N2 avian influenza. </p>
+<p> One emu farm diagnosed with low pathogenic H7N6 avian influenza. </p>
+<p> When avian influenza outbreaks occur in production birds, it is not unusual for more than one farm to become infected. However, it is unusual to see three strains, both highly pathogenic and low pathogenic, occur at the same time. </p>
+<p> Australia has previously had outbreaks of both low pathogenic and highly pathogenic avian influenza. These were all quickly and successfully eradicated. </p>
+<p> Response activities </p>
+<p> The two egg farms in the Lethbridge Restricted Area have been de-populated and disposal activities have been completed. Decontamination of these farms is underway. </p>
+<p> The third infected egg farm in the Lethbridge Restricted Area has been de-populated and is currently being de-contaminated. </p>
+<p> The two turkey farms with low pathogenic H5N2 avian influenza have been de-populated and disposal activities have been completed. Decontamination of these properties is in progress. </p>
+<p> Agriculture Victoria is continuing to investigate the disease situation on the emu farm. Sick birds on the property are being euthanised to support effective disease control and animal welfare. It is too early to make any further statements, however, scoping work, and consultation with the emu industry is underway. </p>
+<p> All on-farm activities are undertaken in accordance with the nationally agreed AUSVETPLAN. This plan guides the response activities so the best possible animal welfare outcomes, and the humane destruction of animals is achieved. The plan also provides for an effective and efficient response. </p>
+<p> Agriculture Victoria is sampling and testing sick or dead birds in the restricted and control areas to ensure any other cases of high pathogenic or low pathogenic avian influenza are quickly identified. </p>
+<p> Restrictions </p>
+<p> The Lethbridge Restricted Area has increased in size due to the location of the third egg farm which tested positive to H7N7. The Control Area remains unchanged and covers the Golden Plains Shire. </p>
+<p> The 1 km Restricted Area and a 2 km Control Area remains in place around the Bairnsdale turkey farm. </p>
+<p> A 2 km Restricted Area and a 5 km Control Area has been established around the emu farm near Kerang in northern Victoria. </p>
+<p> In a Restricted Area and Control Area, no birds, products or equipment can move into or out of the area without a permit. These movement controls apply to all of Golden Plains Shire, the specified areas near Bairnsdale and Kerang. </p>
+<p> The Housing Order has been extended until 11:59 pm on Monday, 19 October 2020 for all bird owners located in the Restricted Area of the Golden Plains Shire. </p>
+<p> For bird owners outside of the Restricted Area, the housing order will end on 11:59 pm on Saturday, 26 September 2020. Under the Housing O rder, all bird owners must house or keep their birds in an enclosure for a minimum of 30 days. This includes commercial free-range birds and practical measures for any birds kept in residential backyards. This order is for the purpose of disease control. </p>
+<p> Under the order, you must: </p>
+<p> put all reasonable measures in place so your birds are not in contact with wild birds. Place all feed and water sources under cover where wild birds cannot access them. </p>
+<p> use good hygiene practices. Clean and disinfect aviaries and housing, and keep them free of manure. Wash your hands thoroughly before and after handling your birds and eggs. </p>
+<p> report any sick or dead birds to Agriculture Victoria as a priority. This includes all domestic poultry or wild birds. To do this, call the Emergency Animal Disease Watch Hotline on 1800 675 888. </p>
+<p> The ACCC has agreed that no enforcement action will be taken against free-range poultry premises required to house their birds under the Government housing order. Egg producers are expected to adjust their labelling practices or use other means to let consumers know of the temporary changes to production, if possible. </p>
+<p> Note: the Control Order prohibiting the movement of poultry, birds, related equipment and products within and out of the Golden Plains Shire without a permit, remains in place across the shire. </p>
+<p> Human health </p>
+<p> Avian influenza virus is not a risk to the public as it rarely affects humans unless there is direct and close contact with sick birds. </p>
+<p> Eggs and chicken meat are safe to eat provided they are handled and cooked as per standard food handling practices. </p>
+<p> These outbreaks are in no way related to the current Covid-19 pandemic or avian influenza strains overseas that have gained attention. </p>
+<p> Avian influenza and wild birds </p>
+<p> It is not unusual for avian influenza to be detected in wild birds in Australia. On rare occasions there is virus spill over from the wild bird population into domestic poultry. </p>
+<p> Wild birds can carry differing types of avian influenza without showing symptoms. </p>
+<p> How to protect your birds from disease </p>
+<p> Regardless of whether you are a commercial producer or you only keep a few chickens in your backyard, you need biosecurity practices in place to protect your birds from disease. </p>
+<p> Restrict contact between your birds and wild birds. Contact with wild birds can be minimised by making the free range environment less attractive to them, for example, place feeders and water sources inside sheds, rather than in the open where wild birds will have easier access. Using fencing or netting for free-ranging birds, are other options. </p>
+<p> Poultry farmers should change into clean footwear before entering poultry houses or hen facilities, to stop the potential transfer of disease from outside. </p>
+<p> Keep poultry sheds, yards and aviaries clean, including equipment. Clean thoroughly with a detergent before applying a disinfectant. </p>
+<p> Quarantine new birds before introducing them to the resident flock. </p>
+<p> Limit visitors to your birds. Check if essential visitors have recently visited other premises where poultry is kept. </p>
+<p> If you attend bird shows, always practice good hygiene. </p>
+<p> Always wash your hands before and after handling birds and eggs. </p>
+<p> Poultry and egg industry resources </p>
+<p> Best practice farm hygiene and biosecurity practices are adopted in the Australian poultry industry and are standard practice. National biosecurity manuals outline these measures and are available at farmbiosecurity.com.au </p>
+<p> Pre-emptive culling of wild birds is not an appropriate response to these incidents, as it is not known to have any impact on the spread of the disease. </p>
+<p> Report sick and dead birds </p>
+<p> If you notice a number of sick or dead birds (domestic or wild), contact the national Emergency Animal Disease Watch Hotline on 1800 675 888. </p>
+<p> About Avian influenza </p>
+<p> AI is a serious disease of poultry and occurs worldwide. </p>
+<p> AI virus strains are usually classified into two categories according to the severity of disease in poultry. Highly pathogenic strains can cause severe clinical signs and potentially high death rates among poultry. Low pathogenic strains typically cause few or reduced clinical signs in comparison. Chickens, ducks, geese, turkeys, guinea fowl, quail, pheasants, emus and ostriches are included in the more than 140 species that are susceptible to AI. Many species of wild birds, including waterfowl and seabirds can also carry the virus. </p>
+<p> The virus is mostly spread by wild birds, particularly ducks, contaminating food or water supplies. For this reason, the disease remains a constant biosecurity threat. </p>
+<p> Avian influenza can also spread by the movement of eggs, birds, people, vehicles and equipment between farms, and by clothing, footwear, aerosols, water, feed, litter, biting insects and vermin. </p>
+<p> Trade/exports </p>
+<p> There has been some disruption in trade to a number of countries that require certification that Australia or Victoria are free from avian influenza. </p>
+<p> Due to this incident, the Australian Government is currently unable to certify exports to some countries for: </p>
+<p> poultry products </p>
+<p> eggs </p>
+<p> animal reproductive material, and </p>
+<p> When a country is notified of a change to the animal health status of an exporting country, the importing country may seek further information regarding management activities and choose to put temporary trade suspensions or restrictions in place while they assess this information. </p>
+<p> It is possible that trade to these countries can continue during this period or resume after the temporary suspension. </p>
+<p> The Department of Agriculture, Water and the Environment is working closely with industry, relevant trading partners and the Department of Foreign Affairs and Trade to restore trade access to these affected markets as soon as possible. </p>
+<p> Exporters requiring further information should contact a regional office of the Department of Agriculture, Water and the Environment. </p>

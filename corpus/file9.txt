@@ -1,0 +1,20 @@
+<doc url="https://www.cnet.com/coronavirus/" parent_folder="web1" id="file17334728" filename="coronavirus">
+<p> COVID-19 </p>
+<p> Donald Trump and Melania Trump both test positive for COVID-19 </p>
+<p> Following an aide's diagnosis, the president and the first lady also test positive and are now in quarantine. </p>
+<p> Amazon says nearly 20,000 US employees have contracted COVID-19 </p>
+<p> Employees and state officials had been asking for this information months earlier. </p>
+<p> New Heroes Act passes the House. What now? </p>
+<p> Against the backdrop of ongoing stimulus check negotiations, the House of Representatives approves a scaled-back bill. </p>
+<p> Tools to Help </p>
+<p> 13 stay-at-home essentials for under $20 </p>
+<p> From kitchen accessories to tech gadgets to fitness gear, here are the tools to help you survive an extended shelter-at-home order. </p>
+<p> The gear you need to work from home </p>
+<p> Whether you're hiding out from the coronavirus or work remotely full-time, here's what you need to stay comfortable and productive. </p>
+<p> The best meal kit delivery services </p>
+<p> Where to buy household goods when the usuals are out of stock </p>
+<p> Here's how you can find work-from-home gear, fitness equipment, health care products and more for delivery. </p>
+<p> The best free stuff while you're stuck at home </p>
+<p> Here are the free games, movies, ebooks, video tools and more to help you survive self-quarantine. </p>
+<p> A message from the CNET team </p>
+<p> We hope you're safe and healthy. While the coronavirus is causing fear and economic uncertainty, we want you to know we're focused on offering honest advice, fact-based news and stories that help you understand what's going on. We're also bringing you the stories, features, how-tos, best lists and buying guides that may help you pass time and make each day a little easier. Let us know if there's anything you'd like to learn more about; we're standing by. In the meantime, keep calm -- and wash your hands. Often. </p>
